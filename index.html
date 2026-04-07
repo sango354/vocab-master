@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="zh-TW">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+  <title>VocabMaster</title>
+  <link rel="manifest" href="manifest.json">
+  <link rel="stylesheet" href="style.css">
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;800&display=swap" rel="stylesheet">
+  <meta name="theme-color" content="#1a1a2e">
+</head>
+<body>
+  <div class="app-container">
+    
+    <!-- 題庫選擇主選單 -->
+    <section id="menu-container" class="menu-container">
+      <div class="menu-header">
+        <h1 class="app-title">VocabMaster</h1>
+        <p class="app-subtitle">Select your mission</p>
+      </div>
+      <div class="menu-grid">
+        <button class="menu-card" data-bank="toeic">
+          <div class="menu-icon">💼</div>
+          <h2>多益常用</h2>
+          <p>商務職場必備單字</p>
+        </button>
+        <button class="menu-card" data-bank="school7000">
+          <div class="menu-icon">🎓</div>
+          <h2>國高中 7000</h2>
+          <p>高中進階與大考字彙</p>
+        </button>
+        <button class="menu-card" data-bank="dailyLife">
+          <div class="menu-icon">☕</div>
+          <h2>生活用語</h2>
+          <p>出國旅遊與日常生活</p>
+        </button>
+      </div>
+    </section>
+
+    <!-- 測驗區域 -->
+    <header class="header hidden" id="quiz-header">
+      <button id="btn-back" class="text-btn">◀ 首頁</button>
+      <div class="progress-bar-container">
+        <div class="progress-bar" id="progress-bar"></div>
+      </div>
+      <div class="progress-text">剩餘: <span id="remaining-count">10</span></div>
+    </header>
+
+    <main class="quiz-container hidden" id="quiz-container">
+      <div class="glass-card">
+        <div class="word-section">
+          <h1 id="target-word" class="word">...</h1>
+          <p id="phonetic" class="phonetic">...</p>
+          <button id="btn-speak" class="icon-btn" aria-label="Pronounce">
+            🔊
+          </button>
+        </div>
+        <div class="options-grid" id="options-container">
+          <!-- Options will be injected here -->
+        </div>
+      </div>
+    </main>
+
+    <div id="feedback-overlay" class="overlay hidden">
+      <div class="feedback-content" id="feedback-text">Correct!</div>
+    </div>
+
+    <!-- 過關結算畫面 -->
+    <div id="level-complete-overlay" class="overlay hidden">
+      <div class="level-complete-content glass-card" style="text-align: center; gap: 15px; padding: 40px; margin: 20px;">
+        <h2 style="font-size: 2.5rem; margin-bottom: 10px;">🎉 闖關成功!</h2>
+        <p style="color: var(--text-secondary); margin-bottom: 30px;">全部單字已經被你掌握了</p>
+        <button id="btn-level-back" class="option-btn" style="text-align: center; font-weight: bold; background: var(--accent-color);">回到首頁</button>
+      </div>
+    </div>
+
+  </div>
+  <script src="data.js"></script>
+  <script src="app.js"></script>
+  <script>
+    if ('serviceWorker' in navigator) {
+      navigator.serviceWorker.register('sw.js')
+        .then(() => console.log('Service Worker Registered'));
+    }
+  </script>
+</body>
+</html>
