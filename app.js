@@ -109,7 +109,14 @@ function updateBankCardText() {
   Object.entries(bankCatalog).forEach(([bankKey, bankMeta]) => {
     const titleEl = document.getElementById(`bank-title-${bankKey}`);
     const descEl = document.getElementById(`bank-desc-${bankKey}`);
-    if (titleEl) titleEl.textContent = bankMeta.label;
+    if (titleEl) {
+      const titleTextEl = titleEl.querySelector("span:last-child");
+      if (titleTextEl) {
+        titleTextEl.textContent = bankMeta.label;
+      } else {
+        titleEl.textContent = bankMeta.label;
+      }
+    }
     if (descEl) descEl.textContent = bankMeta.description;
   });
 

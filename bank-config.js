@@ -1,4 +1,4 @@
-const APP_VERSION = "v4.2.3";
+const APP_VERSION = "v4.2.4";
 
 const distractorBank = {
   "n.": [
