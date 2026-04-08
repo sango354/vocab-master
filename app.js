@@ -23,20 +23,30 @@ const statsFootnoteEl = document.getElementById("stats-footnote");
 const btnResetProgress = document.getElementById("btn-reset-progress");
 const appVersionEl = document.getElementById("app-version");
 
-let sessionQueue = [];
 let totalSessionWords = 0;
+let answeredCount = 0;
 let currentWord = null;
 let currentBankKey = null;
 let isAnimating = false;
 let userMemory = {};
 let sessionStats = createEmptySessionStats();
 const loadedBanks = {};
+let sessionBank = [];
+let sessionWordMeta = {};
 let isLoadingBank = false;
 let storageReady = false;
 
 const MAX_SESSION_WORDS = 10;
 const MASTERED_SCORE = 4;
 const REVIEW_SCORE = 0;
+const ROUND_SIZE = 4;
+const RETRY_DELAY_ROUNDS = 1;
+const REPEAT_COOLDOWN_ROUNDS = 2;
+const POOL_WEIGHTS = {
+  new: 70,
+  learning: 20,
+  review: 10
+};
 
 function createEmptySessionStats() {
   return {
@@ -270,10 +280,113 @@ async function resetProgress() {
 }
 
 function updateProgressUI() {
-  remainingCountEl.textContent = sessionQueue.length;
-  const completed = totalSessionWords - sessionQueue.length;
+  const remaining = Math.max(totalSessionWords - answeredCount, 0);
+  remainingCountEl.textContent = remaining;
+  const completed = answeredCount;
   const percentage = totalSessionWords === 0 ? 0 : (completed / totalSessionWords) * 100;
   progressBar.style.width = `${percentage}%`;
+}
+
+function getCurrentRound() {
+  return Math.floor(answeredCount / ROUND_SIZE) + 1;
+}
+
+function getWordMeta(word) {
+  if (!sessionWordMeta[word]) {
+    sessionWordMeta[word] = {
+      seenInSession: 0,
+      lastRoundAsked: 0,
+      retryRound: 0
+    };
+  }
+  return sessionWordMeta[word];
+}
+
+function classifyEntryPool(entry, meta, memoryEntry) {
+  if (memoryEntry.seen === 0 || (memoryEntry.seen <= 1 && meta.seenInSession === 0)) {
+    return "new";
+  }
+  if (memoryEntry.score < MASTERED_SCORE) {
+    return "learning";
+  }
+  return "review";
+}
+
+function pickByUrgency(pool) {
+  if (pool.length === 0) return null;
+  const sorted = [...pool].sort((a, b) => getLearningUrgency(a) - getLearningUrgency(b));
+  const candidateWindow = sorted.slice(0, Math.min(12, sorted.length));
+  return candidateWindow[Math.floor(Math.random() * candidateWindow.length)];
+}
+
+function pickWeightedPool(availablePools) {
+  const weights = availablePools.map(poolName => POOL_WEIGHTS[poolName] || 0);
+  const total = weights.reduce((sum, value) => sum + value, 0);
+  if (total <= 0) return availablePools[0];
+
+  let roll = Math.random() * total;
+  for (let i = 0; i < availablePools.length; i += 1) {
+    roll -= weights[i];
+    if (roll <= 0) {
+      return availablePools[i];
+    }
+  }
+  return availablePools[availablePools.length - 1];
+}
+
+function pickNextWord() {
+  if (sessionBank.length === 0) return null;
+
+  const round = getCurrentRound();
+  const blockedByRule = [];
+  const eligible = sessionBank.filter(entry => {
+    if (currentWord && entry.word === currentWord.word) {
+      return false;
+    }
+
+    const meta = getWordMeta(entry.word);
+    const blockedByCooldown = meta.lastRoundAsked > 0 && (round - meta.lastRoundAsked) < REPEAT_COOLDOWN_ROUNDS;
+    const blockedByRetryDelay = meta.retryRound > 0 && round < meta.retryRound;
+
+    if (blockedByCooldown || blockedByRetryDelay) {
+      blockedByRule.push(entry);
+      return false;
+    }
+    return true;
+  });
+
+  const candidateSet = eligible.length > 0 ? eligible : blockedByRule;
+  if (candidateSet.length === 0) return null;
+
+  const retryReady = candidateSet.filter(entry => {
+    const meta = getWordMeta(entry.word);
+    return meta.retryRound > 0 && round >= meta.retryRound;
+  });
+
+  if (retryReady.length > 0 && Math.random() < 0.6) {
+    return pickByUrgency(retryReady);
+  }
+
+  const pools = {
+    new: [],
+    learning: [],
+    review: []
+  };
+
+  candidateSet.forEach(entry => {
+    const meta = getWordMeta(entry.word);
+    const memoryEntry = ensureWordMemory(entry.word);
+    const pool = classifyEntryPool(entry, meta, memoryEntry);
+    pools[pool].push(entry);
+  });
+
+  const availablePools = Object.keys(pools).filter(poolName => pools[poolName].length > 0);
+  if (availablePools.length === 0) {
+    return pickByUrgency(candidateSet);
+  }
+
+  const selectedPool = pickWeightedPool(availablePools);
+  return pickByUrgency(pools[selectedPool]);
 }
 
 function shuffle(array) {
@@ -385,15 +498,16 @@ async function initSession(bankKey) {
   currentBankKey = bankKey;
   sessionStats = createEmptySessionStats();
   sessionStats.bankKey = bankKey;
+  answeredCount = 0;
+  currentWord = null;
+  sessionWordMeta = {};
 
   try {
     setLoadingState(true, bankKey);
 
     const bank = await loadBank(bankKey);
-    const sortedBank = [...bank].sort((a, b) => getLearningUrgency(a) - getLearningUrgency(b));
-
-    sessionQueue = sortedBank.slice(0, Math.min(MAX_SESSION_WORDS, sortedBank.length));
-    totalSessionWords = sessionQueue.length;
+    sessionBank = [...bank].sort((a, b) => getLearningUrgency(a) - getLearningUrgency(b));
+    totalSessionWords = Math.min(MAX_SESSION_WORDS, sessionBank.length);
     sessionStats.totalWords = totalSessionWords;
 
     menuContainer.classList.add("hidden");
@@ -416,7 +530,7 @@ async function initSession(bankKey) {
 }
 
 function nextQuestion() {
-  if (sessionQueue.length === 0) {
+  if (answeredCount >= totalSessionWords) {
     updateProgressUI();
     progressBar.style.width = "100%";
     renderSessionSummary();
@@ -432,7 +546,18 @@ function nextQuestion() {
   void glassCard.offsetWidth;
   glassCard.style.animation = "slideIn 0.4s ease-out";
 
-  currentWord = sessionQueue[0];
+  currentWord = pickNextWord();
+  if (!currentWord) {
+    answeredCount = totalSessionWords;
+    updateProgressUI();
+    progressBar.style.width = "100%";
+    renderSessionSummary();
+    setTimeout(() => {
+      levelCompleteOverlay.classList.remove("hidden");
+      levelCompleteOverlay.classList.add("show");
+    }, 500);
+    return;
+  }
   const currentBank = loadedBanks[currentBankKey] || [];
 
   wordEl.textContent = currentWord.displayWord || currentWord.word;
@@ -501,19 +626,26 @@ function handleOptionClick(btn, isCorrect) {
   isAnimating = true;
 
   speakWord();
+  const roundForThisQuestion = getCurrentRound();
   sessionStats.attempts += 1;
 
   const allBtns = optionsContainer.querySelectorAll(".option-btn");
+  const meta = getWordMeta(currentWord.word);
+
+  if (meta.seenInSession > 0) {
+    sessionStats.retriedWords.add(currentWord.displayWord || currentWord.word);
+  }
+  meta.seenInSession += 1;
+  meta.lastRoundAsked = roundForThisQuestion;
 
   if (isCorrect) {
     sessionStats.correct += 1;
     btn.classList.add("correct");
     showFeedback(true);
     applyAnswerToMemory(currentWord, true);
-    sessionQueue.shift();
+    meta.retryRound = 0;
   } else {
     sessionStats.wrong += 1;
-    sessionStats.retriedWords.add(currentWord.displayWord || currentWord.word);
     btn.classList.add("wrong");
 
     allBtns.forEach(optionBtn => {
@@ -525,10 +657,10 @@ function handleOptionClick(btn, isCorrect) {
 
     showFeedback(false);
     applyAnswerToMemory(currentWord, false);
-
-    const failedWord = sessionQueue.shift();
-    sessionQueue.push(failedWord);
+    meta.retryRound = roundForThisQuestion + RETRY_DELAY_ROUNDS;
   }
+
+  answeredCount += 1;
 
   allBtns.forEach(optionBtn => {
     optionBtn.disabled = true;
