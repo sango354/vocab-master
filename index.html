@@ -2,10 +2,11 @@
 <html lang="zh-TW">
 <head>
   <meta charset="UTF-8">
+  <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
   <title>VocabMaster</title>
   <link rel="manifest" href="manifest.json">
-  <link rel="stylesheet" href="style.css">
+  <link rel="stylesheet" href="style.css?v=4.2.1">
   <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;800&display=swap" rel="stylesheet">
   <meta name="theme-color" content="#1a1a2e">
 </head>
@@ -14,25 +15,25 @@
     <section id="menu-container" class="menu-container">
       <div class="menu-header">
         <h1 class="app-title">VocabMaster</h1>
-        <p class="app-subtitle">選擇今天的練習題庫</p>
-        <p class="app-version" id="app-version">版本載入中</p>
+        <p class="app-subtitle">Vocabulary practice</p>
+        <p class="app-version" id="app-version">Version</p>
       </div>
 
       <div class="menu-grid">
         <button class="menu-card" data-bank="toeic">
           <div class="menu-icon">B</div>
-          <h2 id="bank-title-toeic">TOEIC 商務字彙</h2>
-          <p id="bank-desc-toeic">職場、會議、客服、物流與商務情境練習。</p>
+          <h2 id="bank-title-toeic">TOEIC</h2>
+          <p id="bank-desc-toeic">Business and workplace vocabulary practice.</p>
         </button>
         <button class="menu-card" data-bank="school7000">
           <div class="menu-icon">A</div>
-          <h2 id="bank-title-school7000">高中 7000 字</h2>
-          <p id="bank-desc-school7000">閱讀、寫作與學科常見核心英文詞彙。</p>
+          <h2 id="bank-title-school7000">School 7000</h2>
+          <p id="bank-desc-school7000">Academic and reading vocabulary practice.</p>
         </button>
         <button class="menu-card" data-bank="dailyLife">
           <div class="menu-icon">L</div>
-          <h2 id="bank-title-dailyLife">日常生活字彙</h2>
-          <p id="bank-desc-dailyLife">購物、交通、居家、健康與社交常用字。</p>
+          <h2 id="bank-title-dailyLife">Daily Life</h2>
+          <p id="bank-desc-dailyLife">Everyday words for home, travel, and routines.</p>
         </button>
       </div>
 
@@ -40,38 +41,38 @@
         <div class="stats-panel-header">
           <div>
             <p class="stats-kicker">Learning Snapshot</p>
-            <h2 id="stats-title">學習進度總覽</h2>
+            <h2 id="stats-title">Progress</h2>
           </div>
-          <button id="btn-reset-progress" class="text-btn" type="button">重設進度</button>
+          <button id="btn-reset-progress" class="text-btn" type="button">Reset</button>
         </div>
         <div class="stats-grid">
           <div class="stat-item">
-            <span class="stat-label">已學單字</span>
+            <span class="stat-label">Studied</span>
             <strong class="stat-value" id="stat-studied">0</strong>
           </div>
           <div class="stat-item">
-            <span class="stat-label">總正答率</span>
+            <span class="stat-label">Accuracy</span>
             <strong class="stat-value" id="stat-accuracy">0%</strong>
           </div>
           <div class="stat-item">
-            <span class="stat-label">已掌握</span>
+            <span class="stat-label">Mastered</span>
             <strong class="stat-value" id="stat-mastered">0</strong>
           </div>
           <div class="stat-item">
-            <span class="stat-label">待複習</span>
+            <span class="stat-label">Review</span>
             <strong class="stat-value" id="stat-review">0</strong>
           </div>
         </div>
-        <p class="stats-footnote" id="stats-footnote">開始任一題庫後，這裡會顯示你最需要加強的單字。</p>
+        <p class="stats-footnote" id="stats-footnote">Your focus words will appear here after you start practicing.</p>
       </section>
     </section>
 
     <header class="header hidden" id="quiz-header">
-      <button id="btn-back" class="text-btn">返回首頁</button>
+      <button id="btn-back" class="text-btn">Back</button>
       <div class="progress-bar-container">
         <div class="progress-bar" id="progress-bar"></div>
       </div>
-      <div class="progress-text">剩餘: <span id="remaining-count">10</span></div>
+      <div class="progress-text">Left: <span id="remaining-count">10</span></div>
     </header>
 
     <main class="quiz-container hidden" id="quiz-container">
@@ -91,18 +92,18 @@
 
     <div id="level-complete-overlay" class="overlay hidden">
       <div class="level-complete-content glass-card" style="text-align: center; gap: 15px; padding: 40px; margin: 20px;">
-        <h2 style="font-size: 2.5rem; margin-bottom: 10px;">本輪完成</h2>
-        <p id="level-summary-text" style="color: var(--text-secondary); margin-bottom: 10px;">這一輪的答題摘要會顯示在這裡。</p>
+        <h2 style="font-size: 2.5rem; margin-bottom: 10px;">Complete</h2>
+        <p id="level-summary-text" style="color: var(--text-secondary); margin-bottom: 10px;">Session summary</p>
         <div id="session-summary" class="session-summary"></div>
-        <button id="btn-level-back" class="option-btn" style="text-align: center; font-weight: bold; background: var(--accent-color);">回到首頁</button>
+        <button id="btn-level-back" class="option-btn" style="text-align: center; font-weight: bold; background: var(--accent-color);">Back Home</button>
       </div>
     </div>
   </div>
 
-  <script src="bank-config.js"></script>
-  <script src="mean-zh.js"></script>
-  <script src="db.js"></script>
-  <script src="app.js"></script>
+  <script src="bank-config.js?v=4.2.1"></script>
+  <script src="mean-zh.js?v=4.2.1"></script>
+  <script src="db.js?v=4.2.1"></script>
+  <script src="app.js?v=4.2.1"></script>
   <script>
     if ("serviceWorker" in navigator) {
       let isRefreshing = false;
@@ -114,7 +115,7 @@
       });
 
       window.addEventListener("load", async () => {
-        const registration = await navigator.serviceWorker.register("sw.js");
+        const registration = await navigator.serviceWorker.register("sw.js?v=4.2.1");
         await registration.update();
 
         if (registration.waiting) {

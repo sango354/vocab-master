@@ -114,7 +114,7 @@ function updateBankCardText() {
   });
 
   if (appVersionEl) {
-    appVersionEl.textContent = `版本 ${APP_VERSION}`;
+    appVersionEl.textContent = `Version ${APP_VERSION}`;
   }
 }
 
@@ -182,7 +182,7 @@ function getLearningUrgency(wordObj) {
 
 function getBankMeta(bankKey) {
   return bankCatalog[bankKey] || {
-    label: "未知題庫",
+    label: "Unknown",
     path: null,
     version: 1
   };
@@ -225,16 +225,16 @@ function renderStatsPanel() {
   const focusWords = getFocusWords();
   if (focusWords.length === 0) {
     statsFootnoteEl.textContent = storageReady
-      ? "開始任一題庫後，這裡會顯示你最需要加強的單字。"
-      : "正在初始化資料庫...";
+      ? "Your focus words will appear here after you start practicing."
+      : "Initializing local database...";
     return;
   }
 
-  statsFootnoteEl.textContent = `目前最需要複習: ${focusWords.join("、")}`;
+  statsFootnoteEl.textContent = `Focus: ${focusWords.join(", ")}`;
 }
 
 async function resetProgress() {
-  const shouldReset = window.confirm("要清除目前的學習進度嗎？這個動作無法復原。");
+  const shouldReset = window.confirm("Reset your learning progress? This cannot be undone.");
   if (!shouldReset) return;
 
   userMemory = {};
@@ -357,7 +357,7 @@ function setLoadingState(isLoading, bankKey = null) {
   });
 
   if (isLoading && bankKey) {
-    statsFootnoteEl.textContent = `正在載入 ${getBankMeta(bankKey).label}...`;
+    statsFootnoteEl.textContent = `Loading ${getBankMeta(bankKey).label}...`;
   } else {
     renderStatsPanel();
   }
@@ -391,7 +391,7 @@ async function initSession(bankKey) {
     nextQuestion();
   } catch (error) {
     console.error(error);
-    window.alert("題庫載入失敗，請確認目前是透過網站或本機伺服器開啟，而不是直接用 file:// 開啟檔案。");
+    window.alert("Bank loading failed. Please open the site through GitHub Pages or a local server.");
     setLoadingState(false, bankKey);
     return;
   }
@@ -399,7 +399,7 @@ async function initSession(bankKey) {
   setLoadingState(false, bankKey);
 }
 
-async function nextQuestion() {
+function nextQuestion() {
   if (sessionQueue.length === 0) {
     updateProgressUI();
     progressBar.style.width = "100%";
@@ -425,7 +425,7 @@ async function nextQuestion() {
   const distractors = getRandomDistractors(3, currentWord, currentBank);
   const options = shuffle([
     ...distractors,
-    { value: currentWord.mean, label: getMeaningLabel(currentWord.mean, currentWord), entry: currentWord }
+    { value: currentWord.mean, label: getMeaningLabel(currentWord.mean, currentWord) }
   ]).slice(0, 4);
 
   optionsContainer.innerHTML = "";
@@ -530,7 +530,7 @@ function renderSessionSummary() {
     ? 0
     : Math.round((sessionStats.correct / sessionStats.attempts) * 100);
 
-  levelSummaryText.textContent = `${getBankMeta(sessionStats.bankKey).label} 本輪完成，正答率 ${accuracy}%。`;
+  levelSummaryText.textContent = `${getBankMeta(sessionStats.bankKey).label} complete. Accuracy ${accuracy}%.`;
 
   const reviewList = Array.from(sessionStats.reviewWords).slice(0, 3);
   const masteredCount = sessionStats.masteredThisSession.size;
@@ -538,25 +538,25 @@ function renderSessionSummary() {
 
   sessionSummary.innerHTML = `
     <div class="summary-chip">
-      <span>答對</span>
+      <span>Correct</span>
       <strong>${sessionStats.correct}</strong>
     </div>
     <div class="summary-chip">
-      <span>答錯</span>
+      <span>Wrong</span>
       <strong>${sessionStats.wrong}</strong>
     </div>
     <div class="summary-chip">
-      <span>重練單字</span>
+      <span>Retried</span>
       <strong>${retriedCount}</strong>
     </div>
     <div class="summary-chip">
-      <span>本輪掌握</span>
+      <span>Mastered</span>
       <strong>${masteredCount}</strong>
     </div>
     <p class="session-summary-note">${
       reviewList.length > 0
-        ? `建議優先複習: ${reviewList.join("、")}`
-        : "這一輪沒有特別需要立刻回頭補強的單字。"
+        ? `Review next: ${reviewList.join(", ")}`
+        : "No urgent review words from this session."
     }</p>
   `;
 
@@ -568,10 +568,10 @@ function showFeedback(isCorrect) {
   overlay.classList.add("show");
 
   if (isCorrect) {
-    feedbackText.textContent = "答對";
+    feedbackText.textContent = "CORRECT";
     feedbackText.className = "feedback-content feedback-correct";
   } else {
-    feedbackText.textContent = "答錯";
+    feedbackText.textContent = "WRONG";
     feedbackText.className = "feedback-content feedback-wrong";
   }
 }
@@ -594,7 +594,7 @@ async function bootstrapApp() {
     setLoadingState(false);
   } catch (error) {
     console.error("Failed to initialize IndexedDB:", error);
-    statsFootnoteEl.textContent = "資料庫初始化失敗，請重新整理頁面後再試一次。";
+    statsFootnoteEl.textContent = "Failed to initialize local database.";
   }
 }
 
