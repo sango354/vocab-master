@@ -114,8 +114,23 @@ function updateBankCardText() {
   });
 
   if (appVersionEl) {
-    appVersionEl.textContent = `Version ${APP_VERSION}`;
+    appVersionEl.textContent = `\u7248\u672c ${APP_VERSION}`;
   }
+
+  document.querySelector(".app-subtitle").textContent = "\u9078\u64c7\u4eca\u5929\u7684\u7df4\u7fd2\u984c\u5eab";
+  document.getElementById("stats-title").textContent = "\u5b78\u7fd2\u9032\u5ea6\u7e3d\u89bd";
+  document.getElementById("btn-reset-progress").textContent = "\u91cd\u8a2d\u9032\u5ea6";
+  document.querySelector("[for='remaining-count']");
+  btnBack.textContent = "\u8fd4\u56de\u9996\u9801";
+  document.querySelector(".progress-text").childNodes[0].textContent = "\u5269\u9918: ";
+  btnLevelBack.textContent = "\u56de\u5230\u9996\u9801";
+  levelCompleteOverlay.querySelector("h2").textContent = "\u672c\u8f2a\u5b8c\u6210";
+
+  const labels = document.querySelectorAll(".stat-label");
+  if (labels[0]) labels[0].textContent = "\u5df2\u5b78\u55ae\u5b57";
+  if (labels[1]) labels[1].textContent = "\u7e3d\u6b63\u7b54\u7387";
+  if (labels[2]) labels[2].textContent = "\u5df2\u638c\u63e1";
+  if (labels[3]) labels[3].textContent = "\u5f85\u8907\u7fd2";
 }
 
 async function loadMemory() {
@@ -182,7 +197,7 @@ function getLearningUrgency(wordObj) {
 
 function getBankMeta(bankKey) {
   return bankCatalog[bankKey] || {
-    label: "Unknown",
+    label: "\u672a\u77e5\u984c\u5eab",
     path: null,
     version: 1
   };
@@ -225,16 +240,16 @@ function renderStatsPanel() {
   const focusWords = getFocusWords();
   if (focusWords.length === 0) {
     statsFootnoteEl.textContent = storageReady
-      ? "Your focus words will appear here after you start practicing."
-      : "Initializing local database...";
+      ? "\u958b\u59cb\u4efb\u4e00\u984c\u5eab\u5f8c\uff0c\u9019\u88e1\u6703\u986f\u793a\u4f60\u6700\u9700\u8981\u52a0\u5f37\u7684\u55ae\u5b57\u3002"
+      : "\u6b63\u5728\u521d\u59cb\u5316\u672c\u6a5f\u8cc7\u6599\u5eab...";
     return;
   }
 
-  statsFootnoteEl.textContent = `Focus: ${focusWords.join(", ")}`;
+  statsFootnoteEl.textContent = `\u76ee\u524d\u6700\u9700\u8981\u8907\u7fd2: ${focusWords.join("\u3001")}`;
 }
 
 async function resetProgress() {
-  const shouldReset = window.confirm("Reset your learning progress? This cannot be undone.");
+  const shouldReset = window.confirm("\u78ba\u5b9a\u8981\u91cd\u8a2d\u5b78\u7fd2\u9032\u5ea6\u55ce\uff1f\u9019\u500b\u52d5\u4f5c\u7121\u6cd5\u5fa9\u539f\u3002");
   if (!shouldReset) return;
 
   userMemory = {};
@@ -357,7 +372,7 @@ function setLoadingState(isLoading, bankKey = null) {
   });
 
   if (isLoading && bankKey) {
-    statsFootnoteEl.textContent = `Loading ${getBankMeta(bankKey).label}...`;
+    statsFootnoteEl.textContent = `\u6b63\u5728\u8f09\u5165 ${getBankMeta(bankKey).label}...`;
   } else {
     renderStatsPanel();
   }
@@ -391,7 +406,7 @@ async function initSession(bankKey) {
     nextQuestion();
   } catch (error) {
     console.error(error);
-    window.alert("Bank loading failed. Please open the site through GitHub Pages or a local server.");
+    window.alert("\u984c\u5eab\u8f09\u5165\u5931\u6557\uff0c\u8acb\u900f\u904e GitHub Pages \u6216\u672c\u6a5f\u4f3a\u670d\u5668\u958b\u555f\u7db2\u7ad9\u3002");
     setLoadingState(false, bankKey);
     return;
   }
@@ -530,7 +545,7 @@ function renderSessionSummary() {
     ? 0
     : Math.round((sessionStats.correct / sessionStats.attempts) * 100);
 
-  levelSummaryText.textContent = `${getBankMeta(sessionStats.bankKey).label} complete. Accuracy ${accuracy}%.`;
+  levelSummaryText.textContent = `${getBankMeta(sessionStats.bankKey).label} \u672c\u8f2a\u5b8c\u6210\uff0c\u6b63\u7b54\u7387 ${accuracy}%\u3002`;
 
   const reviewList = Array.from(sessionStats.reviewWords).slice(0, 3);
   const masteredCount = sessionStats.masteredThisSession.size;
@@ -538,25 +553,25 @@ function renderSessionSummary() {
 
   sessionSummary.innerHTML = `
     <div class="summary-chip">
-      <span>Correct</span>
+      <span>\u7b54\u5c0d</span>
       <strong>${sessionStats.correct}</strong>
     </div>
     <div class="summary-chip">
-      <span>Wrong</span>
+      <span>\u7b54\u932f</span>
       <strong>${sessionStats.wrong}</strong>
     </div>
     <div class="summary-chip">
-      <span>Retried</span>
+      <span>\u91cd\u7df4</span>
       <strong>${retriedCount}</strong>
     </div>
     <div class="summary-chip">
-      <span>Mastered</span>
+      <span>\u638c\u63e1</span>
       <strong>${masteredCount}</strong>
     </div>
     <p class="session-summary-note">${
       reviewList.length > 0
-        ? `Review next: ${reviewList.join(", ")}`
-        : "No urgent review words from this session."
+        ? `\u5efa\u8b70\u4e0b\u6b21\u5148\u8907\u7fd2: ${reviewList.join("\u3001")}`
+        : "\u9019\u4e00\u8f2a\u6c92\u6709\u7279\u5225\u9700\u8981\u7acb\u5373\u56de\u982d\u8907\u7fd2\u7684\u55ae\u5b57\u3002"
     }</p>
   `;
 
@@ -568,10 +583,10 @@ function showFeedback(isCorrect) {
   overlay.classList.add("show");
 
   if (isCorrect) {
-    feedbackText.textContent = "CORRECT";
+    feedbackText.textContent = "\u7b54\u5c0d";
     feedbackText.className = "feedback-content feedback-correct";
   } else {
-    feedbackText.textContent = "WRONG";
+    feedbackText.textContent = "\u7b54\u932f";
     feedbackText.className = "feedback-content feedback-wrong";
   }
 }
@@ -594,7 +609,7 @@ async function bootstrapApp() {
     setLoadingState(false);
   } catch (error) {
     console.error("Failed to initialize IndexedDB:", error);
-    statsFootnoteEl.textContent = "Failed to initialize local database.";
+    statsFootnoteEl.textContent = "\u672c\u6a5f\u8cc7\u6599\u5eab\u521d\u59cb\u5316\u5931\u6557\u3002";
   }
 }
 

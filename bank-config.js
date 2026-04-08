@@ -18,20 +18,20 @@ const distractorBank = {
 
 const bankCatalog = {
   toeic: {
-    label: "TOEIC",
-    description: "Business and workplace vocabulary practice.",
+    label: "TOEIC \u5546\u52d9\u5b57\u5f59",
+    description: "\u8077\u5834\u3001\u6703\u8b70\u3001\u7269\u6d41\u8207\u5546\u52d9\u60c5\u5883\u7df4\u7fd2\u3002",
     path: "./rich-banks-release/toeic.json",
     version: 4
   },
   school7000: {
-    label: "School 7000",
-    description: "Academic and reading vocabulary practice.",
+    label: "\u9ad8\u4e2d 7000 \u5b57",
+    description: "\u95b1\u8b80\u3001\u5beb\u4f5c\u8207\u5b78\u79d1\u5e38\u898b\u6838\u5fc3\u82f1\u6587\u8a5e\u5f59\u3002",
     path: "./rich-banks-release/school7000.json",
     version: 4
   },
   dailyLife: {
-    label: "Daily Life",
-    description: "Everyday words for home, travel, and routines.",
+    label: "\u65e5\u5e38\u751f\u6d3b\u5b57\u5f59",
+    description: "\u8cfc\u7269\u3001\u4ea4\u901a\u3001\u5c45\u5bb6\u8207\u65c5\u884c\u5e38\u7528\u5b57\u3002",
     path: "./rich-banks-release/dailyLife.json",
     version: 4
   }
