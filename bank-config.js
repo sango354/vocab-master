@@ -1,3 +1,5 @@
+const APP_VERSION = "v4.2.0";
+
 const distractorBank = {
   "n.": [
     "budget", "profit", "contract", "client", "meeting", "schedule", "equipment", "department",
@@ -16,20 +18,20 @@ const distractorBank = {
 
 const bankCatalog = {
   toeic: {
-    label: "TOEIC Vocabulary",
-    description: "Business and workplace vocabulary for test-style practice.",
+    label: "TOEIC 商務字彙",
+    description: "職場、會議、客服、物流與商務情境練習。",
     path: "./rich-banks-release/toeic.json",
     version: 4
   },
   school7000: {
-    label: "School 7000",
-    description: "Academic and reading vocabulary for general English study.",
+    label: "高中 7000 字",
+    description: "閱讀、寫作與學科常見核心英文詞彙。",
     path: "./rich-banks-release/school7000.json",
     version: 4
   },
   dailyLife: {
-    label: "Daily Life",
-    description: "Everyday words for travel, shopping, home, and routines.",
+    label: "日常生活字彙",
+    description: "購物、交通、居家、健康與社交常用字。",
     path: "./rich-banks-release/dailyLife.json",
     version: 4
   }

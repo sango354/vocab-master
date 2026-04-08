@@ -1,33 +1,28 @@
-// Elements
 const menuContainer = document.getElementById("menu-container");
 const quizHeader = document.getElementById("quiz-header");
 const quizContainer = document.getElementById("quiz-container");
-
 const wordEl = document.getElementById("target-word");
 const phoneticEl = document.getElementById("phonetic");
 const optionsContainer = document.getElementById("options-container");
-
 const btnSpeak = document.getElementById("btn-speak");
 const btnBack = document.getElementById("btn-back");
 const overlay = document.getElementById("feedback-overlay");
 const feedbackText = document.getElementById("feedback-text");
 const glassCard = document.querySelector(".quiz-container .glass-card");
-
 const progressBar = document.getElementById("progress-bar");
 const remainingCountEl = document.getElementById("remaining-count");
 const levelCompleteOverlay = document.getElementById("level-complete-overlay");
 const btnLevelBack = document.getElementById("btn-level-back");
 const levelSummaryText = document.getElementById("level-summary-text");
 const sessionSummary = document.getElementById("session-summary");
-
 const statStudiedEl = document.getElementById("stat-studied");
 const statAccuracyEl = document.getElementById("stat-accuracy");
 const statMasteredEl = document.getElementById("stat-mastered");
 const statReviewEl = document.getElementById("stat-review");
 const statsFootnoteEl = document.getElementById("stats-footnote");
 const btnResetProgress = document.getElementById("btn-reset-progress");
+const appVersionEl = document.getElementById("app-version");
 
-// State
 let sessionQueue = [];
 let totalSessionWords = 0;
 let currentWord = null;
@@ -92,6 +87,7 @@ function normalizeBankEntry(bankKey, entry, index) {
     displayWord: entry.displayWord || normalizedWord,
     phonetic: entry.phonetic || "",
     mean: entry.mean || "",
+    meanZh: entry.meanZh || meanZhMap[entry.mean] || "",
     pos: entry.pos || "n.",
     level: entry.level || "core",
     tags: Array.isArray(entry.tags) ? entry.tags : [],
@@ -104,14 +100,30 @@ function normalizeBankEntry(bankKey, entry, index) {
   };
 }
 
+function getMeaningLabel(mean, entry = null) {
+  if (entry?.meanZh) return entry.meanZh;
+  return meanZhMap[mean] || mean;
+}
+
+function updateBankCardText() {
+  Object.entries(bankCatalog).forEach(([bankKey, bankMeta]) => {
+    const titleEl = document.getElementById(`bank-title-${bankKey}`);
+    const descEl = document.getElementById(`bank-desc-${bankKey}`);
+    if (titleEl) titleEl.textContent = bankMeta.label;
+    if (descEl) descEl.textContent = bankMeta.description;
+  });
+
+  if (appVersionEl) {
+    appVersionEl.textContent = `版本 ${APP_VERSION}`;
+  }
+}
+
 async function loadMemory() {
   const progressEntries = await dbClient.getAllProgress();
   const normalized = {};
-
   progressEntries.forEach(entry => {
     normalized[entry.word] = normalizeMemoryEntry(entry.word, entry);
   });
-
   return normalized;
 }
 
@@ -170,7 +182,7 @@ function getLearningUrgency(wordObj) {
 
 function getBankMeta(bankKey) {
   return bankCatalog[bankKey] || {
-    label: "本次題庫",
+    label: "未知題庫",
     path: null,
     version: 1
   };
@@ -200,7 +212,7 @@ function getFocusWords(limit = 3) {
       return b.wrong - a.wrong;
     })
     .slice(0, limit)
-    .map(entry => entry.displayWord || entry.word || entry.word);
+    .map(entry => entry.word);
 }
 
 function renderStatsPanel() {
@@ -213,16 +225,16 @@ function renderStatsPanel() {
   const focusWords = getFocusWords();
   if (focusWords.length === 0) {
     statsFootnoteEl.textContent = storageReady
-      ? "開始答題後，這裡會顯示你的整體學習狀態。"
-      : "正在初始化學習資料...";
+      ? "開始任一題庫後，這裡會顯示你最需要加強的單字。"
+      : "正在初始化資料庫...";
     return;
   }
 
-  statsFootnoteEl.textContent = `目前最需要回顧: ${focusWords.join("、")}`;
+  statsFootnoteEl.textContent = `目前最需要複習: ${focusWords.join("、")}`;
 }
 
 async function resetProgress() {
-  const shouldReset = window.confirm("要清除所有學習紀錄嗎？這個動作無法復原。");
+  const shouldReset = window.confirm("要清除目前的學習進度嗎？這個動作無法復原。");
   if (!shouldReset) return;
 
   userMemory = {};
@@ -260,7 +272,7 @@ async function loadBank(bankKey) {
   if (cachedVersion?.value === bankMeta.version) {
     const cachedEntries = await dbClient.getBankEntries(bankKey);
     if (cachedEntries.length > 0) {
-      loadedBanks[bankKey] = cachedEntries.map(({ bankKey: _ignore, ...entry }) => entry);
+      loadedBanks[bankKey] = cachedEntries.map(({ bankKey: _ignored, ...entry }) => entry);
       return loadedBanks[bankKey];
     }
   }
@@ -272,7 +284,6 @@ async function loadBank(bankKey) {
 
   const bankData = await response.json();
   const normalizedEntries = bankData.map((entry, index) => normalizeBankEntry(bankKey, entry, index));
-
   await dbClient.replaceBankEntries(bankKey, normalizedEntries, bankMeta.version);
   loadedBanks[bankKey] = normalizedEntries;
   return normalizedEntries;
@@ -281,13 +292,31 @@ async function loadBank(bankKey) {
 function buildDistractorPool(wordObj, bank) {
   const sameBankPool = bank
     .filter(item => item.id !== wordObj.id && item.pos === wordObj.pos)
-    .map(item => item.mean);
+    .map(item => ({
+      value: item.mean,
+      label: getMeaningLabel(item.mean, item)
+    }));
 
-  const genericPool = distractorBank[wordObj.pos] || [];
-  const preferredPool = Array.isArray(wordObj.distractors) ? wordObj.distractors : [];
+  const preferredPool = Array.isArray(wordObj.distractors)
+    ? wordObj.distractors.map(item => ({ value: item, label: getMeaningLabel(item) }))
+    : [];
 
-  return [...new Set([...preferredPool, ...sameBankPool, ...genericPool])]
-    .filter(mean => mean !== wordObj.mean);
+  const genericPool = (distractorBank[wordObj.pos] || []).map(item => ({
+    value: item,
+    label: getMeaningLabel(item)
+  }));
+
+  const merged = [...preferredPool, ...sameBankPool, ...genericPool];
+  const deduped = [];
+  const seen = new Set([wordObj.mean]);
+
+  merged.forEach(option => {
+    if (!option.value || seen.has(option.value)) return;
+    seen.add(option.value);
+    deduped.push(option);
+  });
+
+  return deduped;
 }
 
 function getRandomDistractors(count, wordObj, bank) {
@@ -297,8 +326,12 @@ function getRandomDistractors(count, wordObj, bank) {
   }
 
   const fallbackPool = bank
-    .map(item => item.mean)
-    .filter(mean => mean !== wordObj.mean && !pool.includes(mean));
+    .filter(item => item.id !== wordObj.id && item.mean !== wordObj.mean)
+    .map(item => ({
+      value: item.mean,
+      label: getMeaningLabel(item.mean, item)
+    }))
+    .filter(option => !pool.some(item => item.value === option.value));
 
   return shuffle([...pool, ...fallbackPool]).slice(0, count);
 }
@@ -310,7 +343,7 @@ function showMenu() {
   renderStatsPanel();
 }
 
-function setLoadingState(isLoading, bankKey) {
+function setLoadingState(isLoading, bankKey = null) {
   isLoadingBank = isLoading;
 
   document.querySelectorAll(".menu-card").forEach(card => {
@@ -323,8 +356,8 @@ function setLoadingState(isLoading, bankKey) {
     }
   });
 
-  if (isLoading) {
-    statsFootnoteEl.textContent = `正在載入 ${getBankMeta(bankKey).label} 題庫...`;
+  if (isLoading && bankKey) {
+    statsFootnoteEl.textContent = `正在載入 ${getBankMeta(bankKey).label}...`;
   } else {
     renderStatsPanel();
   }
@@ -358,7 +391,7 @@ async function initSession(bankKey) {
     nextQuestion();
   } catch (error) {
     console.error(error);
-    window.alert("題庫載入失敗，請確認目前是透過本機伺服器或網站開啟，而不是直接用 file:// 開啟檔案。");
+    window.alert("題庫載入失敗，請確認目前是透過網站或本機伺服器開啟，而不是直接用 file:// 開啟檔案。");
     setLoadingState(false, bankKey);
     return;
   }
@@ -366,7 +399,7 @@ async function initSession(bankKey) {
   setLoadingState(false, bankKey);
 }
 
-function nextQuestion() {
+async function nextQuestion() {
   if (sessionQueue.length === 0) {
     updateProgressUI();
     progressBar.style.width = "100%";
@@ -389,15 +422,19 @@ function nextQuestion() {
   wordEl.textContent = currentWord.displayWord || currentWord.word;
   phoneticEl.textContent = `${currentWord.phonetic}  ${currentWord.pos}`;
 
-  const wrongs = getRandomDistractors(3, currentWord, currentBank);
-  const options = shuffle([...wrongs, currentWord.mean]).slice(0, 4);
+  const distractors = getRandomDistractors(3, currentWord, currentBank);
+  const options = shuffle([
+    ...distractors,
+    { value: currentWord.mean, label: getMeaningLabel(currentWord.mean, currentWord), entry: currentWord }
+  ]).slice(0, 4);
 
   optionsContainer.innerHTML = "";
-  options.forEach(opt => {
+  options.forEach(option => {
     const btn = document.createElement("button");
     btn.className = "option-btn";
-    btn.textContent = opt;
-    btn.onclick = () => handleOptionClick(btn, opt === currentWord.mean);
+    btn.textContent = option.label;
+    btn.dataset.value = option.value;
+    btn.onclick = () => handleOptionClick(btn, option.value === currentWord.mean);
     optionsContainer.appendChild(btn);
   });
 
@@ -464,7 +501,7 @@ function handleOptionClick(btn, isCorrect) {
     btn.classList.add("wrong");
 
     allBtns.forEach(optionBtn => {
-      if (optionBtn.textContent === currentWord.mean) {
+      if (optionBtn.dataset.value === currentWord.mean) {
         optionBtn.classList.add("correct");
       }
       optionBtn.disabled = true;
@@ -493,7 +530,7 @@ function renderSessionSummary() {
     ? 0
     : Math.round((sessionStats.correct / sessionStats.attempts) * 100);
 
-  levelSummaryText.textContent = `${getBankMeta(sessionStats.bankKey).label}完成，這次正答率 ${accuracy}%。`;
+  levelSummaryText.textContent = `${getBankMeta(sessionStats.bankKey).label} 本輪完成，正答率 ${accuracy}%。`;
 
   const reviewList = Array.from(sessionStats.reviewWords).slice(0, 3);
   const masteredCount = sessionStats.masteredThisSession.size;
@@ -513,13 +550,13 @@ function renderSessionSummary() {
       <strong>${retriedCount}</strong>
     </div>
     <div class="summary-chip">
-      <span>新掌握</span>
+      <span>本輪掌握</span>
       <strong>${masteredCount}</strong>
     </div>
     <p class="session-summary-note">${
       reviewList.length > 0
         ? `建議優先複習: ${reviewList.join("、")}`
-        : "這輪表現穩定，可以挑戰其他題庫。"
+        : "這一輪沒有特別需要立刻回頭補強的單字。"
     }</p>
   `;
 
@@ -531,16 +568,17 @@ function showFeedback(isCorrect) {
   overlay.classList.add("show");
 
   if (isCorrect) {
-    feedbackText.textContent = "CORRECT";
+    feedbackText.textContent = "答對";
     feedbackText.className = "feedback-content feedback-correct";
   } else {
-    feedbackText.textContent = "WRONG";
+    feedbackText.textContent = "答錯";
     feedbackText.className = "feedback-content feedback-wrong";
   }
 }
 
 async function bootstrapApp() {
   try {
+    updateBankCardText();
     await dbClient.open();
     userMemory = await loadMemory();
 
@@ -556,12 +594,12 @@ async function bootstrapApp() {
     setLoadingState(false);
   } catch (error) {
     console.error("Failed to initialize IndexedDB:", error);
-    statsFootnoteEl.textContent = "資料儲存初始化失敗，請重新整理後再試。";
+    statsFootnoteEl.textContent = "資料庫初始化失敗，請重新整理頁面後再試一次。";
   }
 }
 
-// Flow control
 renderStatsPanel();
+updateBankCardText();
 
 document.querySelectorAll(".menu-card").forEach(card => {
   card.addEventListener("click", () => {

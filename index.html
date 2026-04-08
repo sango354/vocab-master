@@ -11,37 +11,38 @@
 </head>
 <body>
   <div class="app-container">
-    
-    <!-- 題庫選擇主選單 -->
     <section id="menu-container" class="menu-container">
       <div class="menu-header">
         <h1 class="app-title">VocabMaster</h1>
-        <p class="app-subtitle">Select your mission</p>
+        <p class="app-subtitle">選擇今天的練習題庫</p>
+        <p class="app-version" id="app-version">版本載入中</p>
       </div>
+
       <div class="menu-grid">
         <button class="menu-card" data-bank="toeic">
-          <div class="menu-icon">💼</div>
-          <h2>多益常用</h2>
-          <p>商務職場必備單字</p>
+          <div class="menu-icon">B</div>
+          <h2 id="bank-title-toeic">TOEIC 商務字彙</h2>
+          <p id="bank-desc-toeic">職場、會議、客服、物流與商務情境練習。</p>
         </button>
         <button class="menu-card" data-bank="school7000">
-          <div class="menu-icon">🎓</div>
-          <h2>國高中 7000</h2>
-          <p>高中進階與大考字彙</p>
+          <div class="menu-icon">A</div>
+          <h2 id="bank-title-school7000">高中 7000 字</h2>
+          <p id="bank-desc-school7000">閱讀、寫作與學科常見核心英文詞彙。</p>
         </button>
         <button class="menu-card" data-bank="dailyLife">
-          <div class="menu-icon">☕</div>
-          <h2>生活用語</h2>
-          <p>出國旅遊與日常生活</p>
+          <div class="menu-icon">L</div>
+          <h2 id="bank-title-dailyLife">日常生活字彙</h2>
+          <p id="bank-desc-dailyLife">購物、交通、居家、健康與社交常用字。</p>
         </button>
       </div>
+
       <section class="stats-panel glass-card" aria-labelledby="stats-title">
         <div class="stats-panel-header">
           <div>
             <p class="stats-kicker">Learning Snapshot</p>
-            <h2 id="stats-title">你的學習進度</h2>
+            <h2 id="stats-title">學習進度總覽</h2>
           </div>
-          <button id="btn-reset-progress" class="text-btn" type="button">重置紀錄</button>
+          <button id="btn-reset-progress" class="text-btn" type="button">重設進度</button>
         </div>
         <div class="stats-grid">
           <div class="stat-item">
@@ -57,17 +58,16 @@
             <strong class="stat-value" id="stat-mastered">0</strong>
           </div>
           <div class="stat-item">
-            <span class="stat-label">待加強</span>
+            <span class="stat-label">待複習</span>
             <strong class="stat-value" id="stat-review">0</strong>
           </div>
         </div>
-        <p class="stats-footnote" id="stats-footnote">開始答題後，這裡會顯示你的整體學習狀態。</p>
+        <p class="stats-footnote" id="stats-footnote">開始任一題庫後，這裡會顯示你最需要加強的單字。</p>
       </section>
     </section>
 
-    <!-- 測驗區域 -->
     <header class="header hidden" id="quiz-header">
-      <button id="btn-back" class="text-btn">◀ 首頁</button>
+      <button id="btn-back" class="text-btn">返回首頁</button>
       <div class="progress-bar-container">
         <div class="progress-bar" id="progress-bar"></div>
       </div>
@@ -79,13 +79,9 @@
         <div class="word-section">
           <h1 id="target-word" class="word">...</h1>
           <p id="phonetic" class="phonetic">...</p>
-          <button id="btn-speak" class="icon-btn" aria-label="Pronounce">
-            🔊
-          </button>
+          <button id="btn-speak" class="icon-btn" aria-label="Pronounce">A</button>
         </div>
-        <div class="options-grid" id="options-container">
-          <!-- Options will be injected here -->
-        </div>
+        <div class="options-grid" id="options-container"></div>
       </div>
     </main>
 
@@ -93,24 +89,49 @@
       <div class="feedback-content" id="feedback-text">Correct!</div>
     </div>
 
-    <!-- 過關結算畫面 -->
     <div id="level-complete-overlay" class="overlay hidden">
       <div class="level-complete-content glass-card" style="text-align: center; gap: 15px; padding: 40px; margin: 20px;">
-        <h2 style="font-size: 2.5rem; margin-bottom: 10px;">🎉 闖關成功!</h2>
-        <p id="level-summary-text" style="color: var(--text-secondary); margin-bottom: 10px;">全部單字已經被你掌握了</p>
+        <h2 style="font-size: 2.5rem; margin-bottom: 10px;">本輪完成</h2>
+        <p id="level-summary-text" style="color: var(--text-secondary); margin-bottom: 10px;">這一輪的答題摘要會顯示在這裡。</p>
         <div id="session-summary" class="session-summary"></div>
         <button id="btn-level-back" class="option-btn" style="text-align: center; font-weight: bold; background: var(--accent-color);">回到首頁</button>
       </div>
     </div>
-
   </div>
+
   <script src="bank-config.js"></script>
+  <script src="mean-zh.js"></script>
   <script src="db.js"></script>
   <script src="app.js"></script>
   <script>
-    if ('serviceWorker' in navigator) {
-      navigator.serviceWorker.register('sw.js')
-        .then(() => console.log('Service Worker Registered'));
+    if ("serviceWorker" in navigator) {
+      let isRefreshing = false;
+
+      navigator.serviceWorker.addEventListener("controllerchange", () => {
+        if (isRefreshing) return;
+        isRefreshing = true;
+        window.location.reload();
+      });
+
+      window.addEventListener("load", async () => {
+        const registration = await navigator.serviceWorker.register("sw.js");
+        await registration.update();
+
+        if (registration.waiting) {
+          registration.waiting.postMessage({ type: "SKIP_WAITING" });
+        }
+
+        registration.addEventListener("updatefound", () => {
+          const newWorker = registration.installing;
+          if (!newWorker) return;
+
+          newWorker.addEventListener("statechange", () => {
+            if (newWorker.state === "installed" && navigator.serviceWorker.controller) {
+              newWorker.postMessage({ type: "SKIP_WAITING" });
+            }
+          });
+        });
+      });
     }
   </script>
 </body>
