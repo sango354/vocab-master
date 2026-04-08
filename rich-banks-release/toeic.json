@@ -1,0 +1,4602 @@
+﻿[
+    {
+        "id":  "toeic-0001",
+        "word":  "invoice",
+        "displayWord":  "invoice",
+        "phonetic":  "/invoice/",
+        "mean":  "billing document",
+        "pos":  "n.",
+        "level":  "core",
+        "tags":  [
+                     "business",
+                     "finance"
+                 ],
+        "example":  "The meeting focused on the invoice in today\u0027s discussion.",
+        "exampleZh":  "",
+        "synonyms":  [
+
+                     ],
+        "distractors":  [
+
+                        ],
+        "source":  "release-build",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "toeic-0002",
+        "word":  "shipment",
+        "displayWord":  "shipment",
+        "phonetic":  "/shipment/",
+        "mean":  "goods sent",
+        "pos":  "n.",
+        "level":  "core",
+        "tags":  [
+                     "business",
+                     "logistics"
+                 ],
+        "example":  "The meeting focused on the shipment in today\u0027s discussion.",
+        "exampleZh":  "",
+        "synonyms":  [
+
+                     ],
+        "distractors":  [
+
+                        ],
+        "source":  "release-build",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "toeic-0003",
+        "word":  "vendor",
+        "displayWord":  "vendor",
+        "phonetic":  "/vendor/",
+        "mean":  "seller",
+        "pos":  "n.",
+        "level":  "core",
+        "tags":  [
+                     "business",
+                     "sales"
+                 ],
+        "example":  "The meeting focused on the vendor in today\u0027s discussion.",
+        "exampleZh":  "",
+        "synonyms":  [
+
+                     ],
+        "distractors":  [
+
+                        ],
+        "source":  "release-build",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "toeic-0004",
+        "word":  "inventory",
+        "displayWord":  "inventory",
+        "phonetic":  "/inventory/",
+        "mean":  "stock of goods",
+        "pos":  "n.",
+        "level":  "core",
+        "tags":  [
+                     "business",
+                     "operations"
+                 ],
+        "example":  "The meeting focused on the inventory in today\u0027s discussion.",
+        "exampleZh":  "",
+        "synonyms":  [
+
+                     ],
+        "distractors":  [
+
+                        ],
+        "source":  "release-build",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "toeic-0005",
+        "word":  "merger",
+        "displayWord":  "merger",
+        "phonetic":  "/merger/",
+        "mean":  "company combination",
+        "pos":  "n.",
+        "level":  "core",
+        "tags":  [
+                     "business",
+                     "finance"
+                 ],
+        "example":  "The meeting focused on the merger in today\u0027s discussion.",
+        "exampleZh":  "",
+        "synonyms":  [
+
+                     ],
+        "distractors":  [
+
+                        ],
+        "source":  "release-build",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "toeic-0006",
+        "word":  "agenda",
+        "displayWord":  "agenda",
+        "phonetic":  "/agenda/",
+        "mean":  "meeting plan",
+        "pos":  "n.",
+        "level":  "core",
+        "tags":  [
+                     "business",
+                     "meetings"
+                 ],
+        "example":  "The meeting focused on the agenda in today\u0027s discussion.",
+        "exampleZh":  "",
+        "synonyms":  [
+
+                     ],
+        "distractors":  [
+
+                        ],
+        "source":  "release-build",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "toeic-0007",
+        "word":  "forecast",
+        "displayWord":  "forecast",
+        "phonetic":  "/forecast/",
+        "mean":  "prediction",
+        "pos":  "n.",
+        "level":  "core",
+        "tags":  [
+                     "business",
+                     "planning"
+                 ],
+        "example":  "The meeting focused on the forecast in today\u0027s discussion.",
+        "exampleZh":  "",
+        "synonyms":  [
+
+                     ],
+        "distractors":  [
+
+                        ],
+        "source":  "release-build",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "toeic-0008",
+        "word":  "compliance",
+        "displayWord":  "compliance",
+        "phonetic":  "/compliance/",
+        "mean":  "following rules",
+        "pos":  "n.",
+        "level":  "core",
+        "tags":  [
+                     "business",
+                     "legal"
+                 ],
+        "example":  "The meeting focused on the compliance in today\u0027s discussion.",
+        "exampleZh":  "",
+        "synonyms":  [
+
+                     ],
+        "distractors":  [
+
+                        ],
+        "source":  "release-build",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "toeic-0009",
+        "word":  "quota",
+        "displayWord":  "quota",
+        "phonetic":  "/quota/",
+        "mean":  "required amount",
+        "pos":  "n.",
+        "level":  "core",
+        "tags":  [
+                     "business",
+                     "sales"
+                 ],
+        "example":  "The meeting focused on the quota in today\u0027s discussion.",
+        "exampleZh":  "",
+        "synonyms":  [
+
+                     ],
+        "distractors":  [
+
+                        ],
+        "source":  "release-build",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "toeic-0010",
+        "word":  "payroll",
+        "displayWord":  "payroll",
+        "phonetic":  "/payroll/",
+        "mean":  "employee payment list",
+        "pos":  "n.",
+        "level":  "core",
+        "tags":  [
+                     "business",
+                     "finance"
+                 ],
+        "example":  "The meeting focused on the payroll in today\u0027s discussion.",
+        "exampleZh":  "",
+        "synonyms":  [
+
+                     ],
+        "distractors":  [
+
+                        ],
+        "source":  "release-build",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "toeic-0011",
+        "word":  "budget",
+        "displayWord":  "budget",
+        "phonetic":  "/budget/",
+        "mean":  "spending plan",
+        "pos":  "n.",
+        "level":  "core",
+        "tags":  [
+                     "business",
+                     "finance"
+                 ],
+        "example":  "The meeting focused on the budget in today\u0027s discussion.",
+        "exampleZh":  "",
+        "synonyms":  [
+
+                     ],
+        "distractors":  [
+
+                        ],
+        "source":  "release-build",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "toeic-0012",
+        "word":  "client",
+        "displayWord":  "client",
+        "phonetic":  "/client/",
+        "mean":  "customer",
+        "pos":  "n.",
+        "level":  "core",
+        "tags":  [
+                     "business",
+                     "sales"
+                 ],
+        "example":  "The meeting focused on the client in today\u0027s discussion.",
+        "exampleZh":  "",
+        "synonyms":  [
+
+                     ],
+        "distractors":  [
+
+                        ],
+        "source":  "release-build",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "toeic-0013",
+        "word":  "contract",
+        "displayWord":  "contract",
+        "phonetic":  "/contract/",
+        "mean":  "agreement",
+        "pos":  "n.",
+        "level":  "core",
+        "tags":  [
+                     "business",
+                     "legal"
+                 ],
+        "example":  "The meeting focused on the contract in today\u0027s discussion.",
+        "exampleZh":  "",
+        "synonyms":  [
+
+                     ],
+        "distractors":  [
+
+                        ],
+        "source":  "release-build",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "toeic-0014",
+        "word":  "deadline",
+        "displayWord":  "deadline",
+        "phonetic":  "/deadline/",
+        "mean":  "due date",
+        "pos":  "n.",
+        "level":  "core",
+        "tags":  [
+                     "business",
+                     "planning"
+                 ],
+        "example":  "The meeting focused on the deadline in today\u0027s discussion.",
+        "exampleZh":  "",
+        "synonyms":  [
+
+                     ],
+        "distractors":  [
+
+                        ],
+        "source":  "release-build",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "toeic-0015",
+        "word":  "revenue",
+        "displayWord":  "revenue",
+        "phonetic":  "/revenue/",
+        "mean":  "income",
+        "pos":  "n.",
+        "level":  "core",
+        "tags":  [
+                     "business",
+                     "finance"
+                 ],
+        "example":  "The meeting focused on the revenue in today\u0027s discussion.",
+        "exampleZh":  "",
+        "synonyms":  [
+
+                     ],
+        "distractors":  [
+
+                        ],
+        "source":  "release-build",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "toeic-0016",
+        "word":  "proposal",
+        "displayWord":  "proposal",
+        "phonetic":  "/proposal/",
+        "mean":  "formal plan",
+        "pos":  "n.",
+        "level":  "core",
+        "tags":  [
+                     "business",
+                     "planning"
+                 ],
+        "example":  "The meeting focused on the proposal in today\u0027s discussion.",
+        "exampleZh":  "",
+        "synonyms":  [
+
+                     ],
+        "distractors":  [
+
+                        ],
+        "source":  "release-build",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "toeic-0017",
+        "word":  "schedule",
+        "displayWord":  "schedule",
+        "phonetic":  "/schedule/",
+        "mean":  "timetable",
+        "pos":  "n.",
+        "level":  "core",
+        "tags":  [
+                     "business",
+                     "planning"
+                 ],
+        "example":  "The meeting focused on the schedule in today\u0027s discussion.",
+        "exampleZh":  "",
+        "synonyms":  [
+
+                     ],
+        "distractors":  [
+
+                        ],
+        "source":  "release-build",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "toeic-0018",
+        "word":  "department",
+        "displayWord":  "department",
+        "phonetic":  "/department/",
+        "mean":  "company division",
+        "pos":  "n.",
+        "level":  "core",
+        "tags":  [
+                     "business",
+                     "organization"
+                 ],
+        "example":  "The meeting focused on the department in today\u0027s discussion.",
+        "exampleZh":  "",
+        "synonyms":  [
+
+                     ],
+        "distractors":  [
+
+                        ],
+        "source":  "release-build",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "toeic-0019",
+        "word":  "strategy",
+        "displayWord":  "strategy",
+        "phonetic":  "/strategy/",
+        "mean":  "long-term plan",
+        "pos":  "n.",
+        "level":  "core",
+        "tags":  [
+                     "business",
+                     "planning"
+                 ],
+        "example":  "The meeting focused on the strategy in today\u0027s discussion.",
+        "exampleZh":  "",
+        "synonyms":  [
+
+                     ],
+        "distractors":  [
+
+                        ],
+        "source":  "release-build",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "toeic-0020",
+        "word":  "asset",
+        "displayWord":  "asset",
+        "phonetic":  "/asset/",
+        "mean":  "valuable property",
+        "pos":  "n.",
+        "level":  "core",
+        "tags":  [
+                     "business",
+                     "finance"
+                 ],
+        "example":  "The meeting focused on the asset in today\u0027s discussion.",
+        "exampleZh":  "",
+        "synonyms":  [
+
+                     ],
+        "distractors":  [
+
+                        ],
+        "source":  "release-build",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "toeic-0021",
+        "word":  "audit",
+        "displayWord":  "audit",
+        "phonetic":  "/audit/",
+        "mean":  "official review",
+        "pos":  "n.",
+        "level":  "core",
+        "tags":  [
+                     "business",
+                     "finance"
+                 ],
+        "example":  "The meeting focused on the audit in today\u0027s discussion.",
+        "exampleZh":  "",
+        "synonyms":  [
+
+                     ],
+        "distractors":  [
+
+                        ],
+        "source":  "release-build",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "toeic-0022",
+        "word":  "expense",
+        "displayWord":  "expense",
+        "phonetic":  "/expense/",
+        "mean":  "cost",
+        "pos":  "n.",
+        "level":  "core",
+        "tags":  [
+                     "business",
+                     "finance"
+                 ],
+        "example":  "The meeting focused on the expense in today\u0027s discussion.",
+        "exampleZh":  "",
+        "synonyms":  [
+
+                     ],
+        "distractors":  [
+
+                        ],
+        "source":  "release-build",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "toeic-0023",
+        "word":  "profit",
+        "displayWord":  "profit",
+        "phonetic":  "/profit/",
+        "mean":  "financial gain",
+        "pos":  "n.",
+        "level":  "core",
+        "tags":  [
+                     "business",
+                     "finance"
+                 ],
+        "example":  "The meeting focused on the profit in today\u0027s discussion.",
+        "exampleZh":  "",
+        "synonyms":  [
+
+                     ],
+        "distractors":  [
+
+                        ],
+        "source":  "release-build",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "toeic-0024",
+        "word":  "policy",
+        "displayWord":  "policy",
+        "phonetic":  "/policy/",
+        "mean":  "official rule",
+        "pos":  "n.",
+        "level":  "core",
+        "tags":  [
+                     "business",
+                     "policy"
+                 ],
+        "example":  "The meeting focused on the policy in today\u0027s discussion.",
+        "exampleZh":  "",
+        "synonyms":  [
+
+                     ],
+        "distractors":  [
+
+                        ],
+        "source":  "release-build",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "toeic-0025",
+        "word":  "warehouse",
+        "displayWord":  "warehouse",
+        "phonetic":  "/warehouse/",
+        "mean":  "storage building",
+        "pos":  "n.",
+        "level":  "core",
+        "tags":  [
+                     "business",
+                     "logistics"
+                 ],
+        "example":  "The meeting focused on the warehouse in today\u0027s discussion.",
+        "exampleZh":  "",
+        "synonyms":  [
+
+                     ],
+        "distractors":  [
+
+                        ],
+        "source":  "release-build",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "toeic-0026",
+        "word":  "subsidy",
+        "displayWord":  "subsidy",
+        "phonetic":  "/subsidy/",
+        "mean":  "financial support",
+        "pos":  "n.",
+        "level":  "core",
+        "tags":  [
+                     "business",
+                     "finance"
+                 ],
+        "example":  "The meeting focused on the subsidy in today\u0027s discussion.",
+        "exampleZh":  "",
+        "synonyms":  [
+
+                     ],
+        "distractors":  [
+
+                        ],
+        "source":  "release-build",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "toeic-0027",
+        "word":  "commission",
+        "displayWord":  "commission",
+        "phonetic":  "/commission/",
+        "mean":  "sales payment",
+        "pos":  "n.",
+        "level":  "core",
+        "tags":  [
+                     "business",
+                     "sales"
+                 ],
+        "example":  "The meeting focused on the commission in today\u0027s discussion.",
+        "exampleZh":  "",
+        "synonyms":  [
+
+                     ],
+        "distractors":  [
+
+                        ],
+        "source":  "release-build",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "toeic-0028",
+        "word":  "vacancy",
+        "displayWord":  "vacancy",
+        "phonetic":  "/vacancy/",
+        "mean":  "open position",
+        "pos":  "n.",
+        "level":  "core",
+        "tags":  [
+                     "business",
+                     "hr"
+                 ],
+        "example":  "The meeting focused on the vacancy in today\u0027s discussion.",
+        "exampleZh":  "",
+        "synonyms":  [
+
+                     ],
+        "distractors":  [
+
+                        ],
+        "source":  "release-build",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "toeic-0029",
+        "word":  "branch",
+        "displayWord":  "branch",
+        "phonetic":  "/branch/",
+        "mean":  "local office",
+        "pos":  "n.",
+        "level":  "core",
+        "tags":  [
+                     "business",
+                     "organization"
+                 ],
+        "example":  "The meeting focused on the branch in today\u0027s discussion.",
+        "exampleZh":  "",
+        "synonyms":  [
+
+                     ],
+        "distractors":  [
+
+                        ],
+        "source":  "release-build",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "toeic-0030",
+        "word":  "retailer",
+        "displayWord":  "retailer",
+        "phonetic":  "/retailer/",
+        "mean":  "store seller",
+        "pos":  "n.",
+        "level":  "core",
+        "tags":  [
+                     "business",
+                     "sales"
+                 ],
+        "example":  "The meeting focused on the retailer in today\u0027s discussion.",
+        "exampleZh":  "",
+        "synonyms":  [
+
+                     ],
+        "distractors":  [
+
+                        ],
+        "source":  "release-build",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "toeic-0031",
+        "word":  "supplier",
+        "displayWord":  "supplier",
+        "phonetic":  "/supplier/",
+        "mean":  "company providing goods",
+        "pos":  "n.",
+        "level":  "core",
+        "tags":  [
+                     "business",
+                     "logistics"
+                 ],
+        "example":  "The meeting focused on the supplier in today\u0027s discussion.",
+        "exampleZh":  "",
+        "synonyms":  [
+
+                     ],
+        "distractors":  [
+
+                        ],
+        "source":  "release-build",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "toeic-0032",
+        "word":  "logistics",
+        "displayWord":  "logistics",
+        "phonetic":  "/logistics/",
+        "mean":  "movement of goods",
+        "pos":  "n.",
+        "level":  "core",
+        "tags":  [
+                     "business",
+                     "operations"
+                 ],
+        "example":  "The meeting focused on the logistics in today\u0027s discussion.",
+        "exampleZh":  "",
+        "synonyms":  [
+
+                     ],
+        "distractors":  [
+
+                        ],
+        "source":  "release-build",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "toeic-0033",
+        "word":  "estimate",
+        "displayWord":  "estimate",
+        "phonetic":  "/estimate/",
+        "mean":  "rough calculation",
+        "pos":  "n.",
+        "level":  "core",
+        "tags":  [
+                     "business",
+                     "finance"
+                 ],
+        "example":  "The meeting focused on the estimate in today\u0027s discussion.",
+        "exampleZh":  "",
+        "synonyms":  [
+
+                     ],
+        "distractors":  [
+
+                        ],
+        "source":  "release-build",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "toeic-0034",
+        "word":  "salary",
+        "displayWord":  "salary",
+        "phonetic":  "/salary/",
+        "mean":  "fixed pay",
+        "pos":  "n.",
+        "level":  "core",
+        "tags":  [
+                     "business",
+                     "hr"
+                 ],
+        "example":  "The meeting focused on the salary in today\u0027s discussion.",
+        "exampleZh":  "",
+        "synonyms":  [
+
+                     ],
+        "distractors":  [
+
+                        ],
+        "source":  "release-build",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "toeic-0035",
+        "word":  "bonus",
+        "displayWord":  "bonus",
+        "phonetic":  "/bonus/",
+        "mean":  "extra payment",
+        "pos":  "n.",
+        "level":  "core",
+        "tags":  [
+                     "business",
+                     "hr"
+                 ],
+        "example":  "The meeting focused on the bonus in today\u0027s discussion.",
+        "exampleZh":  "",
+        "synonyms":  [
+
+                     ],
+        "distractors":  [
+
+                        ],
+        "source":  "release-build",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "toeic-0036",
+        "word":  "facility",
+        "displayWord":  "facility",
+        "phonetic":  "/facility/",
+        "mean":  "building or service",
+        "pos":  "n.",
+        "level":  "core",
+        "tags":  [
+                     "business",
+                     "operations"
+                 ],
+        "example":  "The meeting focused on the facility in today\u0027s discussion.",
+        "exampleZh":  "",
+        "synonyms":  [
+
+                     ],
+        "distractors":  [
+
+                        ],
+        "source":  "release-build",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "toeic-0037",
+        "word":  "transaction",
+        "displayWord":  "transaction",
+        "phonetic":  "/transaction/",
+        "mean":  "business exchange",
+        "pos":  "n.",
+        "level":  "core",
+        "tags":  [
+                     "business",
+                     "finance"
+                 ],
+        "example":  "The meeting focused on the transaction in today\u0027s discussion.",
+        "exampleZh":  "",
+        "synonyms":  [
+
+                     ],
+        "distractors":  [
+
+                        ],
+        "source":  "release-build",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "toeic-0038",
+        "word":  "conference",
+        "displayWord":  "conference",
+        "phonetic":  "/conference/",
+        "mean":  "formal meeting",
+        "pos":  "n.",
+        "level":  "core",
+        "tags":  [
+                     "business",
+                     "meetings"
+                 ],
+        "example":  "The meeting focused on the conference in today\u0027s discussion.",
+        "exampleZh":  "",
+        "synonyms":  [
+
+                     ],
+        "distractors":  [
+
+                        ],
+        "source":  "release-build",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "toeic-0039",
+        "word":  "certificate",
+        "displayWord":  "certificate",
+        "phonetic":  "/certificate/",
+        "mean":  "official document",
+        "pos":  "n.",
+        "level":  "core",
+        "tags":  [
+                     "business",
+                     "legal"
+                 ],
+        "example":  "The meeting focused on the certificate in today\u0027s discussion.",
+        "exampleZh":  "",
+        "synonyms":  [
+
+                     ],
+        "distractors":  [
+
+                        ],
+        "source":  "release-build",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "toeic-0040",
+        "word":  "trademark",
+        "displayWord":  "trademark",
+        "phonetic":  "/trademark/",
+        "mean":  "registered brand sign",
+        "pos":  "n.",
+        "level":  "core",
+        "tags":  [
+                     "business",
+                     "legal"
+                 ],
+        "example":  "The meeting focused on the trademark in today\u0027s discussion.",
+        "exampleZh":  "",
+        "synonyms":  [
+
+                     ],
+        "distractors":  [
+
+                        ],
+        "source":  "release-build",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "toeic-0041",
+        "word":  "promotion",
+        "displayWord":  "promotion",
+        "phonetic":  "/promotion/",
+        "mean":  "marketing activity",
+        "pos":  "n.",
+        "level":  "core",
+        "tags":  [
+                     "business",
+                     "marketing"
+                 ],
+        "example":  "The meeting focused on the promotion in today\u0027s discussion.",
+        "exampleZh":  "",
+        "synonyms":  [
+
+                     ],
+        "distractors":  [
+
+                        ],
+        "source":  "release-build",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "toeic-0042",
+        "word":  "campaign",
+        "displayWord":  "campaign",
+        "phonetic":  "/campaign/",
+        "mean":  "organized promotion effort",
+        "pos":  "n.",
+        "level":  "core",
+        "tags":  [
+                     "business",
+                     "marketing"
+                 ],
+        "example":  "The meeting focused on the campaign in today\u0027s discussion.",
+        "exampleZh":  "",
+        "synonyms":  [
+
+                     ],
+        "distractors":  [
+
+                        ],
+        "source":  "release-build",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "toeic-0043",
+        "word":  "survey",
+        "displayWord":  "survey",
+        "phonetic":  "/survey/",
+        "mean":  "questionnaire study",
+        "pos":  "n.",
+        "level":  "core",
+        "tags":  [
+                     "business",
+                     "research"
+                 ],
+        "example":  "The meeting focused on the survey in today\u0027s discussion.",
+        "exampleZh":  "",
+        "synonyms":  [
+
+                     ],
+        "distractors":  [
+
+                        ],
+        "source":  "release-build",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "toeic-0044",
+        "word":  "warranty",
+        "displayWord":  "warranty",
+        "phonetic":  "/warranty/",
+        "mean":  "repair promise",
+        "pos":  "n.",
+        "level":  "core",
+        "tags":  [
+                     "business",
+                     "service"
+                 ],
+        "example":  "The meeting focused on the warranty in today\u0027s discussion.",
+        "exampleZh":  "",
+        "synonyms":  [
+
+                     ],
+        "distractors":  [
+
+                        ],
+        "source":  "release-build",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "toeic-0045",
+        "word":  "refund",
+        "displayWord":  "refund",
+        "phonetic":  "/refund/",
+        "mean":  "money returned",
+        "pos":  "n.",
+        "level":  "core",
+        "tags":  [
+                     "business",
+                     "service"
+                 ],
+        "example":  "The meeting focused on the refund in today\u0027s discussion.",
+        "exampleZh":  "",
+        "synonyms":  [
+
+                     ],
+        "distractors":  [
+
+                        ],
+        "source":  "release-build",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "toeic-0046",
+        "word":  "complaint",
+        "displayWord":  "complaint",
+        "phonetic":  "/complaint/",
+        "mean":  "statement of dissatisfaction",
+        "pos":  "n.",
+        "level":  "core",
+        "tags":  [
+                     "business",
+                     "service"
+                 ],
+        "example":  "The meeting focused on the complaint in today\u0027s discussion.",
+        "exampleZh":  "",
+        "synonyms":  [
+
+                     ],
+        "distractors":  [
+
+                        ],
+        "source":  "release-build",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "toeic-0047",
+        "word":  "applicant",
+        "displayWord":  "applicant",
+        "phonetic":  "/applicant/",
+        "mean":  "person applying",
+        "pos":  "n.",
+        "level":  "core",
+        "tags":  [
+                     "business",
+                     "hr"
+                 ],
+        "example":  "The meeting focused on the applicant in today\u0027s discussion.",
+        "exampleZh":  "",
+        "synonyms":  [
+
+                     ],
+        "distractors":  [
+
+                        ],
+        "source":  "release-build",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "toeic-0048",
+        "word":  "resume",
+        "displayWord":  "resume",
+        "phonetic":  "/resume/",
+        "mean":  "job summary document",
+        "pos":  "n.",
+        "level":  "core",
+        "tags":  [
+                     "business",
+                     "hr"
+                 ],
+        "example":  "The meeting focused on the resume in today\u0027s discussion.",
+        "exampleZh":  "",
+        "synonyms":  [
+
+                     ],
+        "distractors":  [
+
+                        ],
+        "source":  "release-build",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "toeic-0049",
+        "word":  "personnel",
+        "displayWord":  "personnel",
+        "phonetic":  "/personnel/",
+        "mean":  "employees",
+        "pos":  "n.",
+        "level":  "core",
+        "tags":  [
+                     "business",
+                     "hr"
+                 ],
+        "example":  "The meeting focused on the personnel in today\u0027s discussion.",
+        "exampleZh":  "",
+        "synonyms":  [
+
+                     ],
+        "distractors":  [
+
+                        ],
+        "source":  "release-build",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "toeic-0050",
+        "word":  "headquarters",
+        "displayWord":  "headquarters",
+        "phonetic":  "/headquarters/",
+        "mean":  "main office",
+        "pos":  "n.",
+        "level":  "core",
+        "tags":  [
+                     "business",
+                     "organization"
+                 ],
+        "example":  "The meeting focused on the headquarters in today\u0027s discussion.",
+        "exampleZh":  "",
+        "synonyms":  [
+
+                     ],
+        "distractors":  [
+
+                        ],
+        "source":  "release-build",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "toeic-0051",
+        "word":  "consultant",
+        "displayWord":  "consultant",
+        "phonetic":  "/consultant/",
+        "mean":  "professional adviser",
+        "pos":  "n.",
+        "level":  "core",
+        "tags":  [
+                     "business",
+                     "management"
+                 ],
+        "example":  "The meeting focused on the consultant in today\u0027s discussion.",
+        "exampleZh":  "",
+        "synonyms":  [
+
+                     ],
+        "distractors":  [
+
+                        ],
+        "source":  "release-build",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "toeic-0052",
+        "word":  "negotiation",
+        "displayWord":  "negotiation",
+        "phonetic":  "/negotiation/",
+        "mean":  "discussion to reach agreement",
+        "pos":  "n.",
+        "level":  "core",
+        "tags":  [
+                     "business",
+                     "sales"
+                 ],
+        "example":  "The meeting focused on the negotiation in today\u0027s discussion.",
+        "exampleZh":  "",
+        "synonyms":  [
+
+                     ],
+        "distractors":  [
+
+                        ],
+        "source":  "release-build",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "toeic-0053",
+        "word":  "productivity",
+        "displayWord":  "productivity",
+        "phonetic":  "/productivity/",
+        "mean":  "amount produced",
+        "pos":  "n.",
+        "level":  "core",
+        "tags":  [
+                     "business",
+                     "performance"
+                 ],
+        "example":  "The meeting focused on the productivity in today\u0027s discussion.",
+        "exampleZh":  "",
+        "synonyms":  [
+
+                     ],
+        "distractors":  [
+
+                        ],
+        "source":  "release-build",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "toeic-0054",
+        "word":  "seminar",
+        "displayWord":  "seminar",
+        "phonetic":  "/seminar/",
+        "mean":  "training session",
+        "pos":  "n.",
+        "level":  "core",
+        "tags":  [
+                     "business",
+                     "training"
+                 ],
+        "example":  "The meeting focused on the seminar in today\u0027s discussion.",
+        "exampleZh":  "",
+        "synonyms":  [
+
+                     ],
+        "distractors":  [
+
+                        ],
+        "source":  "release-build",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "toeic-0055",
+        "word":  "brochure",
+        "displayWord":  "brochure",
+        "phonetic":  "/brochure/",
+        "mean":  "informational booklet",
+        "pos":  "n.",
+        "level":  "core",
+        "tags":  [
+                     "business",
+                     "marketing"
+                 ],
+        "example":  "The meeting focused on the brochure in today\u0027s discussion.",
+        "exampleZh":  "",
+        "synonyms":  [
+
+                     ],
+        "distractors":  [
+
+                        ],
+        "source":  "release-build",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "toeic-0056",
+        "word":  "discount",
+        "displayWord":  "discount",
+        "phonetic":  "/discount/",
+        "mean":  "price reduction",
+        "pos":  "n.",
+        "level":  "core",
+        "tags":  [
+                     "business",
+                     "sales"
+                 ],
+        "example":  "The meeting focused on the discount in today\u0027s discussion.",
+        "exampleZh":  "",
+        "synonyms":  [
+
+                     ],
+        "distractors":  [
+
+                        ],
+        "source":  "release-build",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "toeic-0057",
+        "word":  "enrollment",
+        "displayWord":  "enrollment",
+        "phonetic":  "/enrollment/",
+        "mean":  "act of joining",
+        "pos":  "n.",
+        "level":  "core",
+        "tags":  [
+                     "business",
+                     "hr"
+                 ],
+        "example":  "The meeting focused on the enrollment in today\u0027s discussion.",
+        "exampleZh":  "",
+        "synonyms":  [
+
+                     ],
+        "distractors":  [
+
+                        ],
+        "source":  "release-build",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "toeic-0058",
+        "word":  "subscription",
+        "displayWord":  "subscription",
+        "phonetic":  "/subscription/",
+        "mean":  "regular paid service",
+        "pos":  "n.",
+        "level":  "core",
+        "tags":  [
+                     "business",
+                     "service"
+                 ],
+        "example":  "The meeting focused on the subscription in today\u0027s discussion.",
+        "exampleZh":  "",
+        "synonyms":  [
+
+                     ],
+        "distractors":  [
+
+                        ],
+        "source":  "release-build",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "toeic-0059",
+        "word":  "advertisement",
+        "displayWord":  "advertisement",
+        "phonetic":  "/advertisement/",
+        "mean":  "public promotion message",
+        "pos":  "n.",
+        "level":  "core",
+        "tags":  [
+                     "business",
+                     "marketing"
+                 ],
+        "example":  "The meeting focused on the advertisement in today\u0027s discussion.",
+        "exampleZh":  "",
+        "synonyms":  [
+
+                     ],
+        "distractors":  [
+
+                        ],
+        "source":  "release-build",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "toeic-0060",
+        "word":  "franchise",
+        "displayWord":  "franchise",
+        "phonetic":  "/franchise/",
+        "mean":  "licensed business branch",
+        "pos":  "n.",
+        "level":  "core",
+        "tags":  [
+                     "business",
+                     "organization"
+                 ],
+        "example":  "The meeting focused on the franchise in today\u0027s discussion.",
+        "exampleZh":  "",
+        "synonyms":  [
+
+                     ],
+        "distractors":  [
+
+                        ],
+        "source":  "release-build",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "toeic-0061",
+        "word":  "delegate",
+        "displayWord":  "delegate",
+        "phonetic":  "/delegate/",
+        "mean":  "assign responsibility",
+        "pos":  "v.",
+        "level":  "core",
+        "tags":  [
+                     "business",
+                     "management"
+                 ],
+        "example":  "Our team needs to delegate the plan this week.",
+        "exampleZh":  "",
+        "synonyms":  [
+
+                     ],
+        "distractors":  [
+
+                        ],
+        "source":  "release-build",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "toeic-0062",
+        "word":  "authorize",
+        "displayWord":  "authorize",
+        "phonetic":  "/authorize/",
+        "mean":  "give approval",
+        "pos":  "v.",
+        "level":  "core",
+        "tags":  [
+                     "business",
+                     "policy"
+                 ],
+        "example":  "Our team needs to authorize the plan this week.",
+        "exampleZh":  "",
+        "synonyms":  [
+
+                     ],
+        "distractors":  [
+
+                        ],
+        "source":  "release-build",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "toeic-0063",
+        "word":  "allocate",
+        "displayWord":  "allocate",
+        "phonetic":  "/allocate/",
+        "mean":  "distribute resources",
+        "pos":  "v.",
+        "level":  "core",
+        "tags":  [
+                     "business",
+                     "planning"
+                 ],
+        "example":  "Our team needs to allocate the plan this week.",
+        "exampleZh":  "",
+        "synonyms":  [
+
+                     ],
+        "distractors":  [
+
+                        ],
+        "source":  "release-build",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "toeic-0064",
+        "word":  "facilitate",
+        "displayWord":  "facilitate",
+        "phonetic":  "/facilitate/",
+        "mean":  "make easier",
+        "pos":  "v.",
+        "level":  "core",
+        "tags":  [
+                     "business",
+                     "operations"
+                 ],
+        "example":  "Our team needs to facilitate the plan this week.",
+        "exampleZh":  "",
+        "synonyms":  [
+
+                     ],
+        "distractors":  [
+
+                        ],
+        "source":  "release-build",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "toeic-0065",
+        "word":  "reimburse",
+        "displayWord":  "reimburse",
+        "phonetic":  "/reimburse/",
+        "mean":  "pay back expenses",
+        "pos":  "v.",
+        "level":  "core",
+        "tags":  [
+                     "business",
+                     "finance"
+                 ],
+        "example":  "Our team needs to reimburse the plan this week.",
+        "exampleZh":  "",
+        "synonyms":  [
+
+                     ],
+        "distractors":  [
+
+                        ],
+        "source":  "release-build",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "toeic-0066",
+        "word":  "negotiate",
+        "displayWord":  "negotiate",
+        "phonetic":  "/negotiate/",
+        "mean":  "discuss terms",
+        "pos":  "v.",
+        "level":  "core",
+        "tags":  [
+                     "business",
+                     "sales"
+                 ],
+        "example":  "Our team needs to negotiate the plan this week.",
+        "exampleZh":  "",
+        "synonyms":  [
+
+                     ],
+        "distractors":  [
+
+                        ],
+        "source":  "release-build",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "toeic-0067",
+        "word":  "evaluate",
+        "displayWord":  "evaluate",
+        "phonetic":  "/evaluate/",
+        "mean":  "assess",
+        "pos":  "v.",
+        "level":  "core",
+        "tags":  [
+                     "business",
+                     "analysis"
+                 ],
+        "example":  "Our team needs to evaluate the plan this week.",
+        "exampleZh":  "",
+        "synonyms":  [
+
+                     ],
+        "distractors":  [
+
+                        ],
+        "source":  "release-build",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "toeic-0068",
+        "word":  "implement",
+        "displayWord":  "implement",
+        "phonetic":  "/implement/",
+        "mean":  "carry out",
+        "pos":  "v.",
+        "level":  "core",
+        "tags":  [
+                     "business",
+                     "operations"
+                 ],
+        "example":  "Our team needs to implement the plan this week.",
+        "exampleZh":  "",
+        "synonyms":  [
+
+                     ],
+        "distractors":  [
+
+                        ],
+        "source":  "release-build",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "toeic-0069",
+        "word":  "maintain",
+        "displayWord":  "maintain",
+        "phonetic":  "/maintain/",
+        "mean":  "keep in good condition",
+        "pos":  "v.",
+        "level":  "core",
+        "tags":  [
+                     "business",
+                     "operations"
+                 ],
+        "example":  "Our team needs to maintain the plan this week.",
+        "exampleZh":  "",
+        "synonyms":  [
+
+                     ],
+        "distractors":  [
+
+                        ],
+        "source":  "release-build",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "toeic-0070",
+        "word":  "submit",
+        "displayWord":  "submit",
+        "phonetic":  "/submit/",
+        "mean":  "hand in",
+        "pos":  "v.",
+        "level":  "core",
+        "tags":  [
+                     "business",
+                     "workflow"
+                 ],
+        "example":  "Our team needs to submit the plan this week.",
+        "exampleZh":  "",
+        "synonyms":  [
+
+                     ],
+        "distractors":  [
+
+                        ],
+        "source":  "release-build",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "toeic-0071",
+        "word":  "coordinate",
+        "displayWord":  "coordinate",
+        "phonetic":  "/coordinate/",
+        "mean":  "organize together",
+        "pos":  "v.",
+        "level":  "core",
+        "tags":  [
+                     "business",
+                     "management"
+                 ],
+        "example":  "Our team needs to coordinate the plan this week.",
+        "exampleZh":  "",
+        "synonyms":  [
+
+                     ],
+        "distractors":  [
+
+                        ],
+        "source":  "release-build",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "toeic-0072",
+        "word":  "approve",
+        "displayWord":  "approve",
+        "phonetic":  "/approve/",
+        "mean":  "accept officially",
+        "pos":  "v.",
+        "level":  "core",
+        "tags":  [
+                     "business",
+                     "policy"
+                 ],
+        "example":  "Our team needs to approve the plan this week.",
+        "exampleZh":  "",
+        "synonyms":  [
+
+                     ],
+        "distractors":  [
+
+                        ],
+        "source":  "release-build",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "toeic-0073",
+        "word":  "postpone",
+        "displayWord":  "postpone",
+        "phonetic":  "/postpone/",
+        "mean":  "delay",
+        "pos":  "v.",
+        "level":  "core",
+        "tags":  [
+                     "business",
+                     "planning"
+                 ],
+        "example":  "Our team needs to postpone the plan this week.",
+        "exampleZh":  "",
+        "synonyms":  [
+
+                     ],
+        "distractors":  [
+
+                        ],
+        "source":  "release-build",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "toeic-0074",
+        "word":  "revise",
+        "displayWord":  "revise",
+        "phonetic":  "/revise/",
+        "mean":  "change for improvement",
+        "pos":  "v.",
+        "level":  "core",
+        "tags":  [
+                     "business",
+                     "writing"
+                 ],
+        "example":  "Our team needs to revise the plan this week.",
+        "exampleZh":  "",
+        "synonyms":  [
+
+                     ],
+        "distractors":  [
+
+                        ],
+        "source":  "release-build",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "toeic-0075",
+        "word":  "inspect",
+        "displayWord":  "inspect",
+        "phonetic":  "/inspect/",
+        "mean":  "check carefully",
+        "pos":  "v.",
+        "level":  "core",
+        "tags":  [
+                     "business",
+                     "operations"
+                 ],
+        "example":  "Our team needs to inspect the plan this week.",
+        "exampleZh":  "",
+        "synonyms":  [
+
+                     ],
+        "distractors":  [
+
+                        ],
+        "source":  "release-build",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "toeic-0076",
+        "word":  "recruit",
+        "displayWord":  "recruit",
+        "phonetic":  "/recruit/",
+        "mean":  "hire",
+        "pos":  "v.",
+        "level":  "core",
+        "tags":  [
+                     "business",
+                     "hr"
+                 ],
+        "example":  "Our team needs to recruit the plan this week.",
+        "exampleZh":  "",
+        "synonyms":  [
+
+                     ],
+        "distractors":  [
+
+                        ],
+        "source":  "release-build",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "toeic-0077",
+        "word":  "advertise",
+        "displayWord":  "advertise",
+        "phonetic":  "/advertise/",
+        "mean":  "promote publicly",
+        "pos":  "v.",
+        "level":  "core",
+        "tags":  [
+                     "business",
+                     "marketing"
+                 ],
+        "example":  "Our team needs to advertise the plan this week.",
+        "exampleZh":  "",
+        "synonyms":  [
+
+                     ],
+        "distractors":  [
+
+                        ],
+        "source":  "release-build",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "toeic-0078",
+        "word":  "manufacture",
+        "displayWord":  "manufacture",
+        "phonetic":  "/manufacture/",
+        "mean":  "make products",
+        "pos":  "v.",
+        "level":  "core",
+        "tags":  [
+                     "business",
+                     "operations"
+                 ],
+        "example":  "Our team needs to manufacture the plan this week.",
+        "exampleZh":  "",
+        "synonyms":  [
+
+                     ],
+        "distractors":  [
+
+                        ],
+        "source":  "release-build",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "toeic-0079",
+        "word":  "distribute",
+        "displayWord":  "distribute",
+        "phonetic":  "/distribute/",
+        "mean":  "deliver to many places",
+        "pos":  "v.",
+        "level":  "core",
+        "tags":  [
+                     "business",
+                     "logistics"
+                 ],
+        "example":  "Our team needs to distribute the plan this week.",
+        "exampleZh":  "",
+        "synonyms":  [
+
+                     ],
+        "distractors":  [
+
+                        ],
+        "source":  "release-build",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "toeic-0080",
+        "word":  "operate",
+        "displayWord":  "operate",
+        "phonetic":  "/operate/",
+        "mean":  "run a business or machine",
+        "pos":  "v.",
+        "level":  "core",
+        "tags":  [
+                     "business",
+                     "operations"
+                 ],
+        "example":  "Our team needs to operate the plan this week.",
+        "exampleZh":  "",
+        "synonyms":  [
+
+                     ],
+        "distractors":  [
+
+                        ],
+        "source":  "release-build",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "toeic-0081",
+        "word":  "expand",
+        "displayWord":  "expand",
+        "phonetic":  "/expand/",
+        "mean":  "grow larger",
+        "pos":  "v.",
+        "level":  "core",
+        "tags":  [
+                     "business",
+                     "strategy"
+                 ],
+        "example":  "Our team needs to expand the plan this week.",
+        "exampleZh":  "",
+        "synonyms":  [
+
+                     ],
+        "distractors":  [
+
+                        ],
+        "source":  "release-build",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "toeic-0082",
+        "word":  "invest",
+        "displayWord":  "invest",
+        "phonetic":  "/invest/",
+        "mean":  "put in money",
+        "pos":  "v.",
+        "level":  "core",
+        "tags":  [
+                     "business",
+                     "finance"
+                 ],
+        "example":  "Our team needs to invest the plan this week.",
+        "exampleZh":  "",
+        "synonyms":  [
+
+                     ],
+        "distractors":  [
+
+                        ],
+        "source":  "release-build",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "toeic-0083",
+        "word":  "collaborate",
+        "displayWord":  "collaborate",
+        "phonetic":  "/collaborate/",
+        "mean":  "work together",
+        "pos":  "v.",
+        "level":  "core",
+        "tags":  [
+                     "business",
+                     "management"
+                 ],
+        "example":  "Our team needs to collaborate the plan this week.",
+        "exampleZh":  "",
+        "synonyms":  [
+
+                     ],
+        "distractors":  [
+
+                        ],
+        "source":  "release-build",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "toeic-0084",
+        "word":  "process",
+        "displayWord":  "process",
+        "phonetic":  "/process/",
+        "mean":  "handle systematically",
+        "pos":  "v.",
+        "level":  "core",
+        "tags":  [
+                     "business",
+                     "operations"
+                 ],
+        "example":  "Our team needs to process the plan this week.",
+        "exampleZh":  "",
+        "synonyms":  [
+
+                     ],
+        "distractors":  [
+
+                        ],
+        "source":  "release-build",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "toeic-0085",
+        "word":  "renovate",
+        "displayWord":  "renovate",
+        "phonetic":  "/renovate/",
+        "mean":  "repair and improve",
+        "pos":  "v.",
+        "level":  "core",
+        "tags":  [
+                     "business",
+                     "facilities"
+                 ],
+        "example":  "Our team needs to renovate the plan this week.",
+        "exampleZh":  "",
+        "synonyms":  [
+
+                     ],
+        "distractors":  [
+
+                        ],
+        "source":  "release-build",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "toeic-0086",
+        "word":  "resolve",
+        "displayWord":  "resolve",
+        "phonetic":  "/resolve/",
+        "mean":  "solve",
+        "pos":  "v.",
+        "level":  "core",
+        "tags":  [
+                     "business",
+                     "management"
+                 ],
+        "example":  "Our team needs to resolve the plan this week.",
+        "exampleZh":  "",
+        "synonyms":  [
+
+                     ],
+        "distractors":  [
+
+                        ],
+        "source":  "release-build",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "toeic-0087",
+        "word":  "supervise",
+        "displayWord":  "supervise",
+        "phonetic":  "/supervise/",
+        "mean":  "oversee work",
+        "pos":  "v.",
+        "level":  "core",
+        "tags":  [
+                     "business",
+                     "management"
+                 ],
+        "example":  "Our team needs to supervise the plan this week.",
+        "exampleZh":  "",
+        "synonyms":  [
+
+                     ],
+        "distractors":  [
+
+                        ],
+        "source":  "release-build",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "toeic-0088",
+        "word":  "notify",
+        "displayWord":  "notify",
+        "phonetic":  "/notify/",
+        "mean":  "inform officially",
+        "pos":  "v.",
+        "level":  "core",
+        "tags":  [
+                     "business",
+                     "workflow"
+                 ],
+        "example":  "Our team needs to notify the plan this week.",
+        "exampleZh":  "",
+        "synonyms":  [
+
+                     ],
+        "distractors":  [
+
+                        ],
+        "source":  "release-build",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "toeic-0089",
+        "word":  "purchase",
+        "displayWord":  "purchase",
+        "phonetic":  "/purchase/",
+        "mean":  "buy",
+        "pos":  "v.",
+        "level":  "core",
+        "tags":  [
+                     "business",
+                     "procurement"
+                 ],
+        "example":  "Our team needs to purchase the plan this week.",
+        "exampleZh":  "",
+        "synonyms":  [
+
+                     ],
+        "distractors":  [
+
+                        ],
+        "source":  "release-build",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "toeic-0090",
+        "word":  "deliver",
+        "displayWord":  "deliver",
+        "phonetic":  "/deliver/",
+        "mean":  "bring goods",
+        "pos":  "v.",
+        "level":  "core",
+        "tags":  [
+                     "business",
+                     "logistics"
+                 ],
+        "example":  "Our team needs to deliver the plan this week.",
+        "exampleZh":  "",
+        "synonyms":  [
+
+                     ],
+        "distractors":  [
+
+                        ],
+        "source":  "release-build",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "toeic-0091",
+        "word":  "install",
+        "displayWord":  "install",
+        "phonetic":  "/install/",
+        "mean":  "set up equipment",
+        "pos":  "v.",
+        "level":  "core",
+        "tags":  [
+                     "business",
+                     "operations"
+                 ],
+        "example":  "Our team needs to install the plan this week.",
+        "exampleZh":  "",
+        "synonyms":  [
+
+                     ],
+        "distractors":  [
+
+                        ],
+        "source":  "release-build",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "toeic-0092",
+        "word":  "launch",
+        "displayWord":  "launch",
+        "phonetic":  "/launch/",
+        "mean":  "start officially",
+        "pos":  "v.",
+        "level":  "core",
+        "tags":  [
+                     "business",
+                     "marketing"
+                 ],
+        "example":  "Our team needs to launch the plan this week.",
+        "exampleZh":  "",
+        "synonyms":  [
+
+                     ],
+        "distractors":  [
+
+                        ],
+        "source":  "release-build",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "toeic-0093",
+        "word":  "monitor",
+        "displayWord":  "monitor",
+        "phonetic":  "/monitor/",
+        "mean":  "watch regularly",
+        "pos":  "v.",
+        "level":  "core",
+        "tags":  [
+                     "business",
+                     "management"
+                 ],
+        "example":  "Our team needs to monitor the plan this week.",
+        "exampleZh":  "",
+        "synonyms":  [
+
+                     ],
+        "distractors":  [
+
+                        ],
+        "source":  "release-build",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "toeic-0094",
+        "word":  "merge",
+        "displayWord":  "merge",
+        "phonetic":  "/merge/",
+        "mean":  "combine",
+        "pos":  "v.",
+        "level":  "core",
+        "tags":  [
+                     "business",
+                     "finance"
+                 ],
+        "example":  "Our team needs to merge the plan this week.",
+        "exampleZh":  "",
+        "synonyms":  [
+
+                     ],
+        "distractors":  [
+
+                        ],
+        "source":  "release-build",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "toeic-0095",
+        "word":  "hire",
+        "displayWord":  "hire",
+        "phonetic":  "/hire/",
+        "mean":  "employ",
+        "pos":  "v.",
+        "level":  "core",
+        "tags":  [
+                     "business",
+                     "hr"
+                 ],
+        "example":  "Our team needs to hire the plan this week.",
+        "exampleZh":  "",
+        "synonyms":  [
+
+                     ],
+        "distractors":  [
+
+                        ],
+        "source":  "release-build",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "toeic-0096",
+        "word":  "resign",
+        "displayWord":  "resign",
+        "phonetic":  "/resign/",
+        "mean":  "leave a job",
+        "pos":  "v.",
+        "level":  "core",
+        "tags":  [
+                     "business",
+                     "hr"
+                 ],
+        "example":  "Our team needs to resign the plan this week.",
+        "exampleZh":  "",
+        "synonyms":  [
+
+                     ],
+        "distractors":  [
+
+                        ],
+        "source":  "release-build",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "toeic-0097",
+        "word":  "compensate",
+        "displayWord":  "compensate",
+        "phonetic":  "/compensate/",
+        "mean":  "make up for",
+        "pos":  "v.",
+        "level":  "core",
+        "tags":  [
+                     "business",
+                     "policy"
+                 ],
+        "example":  "Our team needs to compensate the plan this week.",
+        "exampleZh":  "",
+        "synonyms":  [
+
+                     ],
+        "distractors":  [
+
+                        ],
+        "source":  "release-build",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "toeic-0098",
+        "word":  "outsource",
+        "displayWord":  "outsource",
+        "phonetic":  "/outsource/",
+        "mean":  "use outside services",
+        "pos":  "v.",
+        "level":  "core",
+        "tags":  [
+                     "business",
+                     "operations"
+                 ],
+        "example":  "Our team needs to outsource the plan this week.",
+        "exampleZh":  "",
+        "synonyms":  [
+
+                     ],
+        "distractors":  [
+
+                        ],
+        "source":  "release-build",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "toeic-0099",
+        "word":  "analyze",
+        "displayWord":  "analyze",
+        "phonetic":  "/analyze/",
+        "mean":  "examine carefully",
+        "pos":  "v.",
+        "level":  "core",
+        "tags":  [
+                     "business",
+                     "analysis"
+                 ],
+        "example":  "Our team needs to analyze the plan this week.",
+        "exampleZh":  "",
+        "synonyms":  [
+
+                     ],
+        "distractors":  [
+
+                        ],
+        "source":  "release-build",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "toeic-0100",
+        "word":  "assemble",
+        "displayWord":  "assemble",
+        "phonetic":  "/assemble/",
+        "mean":  "put together",
+        "pos":  "v.",
+        "level":  "core",
+        "tags":  [
+                     "business",
+                     "operations"
+                 ],
+        "example":  "Our team needs to assemble the plan this week.",
+        "exampleZh":  "",
+        "synonyms":  [
+
+                     ],
+        "distractors":  [
+
+                        ],
+        "source":  "release-build",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "toeic-0101",
+        "word":  "calculate",
+        "displayWord":  "calculate",
+        "phonetic":  "/calculate/",
+        "mean":  "work out a number",
+        "pos":  "v.",
+        "level":  "core",
+        "tags":  [
+                     "business",
+                     "finance"
+                 ],
+        "example":  "Our team needs to calculate the plan this week.",
+        "exampleZh":  "",
+        "synonyms":  [
+
+                     ],
+        "distractors":  [
+
+                        ],
+        "source":  "release-build",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "toeic-0102",
+        "word":  "certify",
+        "displayWord":  "certify",
+        "phonetic":  "/certify/",
+        "mean":  "confirm officially",
+        "pos":  "v.",
+        "level":  "core",
+        "tags":  [
+                     "business",
+                     "legal"
+                 ],
+        "example":  "Our team needs to certify the plan this week.",
+        "exampleZh":  "",
+        "synonyms":  [
+
+                     ],
+        "distractors":  [
+
+                        ],
+        "source":  "release-build",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "toeic-0103",
+        "word":  "clarify",
+        "displayWord":  "clarify",
+        "phonetic":  "/clarify/",
+        "mean":  "make clear",
+        "pos":  "v.",
+        "level":  "core",
+        "tags":  [
+                     "business",
+                     "communication"
+                 ],
+        "example":  "Our team needs to clarify the plan this week.",
+        "exampleZh":  "",
+        "synonyms":  [
+
+                     ],
+        "distractors":  [
+
+                        ],
+        "source":  "release-build",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "toeic-0104",
+        "word":  "conserve",
+        "displayWord":  "conserve",
+        "phonetic":  "/conserve/",
+        "mean":  "save for future use",
+        "pos":  "v.",
+        "level":  "core",
+        "tags":  [
+                     "business",
+                     "operations"
+                 ],
+        "example":  "Our team needs to conserve the plan this week.",
+        "exampleZh":  "",
+        "synonyms":  [
+
+                     ],
+        "distractors":  [
+
+                        ],
+        "source":  "release-build",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "toeic-0105",
+        "word":  "consult",
+        "displayWord":  "consult",
+        "phonetic":  "/consult/",
+        "mean":  "seek advice",
+        "pos":  "v.",
+        "level":  "core",
+        "tags":  [
+                     "business",
+                     "management"
+                 ],
+        "example":  "Our team needs to consult the plan this week.",
+        "exampleZh":  "",
+        "synonyms":  [
+
+                     ],
+        "distractors":  [
+
+                        ],
+        "source":  "release-build",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "toeic-0106",
+        "word":  "contact",
+        "displayWord":  "contact",
+        "phonetic":  "/contact/",
+        "mean":  "communicate with",
+        "pos":  "v.",
+        "level":  "core",
+        "tags":  [
+                     "business",
+                     "communication"
+                 ],
+        "example":  "Our team needs to contact the plan this week.",
+        "exampleZh":  "",
+        "synonyms":  [
+
+                     ],
+        "distractors":  [
+
+                        ],
+        "source":  "release-build",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "toeic-0107",
+        "word":  "decrease",
+        "displayWord":  "decrease",
+        "phonetic":  "/decrease/",
+        "mean":  "become less",
+        "pos":  "v.",
+        "level":  "core",
+        "tags":  [
+                     "business",
+                     "finance"
+                 ],
+        "example":  "Our team needs to decrease the plan this week.",
+        "exampleZh":  "",
+        "synonyms":  [
+
+                     ],
+        "distractors":  [
+
+                        ],
+        "source":  "release-build",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "toeic-0108",
+        "word":  "encourage",
+        "displayWord":  "encourage",
+        "phonetic":  "/encourage/",
+        "mean":  "give support",
+        "pos":  "v.",
+        "level":  "core",
+        "tags":  [
+                     "business",
+                     "management"
+                 ],
+        "example":  "Our team needs to encourage the plan this week.",
+        "exampleZh":  "",
+        "synonyms":  [
+
+                     ],
+        "distractors":  [
+
+                        ],
+        "source":  "release-build",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "toeic-0109",
+        "word":  "enforce",
+        "displayWord":  "enforce",
+        "phonetic":  "/enforce/",
+        "mean":  "make people obey",
+        "pos":  "v.",
+        "level":  "core",
+        "tags":  [
+                     "business",
+                     "policy"
+                 ],
+        "example":  "Our team needs to enforce the plan this week.",
+        "exampleZh":  "",
+        "synonyms":  [
+
+                     ],
+        "distractors":  [
+
+                        ],
+        "source":  "release-build",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "toeic-0110",
+        "word":  "exchange",
+        "displayWord":  "exchange",
+        "phonetic":  "/exchange/",
+        "mean":  "trade one thing for another",
+        "pos":  "v.",
+        "level":  "core",
+        "tags":  [
+                     "business",
+                     "transactions"
+                 ],
+        "example":  "Our team needs to exchange the plan this week.",
+        "exampleZh":  "",
+        "synonyms":  [
+
+                     ],
+        "distractors":  [
+
+                        ],
+        "source":  "release-build",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "toeic-0111",
+        "word":  "finalize",
+        "displayWord":  "finalize",
+        "phonetic":  "/finalize/",
+        "mean":  "complete officially",
+        "pos":  "v.",
+        "level":  "core",
+        "tags":  [
+                     "business",
+                     "workflow"
+                 ],
+        "example":  "Our team needs to finalize the plan this week.",
+        "exampleZh":  "",
+        "synonyms":  [
+
+                     ],
+        "distractors":  [
+
+                        ],
+        "source":  "release-build",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "toeic-0112",
+        "word":  "import",
+        "displayWord":  "import",
+        "phonetic":  "/import/",
+        "mean":  "bring goods into a country",
+        "pos":  "v.",
+        "level":  "core",
+        "tags":  [
+                     "business",
+                     "logistics"
+                 ],
+        "example":  "Our team needs to import the plan this week.",
+        "exampleZh":  "",
+        "synonyms":  [
+
+                     ],
+        "distractors":  [
+
+                        ],
+        "source":  "release-build",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "toeic-0113",
+        "word":  "minimize",
+        "displayWord":  "minimize",
+        "phonetic":  "/minimize/",
+        "mean":  "reduce as much as possible",
+        "pos":  "v.",
+        "level":  "core",
+        "tags":  [
+                     "business",
+                     "analysis"
+                 ],
+        "example":  "Our team needs to minimize the plan this week.",
+        "exampleZh":  "",
+        "synonyms":  [
+
+                     ],
+        "distractors":  [
+
+                        ],
+        "source":  "release-build",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "toeic-0114",
+        "word":  "obtain",
+        "displayWord":  "obtain",
+        "phonetic":  "/obtain/",
+        "mean":  "get",
+        "pos":  "v.",
+        "level":  "core",
+        "tags":  [
+                     "business",
+                     "workflow"
+                 ],
+        "example":  "Our team needs to obtain the plan this week.",
+        "exampleZh":  "",
+        "synonyms":  [
+
+                     ],
+        "distractors":  [
+
+                        ],
+        "source":  "release-build",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "toeic-0115",
+        "word":  "organize",
+        "displayWord":  "organize",
+        "phonetic":  "/organize/",
+        "mean":  "arrange",
+        "pos":  "v.",
+        "level":  "core",
+        "tags":  [
+                     "business",
+                     "management"
+                 ],
+        "example":  "Our team needs to organize the plan this week.",
+        "exampleZh":  "",
+        "synonyms":  [
+
+                     ],
+        "distractors":  [
+
+                        ],
+        "source":  "release-build",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "toeic-0116",
+        "word":  "persuade",
+        "displayWord":  "persuade",
+        "phonetic":  "/persuade/",
+        "mean":  "convince",
+        "pos":  "v.",
+        "level":  "core",
+        "tags":  [
+                     "business",
+                     "sales"
+                 ],
+        "example":  "Our team needs to persuade the plan this week.",
+        "exampleZh":  "",
+        "synonyms":  [
+
+                     ],
+        "distractors":  [
+
+                        ],
+        "source":  "release-build",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "toeic-0117",
+        "word":  "renew",
+        "displayWord":  "renew",
+        "phonetic":  "/renew/",
+        "mean":  "make valid again",
+        "pos":  "v.",
+        "level":  "core",
+        "tags":  [
+                     "business",
+                     "service"
+                 ],
+        "example":  "Our team needs to renew the plan this week.",
+        "exampleZh":  "",
+        "synonyms":  [
+
+                     ],
+        "distractors":  [
+
+                        ],
+        "source":  "release-build",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "toeic-0118",
+        "word":  "feasible",
+        "displayWord":  "feasible",
+        "phonetic":  "/feasible/",
+        "mean":  "practical",
+        "pos":  "adj.",
+        "level":  "core",
+        "tags":  [
+                     "business",
+                     "planning"
+                 ],
+        "example":  "The manager described the result as feasible during the meeting.",
+        "exampleZh":  "",
+        "synonyms":  [
+
+                     ],
+        "distractors":  [
+
+                        ],
+        "source":  "release-build",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "toeic-0119",
+        "word":  "annual",
+        "displayWord":  "annual",
+        "phonetic":  "/annual/",
+        "mean":  "yearly",
+        "pos":  "adj.",
+        "level":  "core",
+        "tags":  [
+                     "business",
+                     "reporting"
+                 ],
+        "example":  "The manager described the result as annual during the meeting.",
+        "exampleZh":  "",
+        "synonyms":  [
+
+                     ],
+        "distractors":  [
+
+                        ],
+        "source":  "release-build",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "toeic-0120",
+        "word":  "mandatory",
+        "displayWord":  "mandatory",
+        "phonetic":  "/mandatory/",
+        "mean":  "required",
+        "pos":  "adj.",
+        "level":  "core",
+        "tags":  [
+                     "business",
+                     "policy"
+                 ],
+        "example":  "The manager described the result as mandatory during the meeting.",
+        "exampleZh":  "",
+        "synonyms":  [
+
+                     ],
+        "distractors":  [
+
+                        ],
+        "source":  "release-build",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "toeic-0121",
+        "word":  "confidential",
+        "displayWord":  "confidential",
+        "phonetic":  "/confidential/",
+        "mean":  "private",
+        "pos":  "adj.",
+        "level":  "core",
+        "tags":  [
+                     "business",
+                     "legal"
+                 ],
+        "example":  "The manager described the result as confidential during the meeting.",
+        "exampleZh":  "",
+        "synonyms":  [
+
+                     ],
+        "distractors":  [
+
+                        ],
+        "source":  "release-build",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "toeic-0122",
+        "word":  "profitable",
+        "displayWord":  "profitable",
+        "phonetic":  "/profitable/",
+        "mean":  "making money",
+        "pos":  "adj.",
+        "level":  "core",
+        "tags":  [
+                     "business",
+                     "finance"
+                 ],
+        "example":  "The manager described the result as profitable during the meeting.",
+        "exampleZh":  "",
+        "synonyms":  [
+
+                     ],
+        "distractors":  [
+
+                        ],
+        "source":  "release-build",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "toeic-0123",
+        "word":  "efficient",
+        "displayWord":  "efficient",
+        "phonetic":  "/efficient/",
+        "mean":  "productive",
+        "pos":  "adj.",
+        "level":  "core",
+        "tags":  [
+                     "business",
+                     "performance"
+                 ],
+        "example":  "The manager described the result as efficient during the meeting.",
+        "exampleZh":  "",
+        "synonyms":  [
+
+                     ],
+        "distractors":  [
+
+                        ],
+        "source":  "release-build",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "toeic-0124",
+        "word":  "quarterly",
+        "displayWord":  "quarterly",
+        "phonetic":  "/quarterly/",
+        "mean":  "every three months",
+        "pos":  "adj.",
+        "level":  "core",
+        "tags":  [
+                     "business",
+                     "reporting"
+                 ],
+        "example":  "The manager described the result as quarterly during the meeting.",
+        "exampleZh":  "",
+        "synonyms":  [
+
+                     ],
+        "distractors":  [
+
+                        ],
+        "source":  "release-build",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "toeic-0125",
+        "word":  "temporary",
+        "displayWord":  "temporary",
+        "phonetic":  "/temporary/",
+        "mean":  "not permanent",
+        "pos":  "adj.",
+        "level":  "core",
+        "tags":  [
+                     "business",
+                     "hr"
+                 ],
+        "example":  "The manager described the result as temporary during the meeting.",
+        "exampleZh":  "",
+        "synonyms":  [
+
+                     ],
+        "distractors":  [
+
+                        ],
+        "source":  "release-build",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "toeic-0126",
+        "word":  "available",
+        "displayWord":  "available",
+        "phonetic":  "/available/",
+        "mean":  "ready for use",
+        "pos":  "adj.",
+        "level":  "core",
+        "tags":  [
+                     "business",
+                     "service"
+                 ],
+        "example":  "The manager described the result as available during the meeting.",
+        "exampleZh":  "",
+        "synonyms":  [
+
+                     ],
+        "distractors":  [
+
+                        ],
+        "source":  "release-build",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "toeic-0127",
+        "word":  "competitive",
+        "displayWord":  "competitive",
+        "phonetic":  "/competitive/",
+        "mean":  "able to compete well",
+        "pos":  "adj.",
+        "level":  "core",
+        "tags":  [
+                     "business",
+                     "strategy"
+                 ],
+        "example":  "The manager described the result as competitive during the meeting.",
+        "exampleZh":  "",
+        "synonyms":  [
+
+                     ],
+        "distractors":  [
+
+                        ],
+        "source":  "release-build",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "toeic-0128",
+        "word":  "flexible",
+        "displayWord":  "flexible",
+        "phonetic":  "/flexible/",
+        "mean":  "easy to adjust",
+        "pos":  "adj.",
+        "level":  "core",
+        "tags":  [
+                     "business",
+                     "management"
+                 ],
+        "example":  "The manager described the result as flexible during the meeting.",
+        "exampleZh":  "",
+        "synonyms":  [
+
+                     ],
+        "distractors":  [
+
+                        ],
+        "source":  "release-build",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "toeic-0129",
+        "word":  "reliable",
+        "displayWord":  "reliable",
+        "phonetic":  "/reliable/",
+        "mean":  "dependable",
+        "pos":  "adj.",
+        "level":  "core",
+        "tags":  [
+                     "business",
+                     "service"
+                 ],
+        "example":  "The manager described the result as reliable during the meeting.",
+        "exampleZh":  "",
+        "synonyms":  [
+
+                     ],
+        "distractors":  [
+
+                        ],
+        "source":  "release-build",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "toeic-0130",
+        "word":  "durable",
+        "displayWord":  "durable",
+        "phonetic":  "/durable/",
+        "mean":  "long-lasting",
+        "pos":  "adj.",
+        "level":  "core",
+        "tags":  [
+                     "business",
+                     "product"
+                 ],
+        "example":  "The manager described the result as durable during the meeting.",
+        "exampleZh":  "",
+        "synonyms":  [
+
+                     ],
+        "distractors":  [
+
+                        ],
+        "source":  "release-build",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "toeic-0131",
+        "word":  "immediate",
+        "displayWord":  "immediate",
+        "phonetic":  "/immediate/",
+        "mean":  "happening at once",
+        "pos":  "adj.",
+        "level":  "core",
+        "tags":  [
+                     "business",
+                     "workflow"
+                 ],
+        "example":  "The manager described the result as immediate during the meeting.",
+        "exampleZh":  "",
+        "synonyms":  [
+
+                     ],
+        "distractors":  [
+
+                        ],
+        "source":  "release-build",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "toeic-0132",
+        "word":  "regional",
+        "displayWord":  "regional",
+        "phonetic":  "/regional/",
+        "mean":  "relating to one area",
+        "pos":  "adj.",
+        "level":  "core",
+        "tags":  [
+                     "business",
+                     "organization"
+                 ],
+        "example":  "The manager described the result as regional during the meeting.",
+        "exampleZh":  "",
+        "synonyms":  [
+
+                     ],
+        "distractors":  [
+
+                        ],
+        "source":  "release-build",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "toeic-0133",
+        "word":  "financial",
+        "displayWord":  "financial",
+        "phonetic":  "/financial/",
+        "mean":  "related to money",
+        "pos":  "adj.",
+        "level":  "core",
+        "tags":  [
+                     "business",
+                     "finance"
+                 ],
+        "example":  "The manager described the result as financial during the meeting.",
+        "exampleZh":  "",
+        "synonyms":  [
+
+                     ],
+        "distractors":  [
+
+                        ],
+        "source":  "release-build",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "toeic-0134",
+        "word":  "corporate",
+        "displayWord":  "corporate",
+        "phonetic":  "/corporate/",
+        "mean":  "related to a company",
+        "pos":  "adj.",
+        "level":  "core",
+        "tags":  [
+                     "business",
+                     "organization"
+                 ],
+        "example":  "The manager described the result as corporate during the meeting.",
+        "exampleZh":  "",
+        "synonyms":  [
+
+                     ],
+        "distractors":  [
+
+                        ],
+        "source":  "release-build",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "toeic-0135",
+        "word":  "productive",
+        "displayWord":  "productive",
+        "phonetic":  "/productive/",
+        "mean":  "producing a lot",
+        "pos":  "adj.",
+        "level":  "core",
+        "tags":  [
+                     "business",
+                     "performance"
+                 ],
+        "example":  "The manager described the result as productive during the meeting.",
+        "exampleZh":  "",
+        "synonyms":  [
+
+                     ],
+        "distractors":  [
+
+                        ],
+        "source":  "release-build",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "toeic-0136",
+        "word":  "strategic",
+        "displayWord":  "strategic",
+        "phonetic":  "/strategic/",
+        "mean":  "important for long-term plans",
+        "pos":  "adj.",
+        "level":  "core",
+        "tags":  [
+                     "business",
+                     "planning"
+                 ],
+        "example":  "The manager described the result as strategic during the meeting.",
+        "exampleZh":  "",
+        "synonyms":  [
+
+                     ],
+        "distractors":  [
+
+                        ],
+        "source":  "release-build",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "toeic-0137",
+        "word":  "internal",
+        "displayWord":  "internal",
+        "phonetic":  "/internal/",
+        "mean":  "within the company",
+        "pos":  "adj.",
+        "level":  "core",
+        "tags":  [
+                     "business",
+                     "organization"
+                 ],
+        "example":  "The manager described the result as internal during the meeting.",
+        "exampleZh":  "",
+        "synonyms":  [
+
+                     ],
+        "distractors":  [
+
+                        ],
+        "source":  "release-build",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "toeic-0138",
+        "word":  "external",
+        "displayWord":  "external",
+        "phonetic":  "/external/",
+        "mean":  "coming from outside",
+        "pos":  "adj.",
+        "level":  "core",
+        "tags":  [
+                     "business",
+                     "organization"
+                 ],
+        "example":  "The manager described the result as external during the meeting.",
+        "exampleZh":  "",
+        "synonyms":  [
+
+                     ],
+        "distractors":  [
+
+                        ],
+        "source":  "release-build",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "toeic-0139",
+        "word":  "legal",
+        "displayWord":  "legal",
+        "phonetic":  "/legal/",
+        "mean":  "allowed by law",
+        "pos":  "adj.",
+        "level":  "core",
+        "tags":  [
+                     "business",
+                     "legal"
+                 ],
+        "example":  "The manager described the result as legal during the meeting.",
+        "exampleZh":  "",
+        "synonyms":  [
+
+                     ],
+        "distractors":  [
+
+                        ],
+        "source":  "release-build",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "toeic-0140",
+        "word":  "convenient",
+        "displayWord":  "convenient",
+        "phonetic":  "/convenient/",
+        "mean":  "easy to use",
+        "pos":  "adj.",
+        "level":  "core",
+        "tags":  [
+                     "business",
+                     "service"
+                 ],
+        "example":  "The manager described the result as convenient during the meeting.",
+        "exampleZh":  "",
+        "synonyms":  [
+
+                     ],
+        "distractors":  [
+
+                        ],
+        "source":  "release-build",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "toeic-0141",
+        "word":  "formal",
+        "displayWord":  "formal",
+        "phonetic":  "/formal/",
+        "mean":  "official and proper",
+        "pos":  "adj.",
+        "level":  "core",
+        "tags":  [
+                     "business",
+                     "communication"
+                 ],
+        "example":  "The manager described the result as formal during the meeting.",
+        "exampleZh":  "",
+        "synonyms":  [
+
+                     ],
+        "distractors":  [
+
+                        ],
+        "source":  "release-build",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "toeic-0142",
+        "word":  "digital",
+        "displayWord":  "digital",
+        "phonetic":  "/digital/",
+        "mean":  "using computer technology",
+        "pos":  "adj.",
+        "level":  "core",
+        "tags":  [
+                     "business",
+                     "technology"
+                 ],
+        "example":  "The manager described the result as digital during the meeting.",
+        "exampleZh":  "",
+        "synonyms":  [
+
+                     ],
+        "distractors":  [
+
+                        ],
+        "source":  "release-build",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "toeic-0143",
+        "word":  "practical",
+        "displayWord":  "practical",
+        "phonetic":  "/practical/",
+        "mean":  "useful in real situations",
+        "pos":  "adj.",
+        "level":  "core",
+        "tags":  [
+                     "business",
+                     "planning"
+                 ],
+        "example":  "The manager described the result as practical during the meeting.",
+        "exampleZh":  "",
+        "synonyms":  [
+
+                     ],
+        "distractors":  [
+
+                        ],
+        "source":  "release-build",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "toeic-0144",
+        "word":  "effective",
+        "displayWord":  "effective",
+        "phonetic":  "/effective/",
+        "mean":  "producing the intended result",
+        "pos":  "adj.",
+        "level":  "core",
+        "tags":  [
+                     "business",
+                     "performance"
+                 ],
+        "example":  "The manager described the result as effective during the meeting.",
+        "exampleZh":  "",
+        "synonyms":  [
+
+                     ],
+        "distractors":  [
+
+                        ],
+        "source":  "release-build",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "toeic-0145",
+        "word":  "pending",
+        "displayWord":  "pending",
+        "phonetic":  "/pending/",
+        "mean":  "waiting to be decided",
+        "pos":  "adj.",
+        "level":  "core",
+        "tags":  [
+                     "business",
+                     "workflow"
+                 ],
+        "example":  "The manager described the result as pending during the meeting.",
+        "exampleZh":  "",
+        "synonyms":  [
+
+                     ],
+        "distractors":  [
+
+                        ],
+        "source":  "release-build",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "toeic-0146",
+        "word":  "overdue",
+        "displayWord":  "overdue",
+        "phonetic":  "/overdue/",
+        "mean":  "late",
+        "pos":  "adj.",
+        "level":  "core",
+        "tags":  [
+                     "business",
+                     "workflow"
+                 ],
+        "example":  "The manager described the result as overdue during the meeting.",
+        "exampleZh":  "",
+        "synonyms":  [
+
+                     ],
+        "distractors":  [
+
+                        ],
+        "source":  "release-build",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "toeic-0147",
+        "word":  "stable",
+        "displayWord":  "stable",
+        "phonetic":  "/stable/",
+        "mean":  "not changing much",
+        "pos":  "adj.",
+        "level":  "core",
+        "tags":  [
+                     "business",
+                     "finance"
+                 ],
+        "example":  "The manager described the result as stable during the meeting.",
+        "exampleZh":  "",
+        "synonyms":  [
+
+                     ],
+        "distractors":  [
+
+                        ],
+        "source":  "release-build",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "toeic-0148",
+        "word":  "global",
+        "displayWord":  "global",
+        "phonetic":  "/global/",
+        "mean":  "worldwide",
+        "pos":  "adj.",
+        "level":  "core",
+        "tags":  [
+                     "business",
+                     "organization"
+                 ],
+        "example":  "The manager described the result as global during the meeting.",
+        "exampleZh":  "",
+        "synonyms":  [
+
+                     ],
+        "distractors":  [
+
+                        ],
+        "source":  "release-build",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "toeic-0149",
+        "word":  "domestic",
+        "displayWord":  "domestic",
+        "phonetic":  "/domestic/",
+        "mean":  "within one country",
+        "pos":  "adj.",
+        "level":  "core",
+        "tags":  [
+                     "business",
+                     "organization"
+                 ],
+        "example":  "The manager described the result as domestic during the meeting.",
+        "exampleZh":  "",
+        "synonyms":  [
+
+                     ],
+        "distractors":  [
+
+                        ],
+        "source":  "release-build",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "toeic-0150",
+        "word":  "sustainable",
+        "displayWord":  "sustainable",
+        "phonetic":  "/sustainable/",
+        "mean":  "able to continue over time",
+        "pos":  "adj.",
+        "level":  "core",
+        "tags":  [
+                     "business",
+                     "strategy"
+                 ],
+        "example":  "The manager described the result as sustainable during the meeting.",
+        "exampleZh":  "",
+        "synonyms":  [
+
+                     ],
+        "distractors":  [
+
+                        ],
+        "source":  "release-build",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "toeic-0151",
+        "word":  "accurate",
+        "displayWord":  "accurate",
+        "phonetic":  "/accurate/",
+        "mean":  "correct and exact",
+        "pos":  "adj.",
+        "level":  "core",
+        "tags":  [
+                     "business",
+                     "analysis"
+                 ],
+        "example":  "The manager described the result as accurate during the meeting.",
+        "exampleZh":  "",
+        "synonyms":  [
+
+                     ],
+        "distractors":  [
+
+                        ],
+        "source":  "release-build",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "toeic-0152",
+        "word":  "consistent",
+        "displayWord":  "consistent",
+        "phonetic":  "/consistent/",
+        "mean":  "always acting the same way",
+        "pos":  "adj.",
+        "level":  "core",
+        "tags":  [
+                     "business",
+                     "quality"
+                 ],
+        "example":  "The manager described the result as consistent during the meeting.",
+        "exampleZh":  "",
+        "synonyms":  [
+
+                     ],
+        "distractors":  [
+
+                        ],
+        "source":  "release-build",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "toeic-0153",
+        "word":  "professional",
+        "displayWord":  "professional",
+        "phonetic":  "/professional/",
+        "mean":  "showing skill and care",
+        "pos":  "adj.",
+        "level":  "core",
+        "tags":  [
+                     "business",
+                     "service"
+                 ],
+        "example":  "The manager described the result as professional during the meeting.",
+        "exampleZh":  "",
+        "synonyms":  [
+
+                     ],
+        "distractors":  [
+
+                        ],
+        "source":  "release-build",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "toeic-0154",
+        "word":  "innovative",
+        "displayWord":  "innovative",
+        "phonetic":  "/innovative/",
+        "mean":  "introducing new ideas",
+        "pos":  "adj.",
+        "level":  "core",
+        "tags":  [
+                     "business",
+                     "strategy"
+                 ],
+        "example":  "The manager described the result as innovative during the meeting.",
+        "exampleZh":  "",
+        "synonyms":  [
+
+                     ],
+        "distractors":  [
+
+                        ],
+        "source":  "release-build",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "toeic-0155",
+        "word":  "selective",
+        "displayWord":  "selective",
+        "phonetic":  "/selective/",
+        "mean":  "careful in choosing",
+        "pos":  "adj.",
+        "level":  "core",
+        "tags":  [
+                     "business",
+                     "hr"
+                 ],
+        "example":  "The manager described the result as selective during the meeting.",
+        "exampleZh":  "",
+        "synonyms":  [
+
+                     ],
+        "distractors":  [
+
+                        ],
+        "source":  "release-build",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "toeic-0156",
+        "word":  "direct",
+        "displayWord":  "direct",
+        "phonetic":  "/direct/",
+        "mean":  "straight and clear",
+        "pos":  "adj.",
+        "level":  "core",
+        "tags":  [
+                     "business",
+                     "communication"
+                 ],
+        "example":  "The manager described the result as direct during the meeting.",
+        "exampleZh":  "",
+        "synonyms":  [
+
+                     ],
+        "distractors":  [
+
+                        ],
+        "source":  "release-build",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "toeic-0157",
+        "word":  "frequent",
+        "displayWord":  "frequent",
+        "phonetic":  "/frequent/",
+        "mean":  "happening often",
+        "pos":  "adj.",
+        "level":  "core",
+        "tags":  [
+                     "business",
+                     "operations"
+                 ],
+        "example":  "The manager described the result as frequent during the meeting.",
+        "exampleZh":  "",
+        "synonyms":  [
+
+                     ],
+        "distractors":  [
+
+                        ],
+        "source":  "release-build",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "toeic-0158",
+        "word":  "objective",
+        "displayWord":  "objective",
+        "phonetic":  "/objective/",
+        "mean":  "goal",
+        "pos":  "n.",
+        "level":  "core",
+        "tags":  [
+                     "business",
+                     "planning"
+                 ],
+        "example":  "The meeting focused on the objective in today\u0027s discussion.",
+        "exampleZh":  "",
+        "synonyms":  [
+
+                     ],
+        "distractors":  [
+
+                        ],
+        "source":  "release-build",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "toeic-0159",
+        "word":  "guideline",
+        "displayWord":  "guideline",
+        "phonetic":  "/guideline/",
+        "mean":  "recommended rule",
+        "pos":  "n.",
+        "level":  "core",
+        "tags":  [
+                     "business",
+                     "policy"
+                 ],
+        "example":  "The meeting focused on the guideline in today\u0027s discussion.",
+        "exampleZh":  "",
+        "synonyms":  [
+
+                     ],
+        "distractors":  [
+
+                        ],
+        "source":  "release-build",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "toeic-0160",
+        "word":  "partnership",
+        "displayWord":  "partnership",
+        "phonetic":  "/partnership/",
+        "mean":  "business relationship",
+        "pos":  "n.",
+        "level":  "core",
+        "tags":  [
+                     "business",
+                     "organization"
+                 ],
+        "example":  "The meeting focused on the partnership in today\u0027s discussion.",
+        "exampleZh":  "",
+        "synonyms":  [
+
+                     ],
+        "distractors":  [
+
+                        ],
+        "source":  "release-build",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "toeic-0161",
+        "word":  "monopoly",
+        "displayWord":  "monopoly",
+        "phonetic":  "/monopoly/",
+        "mean":  "single-seller control",
+        "pos":  "n.",
+        "level":  "core",
+        "tags":  [
+                     "business",
+                     "economics"
+                 ],
+        "example":  "The meeting focused on the monopoly in today\u0027s discussion.",
+        "exampleZh":  "",
+        "synonyms":  [
+
+                     ],
+        "distractors":  [
+
+                        ],
+        "source":  "release-build",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "toeic-0162",
+        "word":  "portfolio",
+        "displayWord":  "portfolio",
+        "phonetic":  "/portfolio/",
+        "mean":  "set of investments",
+        "pos":  "n.",
+        "level":  "core",
+        "tags":  [
+                     "business",
+                     "finance"
+                 ],
+        "example":  "The meeting focused on the portfolio in today\u0027s discussion.",
+        "exampleZh":  "",
+        "synonyms":  [
+
+                     ],
+        "distractors":  [
+
+                        ],
+        "source":  "release-build",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "toeic-0163",
+        "word":  "insurance",
+        "displayWord":  "insurance",
+        "phonetic":  "/insurance/",
+        "mean":  "financial protection",
+        "pos":  "n.",
+        "level":  "core",
+        "tags":  [
+                     "business",
+                     "finance"
+                 ],
+        "example":  "The meeting focused on the insurance in today\u0027s discussion.",
+        "exampleZh":  "",
+        "synonyms":  [
+
+                     ],
+        "distractors":  [
+
+                        ],
+        "source":  "release-build",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "toeic-0164",
+        "word":  "division",
+        "displayWord":  "division",
+        "phonetic":  "/division/",
+        "mean":  "separate section",
+        "pos":  "n.",
+        "level":  "core",
+        "tags":  [
+                     "business",
+                     "organization"
+                 ],
+        "example":  "The meeting focused on the division in today\u0027s discussion.",
+        "exampleZh":  "",
+        "synonyms":  [
+
+                     ],
+        "distractors":  [
+
+                        ],
+        "source":  "release-build",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "toeic-0165",
+        "word":  "colleague",
+        "displayWord":  "colleague",
+        "phonetic":  "/colleague/",
+        "mean":  "coworker",
+        "pos":  "n.",
+        "level":  "core",
+        "tags":  [
+                     "business",
+                     "hr"
+                 ],
+        "example":  "The meeting focused on the colleague in today\u0027s discussion.",
+        "exampleZh":  "",
+        "synonyms":  [
+
+                     ],
+        "distractors":  [
+
+                        ],
+        "source":  "release-build",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "toeic-0166",
+        "word":  "employer",
+        "displayWord":  "employer",
+        "phonetic":  "/employer/",
+        "mean":  "company hiring workers",
+        "pos":  "n.",
+        "level":  "core",
+        "tags":  [
+                     "business",
+                     "hr"
+                 ],
+        "example":  "The meeting focused on the employer in today\u0027s discussion.",
+        "exampleZh":  "",
+        "synonyms":  [
+
+                     ],
+        "distractors":  [
+
+                        ],
+        "source":  "release-build",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "toeic-0167",
+        "word":  "consumer",
+        "displayWord":  "consumer",
+        "phonetic":  "/consumer/",
+        "mean":  "buyer of products",
+        "pos":  "n.",
+        "level":  "core",
+        "tags":  [
+                     "business",
+                     "marketing"
+                 ],
+        "example":  "The meeting focused on the consumer in today\u0027s discussion.",
+        "exampleZh":  "",
+        "synonyms":  [
+
+                     ],
+        "distractors":  [
+
+                        ],
+        "source":  "release-build",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "toeic-0168",
+        "word":  "shareholder",
+        "displayWord":  "shareholder",
+        "phonetic":  "/shareholder/",
+        "mean":  "owner of company shares",
+        "pos":  "n.",
+        "level":  "core",
+        "tags":  [
+                     "business",
+                     "finance"
+                 ],
+        "example":  "The meeting focused on the shareholder in today\u0027s discussion.",
+        "exampleZh":  "",
+        "synonyms":  [
+
+                     ],
+        "distractors":  [
+
+                        ],
+        "source":  "release-build",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "toeic-0169",
+        "word":  "bankruptcy",
+        "displayWord":  "bankruptcy",
+        "phonetic":  "/bankruptcy/",
+        "mean":  "state of failing financially",
+        "pos":  "n.",
+        "level":  "core",
+        "tags":  [
+                     "business",
+                     "finance"
+                 ],
+        "example":  "The meeting focused on the bankruptcy in today\u0027s discussion.",
+        "exampleZh":  "",
+        "synonyms":  [
+
+                     ],
+        "distractors":  [
+
+                        ],
+        "source":  "release-build",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "toeic-0170",
+        "word":  "database",
+        "displayWord":  "database",
+        "phonetic":  "/database/",
+        "mean":  "organized data collection",
+        "pos":  "n.",
+        "level":  "core",
+        "tags":  [
+                     "business",
+                     "technology"
+                 ],
+        "example":  "The meeting focused on the database in today\u0027s discussion.",
+        "exampleZh":  "",
+        "synonyms":  [
+
+                     ],
+        "distractors":  [
+
+                        ],
+        "source":  "release-build",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "toeic-0171",
+        "word":  "signature",
+        "displayWord":  "signature",
+        "phonetic":  "/signature/",
+        "mean":  "written name approval",
+        "pos":  "n.",
+        "level":  "core",
+        "tags":  [
+                     "business",
+                     "legal"
+                 ],
+        "example":  "The meeting focused on the signature in today\u0027s discussion.",
+        "exampleZh":  "",
+        "synonyms":  [
+
+                     ],
+        "distractors":  [
+
+                        ],
+        "source":  "release-build",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "toeic-0172",
+        "word":  "memorandum",
+        "displayWord":  "memorandum",
+        "phonetic":  "/memorandum/",
+        "mean":  "short official note",
+        "pos":  "n.",
+        "level":  "core",
+        "tags":  [
+                     "business",
+                     "communication"
+                 ],
+        "example":  "The meeting focused on the memorandum in today\u0027s discussion.",
+        "exampleZh":  "",
+        "synonyms":  [
+
+                     ],
+        "distractors":  [
+
+                        ],
+        "source":  "release-build",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "toeic-0173",
+        "word":  "itinerary",
+        "displayWord":  "itinerary",
+        "phonetic":  "/itinerary/",
+        "mean":  "travel schedule",
+        "pos":  "n.",
+        "level":  "core",
+        "tags":  [
+                     "business",
+                     "travel"
+                 ],
+        "example":  "The meeting focused on the itinerary in today\u0027s discussion.",
+        "exampleZh":  "",
+        "synonyms":  [
+
+                     ],
+        "distractors":  [
+
+                        ],
+        "source":  "release-build",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "toeic-0174",
+        "word":  "documentation",
+        "displayWord":  "documentation",
+        "phonetic":  "/documentation/",
+        "mean":  "official written records",
+        "pos":  "n.",
+        "level":  "core",
+        "tags":  [
+                     "business",
+                     "workflow"
+                 ],
+        "example":  "The meeting focused on the documentation in today\u0027s discussion.",
+        "exampleZh":  "",
+        "synonyms":  [
+
+                     ],
+        "distractors":  [
+
+                        ],
+        "source":  "release-build",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "toeic-0175",
+        "word":  "outcome",
+        "displayWord":  "outcome",
+        "phonetic":  "/outcome/",
+        "mean":  "result",
+        "pos":  "n.",
+        "level":  "core",
+        "tags":  [
+                     "business",
+                     "analysis"
+                 ],
+        "example":  "The meeting focused on the outcome in today\u0027s discussion.",
+        "exampleZh":  "",
+        "synonyms":  [
+
+                     ],
+        "distractors":  [
+
+                        ],
+        "source":  "release-build",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "toeic-0176",
+        "word":  "workforce",
+        "displayWord":  "workforce",
+        "phonetic":  "/workforce/",
+        "mean":  "all employees",
+        "pos":  "n.",
+        "level":  "core",
+        "tags":  [
+                     "business",
+                     "hr"
+                 ],
+        "example":  "The meeting focused on the workforce in today\u0027s discussion.",
+        "exampleZh":  "",
+        "synonyms":  [
+
+                     ],
+        "distractors":  [
+
+                        ],
+        "source":  "release-build",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "toeic-0177",
+        "word":  "benchmark",
+        "displayWord":  "benchmark",
+        "phonetic":  "/benchmark/",
+        "mean":  "standard for comparison",
+        "pos":  "n.",
+        "level":  "core",
+        "tags":  [
+                     "business",
+                     "analysis"
+                 ],
+        "example":  "The meeting focused on the benchmark in today\u0027s discussion.",
+        "exampleZh":  "",
+        "synonyms":  [
+
+                     ],
+        "distractors":  [
+
+                        ],
+        "source":  "release-build",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "toeic-0178",
+        "word":  "outlet",
+        "displayWord":  "outlet",
+        "phonetic":  "/outlet/",
+        "mean":  "store branch",
+        "pos":  "n.",
+        "level":  "core",
+        "tags":  [
+                     "business",
+                     "sales"
+                 ],
+        "example":  "The meeting focused on the outlet in today\u0027s discussion.",
+        "exampleZh":  "",
+        "synonyms":  [
+
+                     ],
+        "distractors":  [
+
+                        ],
+        "source":  "release-build",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "toeic-0179",
+        "word":  "prospect",
+        "displayWord":  "prospect",
+        "phonetic":  "/prospect/",
+        "mean":  "possible customer or future chance",
+        "pos":  "n.",
+        "level":  "core",
+        "tags":  [
+                     "business",
+                     "sales"
+                 ],
+        "example":  "The meeting focused on the prospect in today\u0027s discussion.",
+        "exampleZh":  "",
+        "synonyms":  [
+
+                     ],
+        "distractors":  [
+
+                        ],
+        "source":  "release-build",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "toeic-0180",
+        "word":  "stakeholder",
+        "displayWord":  "stakeholder",
+        "phonetic":  "/stakeholder/",
+        "mean":  "interested party",
+        "pos":  "n.",
+        "level":  "core",
+        "tags":  [
+                     "business",
+                     "management"
+                 ],
+        "example":  "The meeting focused on the stakeholder in today\u0027s discussion.",
+        "exampleZh":  "",
+        "synonyms":  [
+
+                     ],
+        "distractors":  [
+
+                        ],
+        "source":  "release-build",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "toeic-0181",
+        "word":  "expenditure",
+        "displayWord":  "expenditure",
+        "phonetic":  "/expenditure/",
+        "mean":  "amount spent",
+        "pos":  "n.",
+        "level":  "core",
+        "tags":  [
+                     "business",
+                     "finance"
+                 ],
+        "example":  "The meeting focused on the expenditure in today\u0027s discussion.",
+        "exampleZh":  "",
+        "synonyms":  [
+
+                     ],
+        "distractors":  [
+
+                        ],
+        "source":  "release-build",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "toeic-0182",
+        "word":  "turnover",
+        "displayWord":  "turnover",
+        "phonetic":  "/turnover/",
+        "mean":  "rate of sales or staff change",
+        "pos":  "n.",
+        "level":  "core",
+        "tags":  [
+                     "business",
+                     "finance"
+                 ],
+        "example":  "The meeting focused on the turnover in today\u0027s discussion.",
+        "exampleZh":  "",
+        "synonyms":  [
+
+                     ],
+        "distractors":  [
+
+                        ],
+        "source":  "release-build",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "toeic-0183",
+        "word":  "occupancy",
+        "displayWord":  "occupancy",
+        "phonetic":  "/occupancy/",
+        "mean":  "use of a space",
+        "pos":  "n.",
+        "level":  "core",
+        "tags":  [
+                     "business",
+                     "facilities"
+                 ],
+        "example":  "The meeting focused on the occupancy in today\u0027s discussion.",
+        "exampleZh":  "",
+        "synonyms":  [
+
+                     ],
+        "distractors":  [
+
+                        ],
+        "source":  "release-build",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "toeic-0184",
+        "word":  "tariff",
+        "displayWord":  "tariff",
+        "phonetic":  "/tariff/",
+        "mean":  "tax on imports",
+        "pos":  "n.",
+        "level":  "core",
+        "tags":  [
+                     "business",
+                     "trade"
+                 ],
+        "example":  "The meeting focused on the tariff in today\u0027s discussion.",
+        "exampleZh":  "",
+        "synonyms":  [
+
+                     ],
+        "distractors":  [
+
+                        ],
+        "source":  "release-build",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "toeic-0185",
+        "word":  "gradually",
+        "displayWord":  "gradually",
+        "phonetic":  "/gradually/",
+        "mean":  "slowly over time",
+        "pos":  "adv.",
+        "level":  "core",
+        "tags":  [
+                     "business",
+                     "planning"
+                 ],
+        "example":  "The proposal was reviewed gradually before approval.",
+        "exampleZh":  "",
+        "synonyms":  [
+
+                     ],
+        "distractors":  [
+
+                        ],
+        "source":  "release-build",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "toeic-0186",
+        "word":  "strictly",
+        "displayWord":  "strictly",
+        "phonetic":  "/strictly/",
+        "mean":  "in a firm exact way",
+        "pos":  "adv.",
+        "level":  "core",
+        "tags":  [
+                     "business",
+                     "policy"
+                 ],
+        "example":  "The proposal was reviewed strictly before approval.",
+        "exampleZh":  "",
+        "synonyms":  [
+
+                     ],
+        "distractors":  [
+
+                        ],
+        "source":  "release-build",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "toeic-0187",
+        "word":  "beforehand",
+        "displayWord":  "beforehand",
+        "phonetic":  "/beforehand/",
+        "mean":  "in advance",
+        "pos":  "adv.",
+        "level":  "core",
+        "tags":  [
+                     "business",
+                     "planning"
+                 ],
+        "example":  "The proposal was reviewed beforehand before approval.",
+        "exampleZh":  "",
+        "synonyms":  [
+
+                     ],
+        "distractors":  [
+
+                        ],
+        "source":  "release-build",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "toeic-0188",
+        "word":  "annually",
+        "displayWord":  "annually",
+        "phonetic":  "/annually/",
+        "mean":  "every year",
+        "pos":  "adv.",
+        "level":  "core",
+        "tags":  [
+                     "business",
+                     "reporting"
+                 ],
+        "example":  "The proposal was reviewed annually before approval.",
+        "exampleZh":  "",
+        "synonyms":  [
+
+                     ],
+        "distractors":  [
+
+                        ],
+        "source":  "release-build",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "toeic-0189",
+        "word":  "efficiently",
+        "displayWord":  "efficiently",
+        "phonetic":  "/efficiently/",
+        "mean":  "in a productive way",
+        "pos":  "adv.",
+        "level":  "core",
+        "tags":  [
+                     "business",
+                     "performance"
+                 ],
+        "example":  "The proposal was reviewed efficiently before approval.",
+        "exampleZh":  "",
+        "synonyms":  [
+
+                     ],
+        "distractors":  [
+
+                        ],
+        "source":  "release-build",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "toeic-0190",
+        "word":  "formally",
+        "displayWord":  "formally",
+        "phonetic":  "/formally/",
+        "mean":  "in an official way",
+        "pos":  "adv.",
+        "level":  "core",
+        "tags":  [
+                     "business",
+                     "communication"
+                 ],
+        "example":  "The proposal was reviewed formally before approval.",
+        "exampleZh":  "",
+        "synonyms":  [
+
+                     ],
+        "distractors":  [
+
+                        ],
+        "source":  "release-build",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "toeic-0191",
+        "word":  "securely",
+        "displayWord":  "securely",
+        "phonetic":  "/securely/",
+        "mean":  "in a safe way",
+        "pos":  "adv.",
+        "level":  "core",
+        "tags":  [
+                     "business",
+                     "technology"
+                 ],
+        "example":  "The proposal was reviewed securely before approval.",
+        "exampleZh":  "",
+        "synonyms":  [
+
+                     ],
+        "distractors":  [
+
+                        ],
+        "source":  "release-build",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "toeic-0192",
+        "word":  "carefully",
+        "displayWord":  "carefully",
+        "phonetic":  "/carefully/",
+        "mean":  "with attention",
+        "pos":  "adv.",
+        "level":  "core",
+        "tags":  [
+                     "business",
+                     "quality"
+                 ],
+        "example":  "The proposal was reviewed carefully before approval.",
+        "exampleZh":  "",
+        "synonyms":  [
+
+                     ],
+        "distractors":  [
+
+                        ],
+        "source":  "release-build",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "toeic-0193",
+        "word":  "widely",
+        "displayWord":  "widely",
+        "phonetic":  "/widely/",
+        "mean":  "over a large area",
+        "pos":  "adv.",
+        "level":  "core",
+        "tags":  [
+                     "business",
+                     "marketing"
+                 ],
+        "example":  "The proposal was reviewed widely before approval.",
+        "exampleZh":  "",
+        "synonyms":  [
+
+                     ],
+        "distractors":  [
+
+                        ],
+        "source":  "release-build",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "toeic-0194",
+        "word":  "overseas",
+        "displayWord":  "overseas",
+        "phonetic":  "/overseas/",
+        "mean":  "in another country",
+        "pos":  "adv.",
+        "level":  "core",
+        "tags":  [
+                     "business",
+                     "trade"
+                 ],
+        "example":  "The proposal was reviewed overseas before approval.",
+        "exampleZh":  "",
+        "synonyms":  [
+
+                     ],
+        "distractors":  [
+
+                        ],
+        "source":  "release-build",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "toeic-0195",
+        "word":  "locally",
+        "displayWord":  "locally",
+        "phonetic":  "/locally/",
+        "mean":  "within the area",
+        "pos":  "adv.",
+        "level":  "core",
+        "tags":  [
+                     "business",
+                     "sales"
+                 ],
+        "example":  "The proposal was reviewed locally before approval.",
+        "exampleZh":  "",
+        "synonyms":  [
+
+                     ],
+        "distractors":  [
+
+                        ],
+        "source":  "release-build",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "toeic-0196",
+        "word":  "partially",
+        "displayWord":  "partially",
+        "phonetic":  "/partially/",
+        "mean":  "not completely",
+        "pos":  "adv.",
+        "level":  "core",
+        "tags":  [
+                     "business",
+                     "workflow"
+                 ],
+        "example":  "The proposal was reviewed partially before approval.",
+        "exampleZh":  "",
+        "synonyms":  [
+
+                     ],
+        "distractors":  [
+
+                        ],
+        "source":  "release-build",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "toeic-0197",
+        "word":  "jointly",
+        "displayWord":  "jointly",
+        "phonetic":  "/jointly/",
+        "mean":  "together",
+        "pos":  "adv.",
+        "level":  "core",
+        "tags":  [
+                     "business",
+                     "management"
+                 ],
+        "example":  "The proposal was reviewed jointly before approval.",
+        "exampleZh":  "",
+        "synonyms":  [
+
+                     ],
+        "distractors":  [
+
+                        ],
+        "source":  "release-build",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "toeic-0198",
+        "word":  "closely",
+        "displayWord":  "closely",
+        "phonetic":  "/closely/",
+        "mean":  "with great attention",
+        "pos":  "adv.",
+        "level":  "core",
+        "tags":  [
+                     "business",
+                     "analysis"
+                 ],
+        "example":  "The proposal was reviewed closely before approval.",
+        "exampleZh":  "",
+        "synonyms":  [
+
+                     ],
+        "distractors":  [
+
+                        ],
+        "source":  "release-build",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "toeic-0199",
+        "word":  "openly",
+        "displayWord":  "openly",
+        "phonetic":  "/openly/",
+        "mean":  "in a transparent way",
+        "pos":  "adv.",
+        "level":  "core",
+        "tags":  [
+                     "business",
+                     "communication"
+                 ],
+        "example":  "The proposal was reviewed openly before approval.",
+        "exampleZh":  "",
+        "synonyms":  [
+
+                     ],
+        "distractors":  [
+
+                        ],
+        "source":  "release-build",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "toeic-0200",
+        "word":  "regularly",
+        "displayWord":  "regularly",
+        "phonetic":  "/regularly/",
+        "mean":  "at fixed times",
+        "pos":  "adv.",
+        "level":  "core",
+        "tags":  [
+                     "business",
+                     "operations"
+                 ],
+        "example":  "The proposal was reviewed regularly before approval.",
+        "exampleZh":  "",
+        "synonyms":  [
+
+                     ],
+        "distractors":  [
+
+                        ],
+        "source":  "release-build",
+        "updatedAt":  "2026-04-08"
+    }
+]

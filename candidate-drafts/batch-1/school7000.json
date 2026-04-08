@@ -1,0 +1,522 @@
+﻿[
+    {
+        "id":  "school7000-0001",
+        "word":  "coherent",
+        "displayWord":  "Coherent",
+        "phonetic":  "/coherent/",
+        "mean":  "logically connected",
+        "pos":  "adj.",
+        "level":  "core",
+        "tags":  [
+                     "academic",
+                     "writing"
+                 ],
+        "example":  "Her argument was clear and coherent.",
+        "exampleZh":  "",
+        "synonyms":  [
+                         "logical",
+                         "consistent"
+                     ],
+        "distractors":  [
+                            "ambiguous",
+                            "crowded",
+                            "formal"
+                        ],
+        "source":  "batch-1-curation",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "school7000-0002",
+        "word":  "notion",
+        "displayWord":  "Notion",
+        "phonetic":  "/notion/",
+        "mean":  "idea",
+        "pos":  "n.",
+        "level":  "core",
+        "tags":  [
+                     "academic",
+                     "reading"
+                 ],
+        "example":  "The article challenges the notion of success.",
+        "exampleZh":  "",
+        "synonyms":  [
+                         "idea",
+                         "concept"
+                     ],
+        "distractors":  [
+                            "budget",
+                            "reservation",
+                            "equipment"
+                        ],
+        "source":  "batch-1-curation",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "school7000-0003",
+        "word":  "hypothesis",
+        "displayWord":  "Hypothesis",
+        "phonetic":  "/hypothesis/",
+        "mean":  "proposed explanation",
+        "pos":  "n.",
+        "level":  "core",
+        "tags":  [
+                     "academic",
+                     "science"
+                 ],
+        "example":  "The experiment supported her hypothesis.",
+        "exampleZh":  "",
+        "synonyms":  [
+                         "theory",
+                         "proposal"
+                     ],
+        "distractors":  [
+                            "discount",
+                            "client",
+                            "invoice"
+                        ],
+        "source":  "batch-1-curation",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "school7000-0004",
+        "word":  "dimension",
+        "displayWord":  "Dimension",
+        "phonetic":  "/dimension/",
+        "mean":  "aspect",
+        "pos":  "n.",
+        "level":  "core",
+        "tags":  [
+                     "academic",
+                     "reading"
+                 ],
+        "example":  "The issue has a social dimension as well.",
+        "exampleZh":  "",
+        "synonyms":  [
+                         "aspect",
+                         "side"
+                     ],
+        "distractors":  [
+                            "shipment",
+                            "detergent",
+                            "bill"
+                        ],
+        "source":  "batch-1-curation",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "school7000-0005",
+        "word":  "phenomenon",
+        "displayWord":  "Phenomenon",
+        "phonetic":  "/phenomenon/",
+        "mean":  "observable event",
+        "pos":  "n.",
+        "level":  "core",
+        "tags":  [
+                     "academic",
+                     "science"
+                 ],
+        "example":  "Climate change is a global phenomenon.",
+        "exampleZh":  "",
+        "synonyms":  [
+                         "event",
+                         "occurrence"
+                     ],
+        "distractors":  [
+                            "agenda",
+                            "contract",
+                            "proposal"
+                        ],
+        "source":  "batch-1-curation",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "school7000-0006",
+        "word":  "accumulate",
+        "displayWord":  "Accumulate",
+        "phonetic":  "/accumulate/",
+        "mean":  "gather over time",
+        "pos":  "v.",
+        "level":  "core",
+        "tags":  [
+                     "academic",
+                     "reading"
+                 ],
+        "example":  "Dust can accumulate in unused rooms.",
+        "exampleZh":  "",
+        "synonyms":  [
+                         "collect",
+                         "build up"
+                     ],
+        "distractors":  [
+                            "cancel",
+                            "repair",
+                            "compare"
+                        ],
+        "source":  "batch-1-curation",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "school7000-0007",
+        "word":  "differentiate",
+        "displayWord":  "Differentiate",
+        "phonetic":  "/differentiate/",
+        "mean":  "show a difference",
+        "pos":  "v.",
+        "level":  "core",
+        "tags":  [
+                     "academic",
+                     "writing"
+                 ],
+        "example":  "The essay should differentiate fact from opinion.",
+        "exampleZh":  "",
+        "synonyms":  [
+                         "distinguish",
+                         "separate"
+                     ],
+        "distractors":  [
+                            "submit",
+                            "repair",
+                            "confirm"
+                        ],
+        "source":  "batch-1-curation",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "school7000-0008",
+        "word":  "interpret",
+        "displayWord":  "Interpret",
+        "phonetic":  "/interpret/",
+        "mean":  "explain meaning",
+        "pos":  "v.",
+        "level":  "core",
+        "tags":  [
+                     "academic",
+                     "reading"
+                 ],
+        "example":  "Students must interpret the graph correctly.",
+        "exampleZh":  "",
+        "synonyms":  [
+                         "explain",
+                         "understand"
+                     ],
+        "distractors":  [
+                            "arrange",
+                            "repair",
+                            "delay"
+                        ],
+        "source":  "batch-1-curation",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "school7000-0009",
+        "word":  "constrain",
+        "displayWord":  "Constrain",
+        "phonetic":  "/constrain/",
+        "mean":  "limit",
+        "pos":  "v.",
+        "level":  "core",
+        "tags":  [
+                     "academic",
+                     "reading"
+                 ],
+        "example":  "Limited funds constrain research projects.",
+        "exampleZh":  "",
+        "synonyms":  [
+                         "limit",
+                         "restrict"
+                     ],
+        "distractors":  [
+                            "submit",
+                            "confirm",
+                            "repair"
+                        ],
+        "source":  "batch-1-curation",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "school7000-0010",
+        "word":  "retain",
+        "displayWord":  "Retain",
+        "phonetic":  "/retain/",
+        "mean":  "keep",
+        "pos":  "v.",
+        "level":  "core",
+        "tags":  [
+                     "academic",
+                     "memory"
+                 ],
+        "example":  "It is hard to retain so much information.",
+        "exampleZh":  "",
+        "synonyms":  [
+                         "keep",
+                         "preserve"
+                     ],
+        "distractors":  [
+                            "delay",
+                            "compare",
+                            "repair"
+                        ],
+        "source":  "batch-1-curation",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "school7000-0011",
+        "word":  "fundamental",
+        "displayWord":  "Fundamental",
+        "phonetic":  "/fundamental/",
+        "mean":  "basic and important",
+        "pos":  "adj.",
+        "level":  "core",
+        "tags":  [
+                     "academic",
+                     "reading"
+                 ],
+        "example":  "Trust is fundamental to healthy teamwork.",
+        "exampleZh":  "",
+        "synonyms":  [
+                         "basic",
+                         "essential"
+                     ],
+        "distractors":  [
+                            "formal",
+                            "patient",
+                            "crowded"
+                        ],
+        "source":  "batch-1-curation",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "school7000-0012",
+        "word":  "rigid",
+        "displayWord":  "Rigid",
+        "phonetic":  "/rigid/",
+        "mean":  "not flexible",
+        "pos":  "adj.",
+        "level":  "core",
+        "tags":  [
+                     "academic",
+                     "description"
+                 ],
+        "example":  "The old rules were too rigid for students.",
+        "exampleZh":  "",
+        "synonyms":  [
+                         "strict",
+                         "inflexible"
+                     ],
+        "distractors":  [
+                            "temporary",
+                            "plausible",
+                            "convenient"
+                        ],
+        "source":  "batch-1-curation",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "school7000-0013",
+        "word":  "subtle",
+        "displayWord":  "Subtle",
+        "phonetic":  "/subtle/",
+        "mean":  "not obvious",
+        "pos":  "adj.",
+        "level":  "core",
+        "tags":  [
+                     "academic",
+                     "reading"
+                 ],
+        "example":  "The poem contains subtle emotional shifts.",
+        "exampleZh":  "",
+        "synonyms":  [
+                         "slight",
+                         "delicate"
+                     ],
+        "distractors":  [
+                            "formal",
+                            "durable",
+                            "widespread"
+                        ],
+        "source":  "batch-1-curation",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "school7000-0014",
+        "word":  "vivid",
+        "displayWord":  "Vivid",
+        "phonetic":  "/vivid/",
+        "mean":  "clear and detailed",
+        "pos":  "adj.",
+        "level":  "core",
+        "tags":  [
+                     "academic",
+                     "writing"
+                 ],
+        "example":  "The author gives a vivid description of the city.",
+        "exampleZh":  "",
+        "synonyms":  [
+                         "bright",
+                         "detailed"
+                     ],
+        "distractors":  [
+                            "formal",
+                            "patient",
+                            "adjacent"
+                        ],
+        "source":  "batch-1-curation",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "school7000-0015",
+        "word":  "neutral",
+        "displayWord":  "Neutral",
+        "phonetic":  "/neutral/",
+        "mean":  "not taking sides",
+        "pos":  "adj.",
+        "level":  "core",
+        "tags":  [
+                     "academic",
+                     "discussion"
+                 ],
+        "example":  "A neutral tone helps academic writing sound objective.",
+        "exampleZh":  "",
+        "synonyms":  [
+                         "impartial",
+                         "unbiased"
+                     ],
+        "distractors":  [
+                            "inevitable",
+                            "durable",
+                            "crowded"
+                        ],
+        "source":  "batch-1-curation",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "school7000-0016",
+        "word":  "context",
+        "displayWord":  "Context",
+        "phonetic":  "/context/",
+        "mean":  "surrounding information",
+        "pos":  "n.",
+        "level":  "core",
+        "tags":  [
+                     "academic",
+                     "reading"
+                 ],
+        "example":  "Use the context to guess the meaning of the word.",
+        "exampleZh":  "",
+        "synonyms":  [
+                         "background",
+                         "setting"
+                     ],
+        "distractors":  [
+                            "schedule",
+                            "detergent",
+                            "cargo"
+                        ],
+        "source":  "batch-1-curation",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "school7000-0017",
+        "word":  "criterion",
+        "displayWord":  "Criterion",
+        "phonetic":  "/criterion/",
+        "mean":  "standard for judgment",
+        "pos":  "n.",
+        "level":  "core",
+        "tags":  [
+                     "academic",
+                     "assessment"
+                 ],
+        "example":  "Accuracy is an important criterion in this test.",
+        "exampleZh":  "",
+        "synonyms":  [
+                         "standard",
+                         "measure"
+                     ],
+        "distractors":  [
+                            "budget",
+                            "invoice",
+                            "reservation"
+                        ],
+        "source":  "batch-1-curation",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "school7000-0018",
+        "word":  "framework",
+        "displayWord":  "Framework",
+        "phonetic":  "/framework/",
+        "mean":  "basic structure",
+        "pos":  "n.",
+        "level":  "core",
+        "tags":  [
+                     "academic",
+                     "analysis"
+                 ],
+        "example":  "The book offers a useful framework for discussion.",
+        "exampleZh":  "",
+        "synonyms":  [
+                         "structure",
+                         "system"
+                     ],
+        "distractors":  [
+                            "aisle",
+                            "shipment",
+                            "discount"
+                        ],
+        "source":  "batch-1-curation",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "school7000-0019",
+        "word":  "simulate",
+        "displayWord":  "Simulate",
+        "phonetic":  "/simulate/",
+        "mean":  "imitate conditions",
+        "pos":  "v.",
+        "level":  "core",
+        "tags":  [
+                     "academic",
+                     "science"
+                 ],
+        "example":  "The software can simulate weather patterns.",
+        "exampleZh":  "",
+        "synonyms":  [
+                         "model",
+                         "imitate"
+                     ],
+        "distractors":  [
+                            "submit",
+                            "confirm",
+                            "repair"
+                        ],
+        "source":  "batch-1-curation",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "school7000-0020",
+        "word":  "comprehensive",
+        "displayWord":  "Comprehensive",
+        "phonetic":  "/comprehensive/",
+        "mean":  "complete and detailed",
+        "pos":  "adj.",
+        "level":  "core",
+        "tags":  [
+                     "academic",
+                     "writing"
+                 ],
+        "example":  "The guide provides a comprehensive overview.",
+        "exampleZh":  "",
+        "synonyms":  [
+                         "thorough",
+                         "complete"
+                     ],
+        "distractors":  [
+                            "formal",
+                            "durable",
+                            "adjacent"
+                        ],
+        "source":  "batch-1-curation",
+        "updatedAt":  "2026-04-08"
+    }
+]

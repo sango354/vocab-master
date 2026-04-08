@@ -1,0 +1,522 @@
+﻿[
+    {
+        "id":  "toeic-0001",
+        "word":  "invoice",
+        "displayWord":  "Invoice",
+        "phonetic":  "/invoice/",
+        "mean":  "billing document",
+        "pos":  "n.",
+        "level":  "core",
+        "tags":  [
+                     "business",
+                     "finance"
+                 ],
+        "example":  "Please attach the invoice to your email.",
+        "exampleZh":  "",
+        "synonyms":  [
+                         "bill",
+                         "statement"
+                     ],
+        "distractors":  [
+                            "budget",
+                            "proposal",
+                            "receipt"
+                        ],
+        "source":  "batch-1-curation",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "toeic-0002",
+        "word":  "shipment",
+        "displayWord":  "Shipment",
+        "phonetic":  "/shipment/",
+        "mean":  "goods sent",
+        "pos":  "n.",
+        "level":  "core",
+        "tags":  [
+                     "business",
+                     "logistics"
+                 ],
+        "example":  "The shipment arrived two days late.",
+        "exampleZh":  "",
+        "synonyms":  [
+                         "delivery",
+                         "cargo"
+                     ],
+        "distractors":  [
+                            "contract",
+                            "meeting",
+                            "client"
+                        ],
+        "source":  "batch-1-curation",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "toeic-0003",
+        "word":  "vendor",
+        "displayWord":  "Vendor",
+        "phonetic":  "/vendor/",
+        "mean":  "seller",
+        "pos":  "n.",
+        "level":  "core",
+        "tags":  [
+                     "business",
+                     "sales"
+                 ],
+        "example":  "We need a new vendor for office supplies.",
+        "exampleZh":  "",
+        "synonyms":  [
+                         "seller",
+                         "supplier"
+                     ],
+        "distractors":  [
+                            "budget",
+                            "department",
+                            "schedule"
+                        ],
+        "source":  "batch-1-curation",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "toeic-0004",
+        "word":  "inventory",
+        "displayWord":  "Inventory",
+        "phonetic":  "/inventory/",
+        "mean":  "stock of goods",
+        "pos":  "n.",
+        "level":  "core",
+        "tags":  [
+                     "business",
+                     "operations"
+                 ],
+        "example":  "The inventory count will start this afternoon.",
+        "exampleZh":  "",
+        "synonyms":  [
+                         "stock",
+                         "supply"
+                     ],
+        "distractors":  [
+                            "proposal",
+                            "discount",
+                            "agenda"
+                        ],
+        "source":  "batch-1-curation",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "toeic-0005",
+        "word":  "merger",
+        "displayWord":  "Merger",
+        "phonetic":  "/merger/",
+        "mean":  "company combination",
+        "pos":  "n.",
+        "level":  "core",
+        "tags":  [
+                     "business",
+                     "finance"
+                 ],
+        "example":  "The merger created a larger international firm.",
+        "exampleZh":  "",
+        "synonyms":  [
+                         "combination",
+                         "union"
+                     ],
+        "distractors":  [
+                            "invoice",
+                            "deadline",
+                            "client"
+                        ],
+        "source":  "batch-1-curation",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "toeic-0006",
+        "word":  "delegate",
+        "displayWord":  "Delegate",
+        "phonetic":  "/delegate/",
+        "mean":  "assign responsibility",
+        "pos":  "v.",
+        "level":  "core",
+        "tags":  [
+                     "business",
+                     "management"
+                 ],
+        "example":  "Managers should delegate routine tasks wisely.",
+        "exampleZh":  "",
+        "synonyms":  [
+                         "assign",
+                         "entrust"
+                     ],
+        "distractors":  [
+                            "maintain",
+                            "compare",
+                            "cancel"
+                        ],
+        "source":  "batch-1-curation",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "toeic-0007",
+        "word":  "authorize",
+        "displayWord":  "Authorize",
+        "phonetic":  "/authorize/",
+        "mean":  "give approval",
+        "pos":  "v.",
+        "level":  "core",
+        "tags":  [
+                     "business",
+                     "policy"
+                 ],
+        "example":  "Only the director can authorize this payment.",
+        "exampleZh":  "",
+        "synonyms":  [
+                         "approve",
+                         "permit"
+                     ],
+        "distractors":  [
+                            "repair",
+                            "delay",
+                            "evaluate"
+                        ],
+        "source":  "batch-1-curation",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "toeic-0008",
+        "word":  "allocate",
+        "displayWord":  "Allocate",
+        "phonetic":  "/allocate/",
+        "mean":  "distribute resources",
+        "pos":  "v.",
+        "level":  "core",
+        "tags":  [
+                     "business",
+                     "planning"
+                 ],
+        "example":  "We should allocate more funds to training.",
+        "exampleZh":  "",
+        "synonyms":  [
+                         "assign",
+                         "distribute"
+                     ],
+        "distractors":  [
+                            "submit",
+                            "negotiate",
+                            "confirm"
+                        ],
+        "source":  "batch-1-curation",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "toeic-0009",
+        "word":  "facilitate",
+        "displayWord":  "Facilitate",
+        "phonetic":  "/facilitate/",
+        "mean":  "make easier",
+        "pos":  "v.",
+        "level":  "core",
+        "tags":  [
+                     "business",
+                     "operations"
+                 ],
+        "example":  "The new software will facilitate communication.",
+        "exampleZh":  "",
+        "synonyms":  [
+                         "ease",
+                         "assist"
+                     ],
+        "distractors":  [
+                            "cancel",
+                            "repair",
+                            "compare"
+                        ],
+        "source":  "batch-1-curation",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "toeic-0010",
+        "word":  "reimburse",
+        "displayWord":  "Reimburse",
+        "phonetic":  "/reimburse/",
+        "mean":  "pay back expenses",
+        "pos":  "v.",
+        "level":  "core",
+        "tags":  [
+                     "business",
+                     "finance"
+                 ],
+        "example":  "The company will reimburse your travel costs.",
+        "exampleZh":  "",
+        "synonyms":  [
+                         "repay",
+                         "refund"
+                     ],
+        "distractors":  [
+                            "schedule",
+                            "submit",
+                            "delegate"
+                        ],
+        "source":  "batch-1-curation",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "toeic-0011",
+        "word":  "feasible",
+        "displayWord":  "Feasible",
+        "phonetic":  "/feasible/",
+        "mean":  "practical",
+        "pos":  "adj.",
+        "level":  "core",
+        "tags":  [
+                     "business",
+                     "planning"
+                 ],
+        "example":  "This proposal is feasible within our budget.",
+        "exampleZh":  "",
+        "synonyms":  [
+                         "practical",
+                         "possible"
+                     ],
+        "distractors":  [
+                            "formal",
+                            "crowded",
+                            "reliable"
+                        ],
+        "source":  "batch-1-curation",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "toeic-0012",
+        "word":  "annual",
+        "displayWord":  "Annual",
+        "phonetic":  "/annual/",
+        "mean":  "yearly",
+        "pos":  "adj.",
+        "level":  "core",
+        "tags":  [
+                     "business",
+                     "reporting"
+                 ],
+        "example":  "The annual report will be released next week.",
+        "exampleZh":  "",
+        "synonyms":  [
+                         "yearly",
+                         "once-a-year"
+                     ],
+        "distractors":  [
+                            "temporary",
+                            "patient",
+                            "flexible"
+                        ],
+        "source":  "batch-1-curation",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "toeic-0013",
+        "word":  "mandatory",
+        "displayWord":  "Mandatory",
+        "phonetic":  "/mandatory/",
+        "mean":  "required",
+        "pos":  "adj.",
+        "level":  "core",
+        "tags":  [
+                     "business",
+                     "policy"
+                 ],
+        "example":  "Safety training is mandatory for all staff.",
+        "exampleZh":  "",
+        "synonyms":  [
+                         "required",
+                         "compulsory"
+                     ],
+        "distractors":  [
+                            "convenient",
+                            "plausible",
+                            "reliable"
+                        ],
+        "source":  "batch-1-curation",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "toeic-0014",
+        "word":  "confidential",
+        "displayWord":  "Confidential",
+        "phonetic":  "/confidential/",
+        "mean":  "private",
+        "pos":  "adj.",
+        "level":  "core",
+        "tags":  [
+                     "business",
+                     "legal"
+                 ],
+        "example":  "These documents are strictly confidential.",
+        "exampleZh":  "",
+        "synonyms":  [
+                         "private",
+                         "secret"
+                     ],
+        "distractors":  [
+                            "efficient",
+                            "formal",
+                            "durable"
+                        ],
+        "source":  "batch-1-curation",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "toeic-0015",
+        "word":  "profitable",
+        "displayWord":  "Profitable",
+        "phonetic":  "/profitable/",
+        "mean":  "making money",
+        "pos":  "adj.",
+        "level":  "core",
+        "tags":  [
+                     "business",
+                     "finance"
+                 ],
+        "example":  "The new branch became profitable in six months.",
+        "exampleZh":  "",
+        "synonyms":  [
+                         "lucrative",
+                         "gainful"
+                     ],
+        "distractors":  [
+                            "adjacent",
+                            "formal",
+                            "crowded"
+                        ],
+        "source":  "batch-1-curation",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "toeic-0016",
+        "word":  "agenda",
+        "displayWord":  "Agenda",
+        "phonetic":  "/agenda/",
+        "mean":  "meeting plan",
+        "pos":  "n.",
+        "level":  "core",
+        "tags":  [
+                     "business",
+                     "meetings"
+                 ],
+        "example":  "I emailed the agenda before the meeting.",
+        "exampleZh":  "",
+        "synonyms":  [
+                         "schedule",
+                         "plan"
+                     ],
+        "distractors":  [
+                            "invoice",
+                            "shipment",
+                            "vendor"
+                        ],
+        "source":  "batch-1-curation",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "toeic-0017",
+        "word":  "quarterly",
+        "displayWord":  "Quarterly",
+        "phonetic":  "/quarterly/",
+        "mean":  "every three months",
+        "pos":  "adj.",
+        "level":  "core",
+        "tags":  [
+                     "business",
+                     "reporting"
+                 ],
+        "example":  "The finance team reviews quarterly performance.",
+        "exampleZh":  "",
+        "synonyms":  [
+                         "seasonal",
+                         "periodic"
+                     ],
+        "distractors":  [
+                            "durable",
+                            "widespread",
+                            "reliable"
+                        ],
+        "source":  "batch-1-curation",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "toeic-0018",
+        "word":  "supervise",
+        "displayWord":  "Supervise",
+        "phonetic":  "/supervise/",
+        "mean":  "oversee work",
+        "pos":  "v.",
+        "level":  "core",
+        "tags":  [
+                     "business",
+                     "management"
+                 ],
+        "example":  "She will supervise the training session.",
+        "exampleZh":  "",
+        "synonyms":  [
+                         "oversee",
+                         "manage"
+                     ],
+        "distractors":  [
+                            "repair",
+                            "delay",
+                            "submit"
+                        ],
+        "source":  "batch-1-curation",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "toeic-0019",
+        "word":  "compliance",
+        "displayWord":  "Compliance",
+        "phonetic":  "/compliance/",
+        "mean":  "following rules",
+        "pos":  "n.",
+        "level":  "core",
+        "tags":  [
+                     "business",
+                     "legal"
+                 ],
+        "example":  "The audit checks compliance with company policy.",
+        "exampleZh":  "",
+        "synonyms":  [
+                         "obedience",
+                         "conformity"
+                     ],
+        "distractors":  [
+                            "proposal",
+                            "agenda",
+                            "department"
+                        ],
+        "source":  "batch-1-curation",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "toeic-0020",
+        "word":  "forecast",
+        "displayWord":  "Forecast",
+        "phonetic":  "/forecast/",
+        "mean":  "prediction",
+        "pos":  "n.",
+        "level":  "core",
+        "tags":  [
+                     "business",
+                     "planning"
+                 ],
+        "example":  "Sales forecasts improved after the campaign.",
+        "exampleZh":  "",
+        "synonyms":  [
+                         "prediction",
+                         "projection"
+                     ],
+        "distractors":  [
+                            "reward",
+                            "application",
+                            "cargo"
+                        ],
+        "source":  "batch-1-curation",
+        "updatedAt":  "2026-04-08"
+    }
+]

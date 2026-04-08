@@ -1,0 +1,17 @@
+[
+  { "word": "Ephemeral", "phonetic": "/ɪˈfem(ə)rəl/", "mean": "短暫的", "pos": "adj." },
+  { "word": "Ubiquitous", "phonetic": "/juːˈbɪkwɪtəs/", "mean": "無所不在的", "pos": "adj." },
+  { "word": "Resilient", "phonetic": "/rɪˈzɪliənt/", "mean": "有彈性的; 韌性的", "pos": "adj." },
+  { "word": "Mitigate", "phonetic": "/ˈmɪtɪɡeɪt/", "mean": "減輕; 緩和", "pos": "v." },
+  { "word": "Ambiguous", "phonetic": "/æmˈbɪɡjuəs/", "mean": "模稜兩可的", "pos": "adj." },
+  { "word": "Inevitable", "phonetic": "/ɪnˈevɪtəbl/", "mean": "不可避免的", "pos": "adj." },
+  { "word": "Plausible", "phonetic": "/ˈplɔːzəbl/", "mean": "貌似合理的", "pos": "adj." },
+  { "word": "Convey", "phonetic": "/kənˈveɪ/", "mean": "傳達", "pos": "v." },
+  { "word": "Abundant", "phonetic": "/əˈbʌndənt/", "mean": "大量的; 豐富的", "pos": "adj." },
+  { "word": "Infer", "phonetic": "/ɪnˈfɜːr/", "mean": "推論", "pos": "v." },
+  { "word": "Durable", "phonetic": "/ˈdʊrəbl/", "mean": "耐用的", "pos": "adj." },
+  { "word": "Prestige", "phonetic": "/preˈstiːʒ/", "mean": "聲望", "pos": "n." },
+  { "word": "Compile", "phonetic": "/kəmˈpaɪl/", "mean": "編輯; 彙整", "pos": "v." },
+  { "word": "Validate", "phonetic": "/ˈvælɪdeɪt/", "mean": "證實; 驗證", "pos": "v." },
+  { "word": "Adjacent", "phonetic": "/əˈdʒeɪsnt/", "mean": "鄰近的", "pos": "adj." }
+]

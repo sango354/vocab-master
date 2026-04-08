@@ -1,0 +1,201 @@
+# dailyLife release source
+refund|n.|money returned|daily-life,shopping
+coupon|n.|discount ticket|daily-life,shopping
+checkout|n.|payment counter|daily-life,shopping
+platform|n.|train waiting area|daily-life,transportation
+intersection|n.|road crossing|daily-life,transportation
+symptom|n.|sign of illness|daily-life,health
+ointment|n.|medical cream|daily-life,health
+appointment|n.|arranged meeting time|daily-life,service
+appliance|n.|household machine|daily-life,home
+landlord|n.|property owner|daily-life,housing
+ingredient|n.|food component|daily-life,food
+receipt|n.|proof of purchase|daily-life,shopping
+grocery|n.|food supplies|daily-life,shopping
+laundry|n.|clothes to be washed|daily-life,home
+prescription|n.|doctor order|daily-life,health
+aisle|n.|walkway|daily-life,shopping
+commuter|n.|person who travels to work|daily-life,transportation
+detergent|n.|cleaning agent|daily-life,home
+reservation|n.|booking|daily-life,service
+discount|n.|price reduction|daily-life,shopping
+neighbor|n.|person living nearby|daily-life,community
+bill|n.|invoice|daily-life,finance
+kitchen|n.|room for cooking|daily-life,home
+balcony|n.|outdoor platform on a building|daily-life,housing
+blanket|n.|warm covering|daily-life,home
+closet|n.|small storage space|daily-life,home
+cabinet|n.|storage furniture|daily-life,home
+cushion|n.|soft support pad|daily-life,home
+curtain|n.|window covering|daily-life,home
+drawer|n.|sliding storage box|daily-life,home
+elevator|n.|moving lift|daily-life,housing
+hallway|n.|passage inside a building|daily-life,housing
+lamp|n.|device giving light|daily-life,home
+mirror|n.|reflective surface|daily-life,home
+pillow|n.|head support for sleeping|daily-life,home
+shelf|n.|flat storage board|daily-life,home
+stove|n.|cooking device|daily-life,home
+towel|n.|cloth for drying|daily-life,home
+trash|n.|waste material|daily-life,home
+wifi|n.|wireless internet connection|daily-life,technology
+suitcase|n.|travel bag|daily-life,travel
+passport|n.|international travel document|daily-life,travel
+ticket|n.|pass for travel or entry|daily-life,travel
+subway|n.|underground train system|daily-life,transportation
+station|n.|place where vehicles stop|daily-life,transportation
+traffic|n.|movement of vehicles|daily-life,transportation
+crosswalk|n.|marked place to cross a road|daily-life,transportation
+taxi|n.|car for hire|daily-life,transportation
+fare|n.|cost of a ride|daily-life,transportation
+luggage|n.|bags for travel|daily-life,travel
+route|n.|path from one place to another|daily-life,transportation
+map|n.|drawing of an area|daily-life,travel
+helmet|n.|protective head covering|daily-life,safety
+license|n.|official permit|daily-life,transportation
+parking|n.|space for leaving a vehicle|daily-life,transportation
+pharmacy|n.|store selling medicine|daily-life,health
+clinic|n.|small medical center|daily-life,health
+dentist|n.|doctor for teeth|daily-life,health
+waiter|n.|person serving food|daily-life,service
+menu|n.|list of food choices|daily-life,food
+host|n.|person receiving guests|daily-life,social
+guest|n.|invited visitor|daily-life,social
+recipe|n.|cooking instructions|daily-life,food
+snack|n.|small amount of food|daily-life,food
+dessert|n.|sweet food after a meal|daily-life,food
+beverage|n.|drink|daily-life,food
+breakfast|n.|first meal of the day|daily-life,food
+lunch|n.|midday meal|daily-life,food
+dinner|n.|main evening meal|daily-life,food
+outing|n.|trip for pleasure|daily-life,social
+festival|n.|special public celebration|daily-life,social
+hobby|n.|activity done for enjoyment|daily-life,social
+playlist|n.|selected list of songs|daily-life,technology
+battery|n.|device storing power|daily-life,technology
+charger|n.|device for adding power|daily-life,technology
+package|n.|wrapped object for delivery|daily-life,service
+mailbox|n.|box for receiving letters|daily-life,home
+gift|n.|present|daily-life,social
+wallet|n.|small case for money and cards|daily-life,finance
+umbrella|n.|tool for protection from rain|daily-life,weather
+prescribe|v.|order medicine|daily-life,health
+vacuum|v.|clean with suction|daily-life,home
+borrow|v.|take and return later|daily-life,social
+recommend|v.|suggest|daily-life,conversation
+repair|v.|fix|daily-life,service
+commute|v.|travel to work regularly|daily-life,transportation
+cook|v.|prepare food with heat|daily-life,food
+wash|v.|clean with water|daily-life,home
+book|v.|reserve in advance|daily-life,service
+cancel|v.|stop something planned|daily-life,service
+return|v.|give back or go back|daily-life,shopping
+charge|v.|ask for payment|daily-life,finance
+deliver|v.|bring to a place|daily-life,service
+exercise|v.|do physical activity|daily-life,health
+invite|v.|ask someone to come|daily-life,social
+pack|v.|put things into a bag|daily-life,travel
+prepare|v.|make ready|daily-life,home
+replace|v.|put a new one in place of an old one|daily-life,home
+reserve|v.|book in advance|daily-life,service
+share|v.|let others use or know|daily-life,social
+shop|v.|buy things|daily-life,shopping
+clean|v.|make free from dirt|daily-life,home
+dry|v.|remove moisture|daily-life,home
+fold|v.|bend over on itself|daily-life,home
+greet|v.|welcome|daily-life,social
+heat|v.|make warm or hot|daily-life,food
+lock|v.|secure with a key|daily-life,safety
+park|v.|leave a vehicle temporarily|daily-life,transportation
+polish|v.|make shiny and smooth|daily-life,home
+relax|v.|rest and become calm|daily-life,health
+rinse|v.|wash quickly with water|daily-life,home
+stretch|v.|extend the body or material|daily-life,health
+unpack|v.|remove from a bag or box|daily-life,travel
+visit|v.|go to see|daily-life,social
+water|v.|pour water on|daily-life,home
+wear|v.|have clothes on the body|daily-life,clothing
+withdraw|v.|take money out|daily-life,finance
+update|v.|make current|daily-life,technology
+transfer|v.|move from one place to another|daily-life,finance
+register|v.|record officially|daily-life,service
+messy|adj.|untidy|daily-life,home
+spacious|adj.|having a lot of room|daily-life,housing
+casual|adj.|informal|daily-life,social
+crowded|adj.|full of people|daily-life,description
+available|adj.|ready for use|daily-life,service
+tidy|adj.|neat and in order|daily-life,home
+comfortable|adj.|pleasant to use or wear|daily-life,home
+convenient|adj.|easy to use|daily-life,service
+dirty|adj.|not clean|daily-life,home
+empty|adj.|containing nothing|daily-life,description
+fresh|adj.|recent and not old|daily-life,food
+friendly|adj.|kind and pleasant|daily-life,social
+heavy|adj.|weighing a lot|daily-life,description
+local|adj.|from nearby area|daily-life,community
+noisy|adj.|making a lot of sound|daily-life,description
+quiet|adj.|making little sound|daily-life,description
+safe|adj.|not dangerous|daily-life,safety
+slow|adj.|not fast|daily-life,description
+orderly|adj.|arranged in a neat way|daily-life,home
+warm|adj.|slightly hot in a pleasant way|daily-life,weather
+affordable|adj.|not too expensive|daily-life,shopping
+awake|adj.|not sleeping|daily-life,health
+busy|adj.|having a lot to do|daily-life,social
+calm|adj.|peaceful|daily-life,health
+cheap|adj.|low in price|daily-life,shopping
+crispy|adj.|firm and easy to break|daily-life,food
+daily|adj.|happening every day|daily-life,routine
+delicious|adj.|very tasty|daily-life,food
+silent|adj.|making no sound|daily-life,description
+elderly|adj.|old in age|daily-life,community
+formal|adj.|following official style|daily-life,social
+freezing|adj.|extremely cold|daily-life,weather
+full|adj.|containing as much as possible|daily-life,description
+helpful|adj.|giving useful help|daily-life,social
+late|adj.|arriving after expected time|daily-life,routine
+lazy|adj.|not willing to work|daily-life,description
+modern|adj.|new in style or method|daily-life,technology
+ordinary|adj.|not special|daily-life,description
+polite|adj.|showing good manners|daily-life,social
+ready|adj.|prepared|daily-life,routine
+abroad|adv.|in another country|daily-life,travel
+afterward|adv.|later|daily-life,routine
+carefully|adv.|with attention|daily-life,routine
+nearby|adv.|not far away|daily-life,location
+early|adv.|before expected time|daily-life,routine
+finally|adv.|at last|daily-life,routine
+forward|adv.|toward the front|daily-life,movement
+hardly|adv.|almost not|daily-life,conversation
+indoors|adv.|inside a building|daily-life,home
+lately|adv.|recently|daily-life,conversation
+downtown|adv.|in or toward the city center|daily-life,community
+outside|adv.|in the open air|daily-life,movement
+quietly|adv.|with little noise|daily-life,description
+rarely|adv.|not often|daily-life,routine
+safely|adv.|without danger|daily-life,safety
+slowly|adv.|at low speed|daily-life,description
+together|adv.|with one another|daily-life,social
+upstairs|adv.|to a higher floor|daily-life,housing
+weekly|adv.|every week|daily-life,routine
+yesterday|adv.|on the previous day|daily-life,time
+toothbrush|n.|tool for cleaning teeth|daily-life,health
+toothpaste|n.|paste for brushing teeth|daily-life,health
+shampoo|n.|liquid for washing hair|daily-life,home
+soap|n.|substance for washing|daily-life,home
+medicine|n.|drug for treating illness|daily-life,health
+bandage|n.|strip for covering a wound|daily-life,health
+thermometer|n.|tool for measuring temperature|daily-life,health
+keyboard|n.|device with keys for typing|daily-life,technology
+notebook|n.|book for notes|daily-life,study
+backpack|n.|bag carried on the back|daily-life,travel
+sweater|n.|warm knitted top|daily-life,clothing
+jacket|n.|short outer coat|daily-life,clothing
+socks|n.|soft coverings for feet|daily-life,clothing
+sneakers|n.|casual sports shoes|daily-life,clothing
+mattress|n.|soft bed support|daily-life,home
+remote|n.|device for controlling electronics|daily-life,technology
+headphones|n.|equipment worn on ears to hear sound|daily-life,technology
+slippers|n.|soft indoor shoes|daily-life,clothing
+bicycle|n.|two-wheeled vehicle|daily-life,transportation
+calendar|n.|table of dates|daily-life,time

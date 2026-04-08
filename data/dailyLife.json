@@ -1,0 +1,17 @@
+[
+  { "word": "Grocery", "phonetic": "/ˈɡroʊsəri/", "mean": "食品雜貨", "pos": "n." },
+  { "word": "Laundry", "phonetic": "/ˈlɔːndri/", "mean": "待洗衣物", "pos": "n." },
+  { "word": "Prescription", "phonetic": "/prɪˈskrɪpʃn/", "mean": "處方", "pos": "n." },
+  { "word": "Aisle", "phonetic": "/aɪl/", "mean": "走道", "pos": "n." },
+  { "word": "Receipt", "phonetic": "/rɪˈsiːt/", "mean": "收據", "pos": "n." },
+  { "word": "Commuter", "phonetic": "/kəˈmjuːtər/", "mean": "通勤者", "pos": "n." },
+  { "word": "Detergent", "phonetic": "/dɪˈtɜːrdʒənt/", "mean": "清潔劑", "pos": "n." },
+  { "word": "Reservation", "phonetic": "/ˌrezərˈveɪʃn/", "mean": "預約", "pos": "n." },
+  { "word": "Discount", "phonetic": "/ˈdɪskaʊnt/", "mean": "折扣", "pos": "n." },
+  { "word": "Convenient", "phonetic": "/kənˈviːniənt/", "mean": "方便的", "pos": "adj." },
+  { "word": "Neighbor", "phonetic": "/ˈneɪbər/", "mean": "鄰居", "pos": "n." },
+  { "word": "Recommend", "phonetic": "/ˌrekəˈmend/", "mean": "推薦", "pos": "v." },
+  { "word": "Bill", "phonetic": "/bɪl/", "mean": "帳單", "pos": "n." },
+  { "word": "Repair", "phonetic": "/rɪˈper/", "mean": "修理", "pos": "v." },
+  { "word": "Crowded", "phonetic": "/ˈkraʊdɪd/", "mean": "擁擠的", "pos": "adj." }
+]

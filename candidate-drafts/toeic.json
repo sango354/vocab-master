@@ -1,0 +1,26 @@
+﻿{
+    "id":  "toeic-0001",
+    "word":  "invoice",
+    "displayWord":  "Invoice",
+    "phonetic":  "/invoice/",
+    "mean":  "billing document",
+    "pos":  "n.",
+    "level":  "core",
+    "tags":  [
+                 "business",
+                 "finance"
+             ],
+    "example":  "Please attach the invoice to your email.",
+    "exampleZh":  "",
+    "synonyms":  [
+                     "bill",
+                     "statement"
+                 ],
+    "distractors":  [
+                        "budget",
+                        "proposal",
+                        "receipt"
+                    ],
+    "source":  "manual-curation",
+    "updatedAt":  "2026-04-08"
+}

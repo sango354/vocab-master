@@ -1,0 +1,17 @@
+[
+  { "word": "Ephemeral", "phonetic": "/ephemeral/", "mean": "short-lived", "pos": "adj." },
+  { "word": "Ubiquitous", "phonetic": "/ubiquitous/", "mean": "found everywhere", "pos": "adj." },
+  { "word": "Resilient", "phonetic": "/resilient/", "mean": "able to recover", "pos": "adj." },
+  { "word": "Mitigate", "phonetic": "/mitigate/", "mean": "make less severe", "pos": "v." },
+  { "word": "Ambiguous", "phonetic": "/ambiguous/", "mean": "unclear", "pos": "adj." },
+  { "word": "Inevitable", "phonetic": "/inevitable/", "mean": "certain to happen", "pos": "adj." },
+  { "word": "Plausible", "phonetic": "/plausible/", "mean": "seemingly reasonable", "pos": "adj." },
+  { "word": "Convey", "phonetic": "/convey/", "mean": "communicate", "pos": "v." },
+  { "word": "Abundant", "phonetic": "/abundant/", "mean": "more than enough", "pos": "adj." },
+  { "word": "Infer", "phonetic": "/infer/", "mean": "draw a conclusion", "pos": "v." },
+  { "word": "Durable", "phonetic": "/durable/", "mean": "long-lasting", "pos": "adj." },
+  { "word": "Prestige", "phonetic": "/prestige/", "mean": "high status", "pos": "n." },
+  { "word": "Compile", "phonetic": "/compile/", "mean": "collect into one work", "pos": "v." },
+  { "word": "Validate", "phonetic": "/validate/", "mean": "confirm", "pos": "v." },
+  { "word": "Adjacent", "phonetic": "/adjacent/", "mean": "next to", "pos": "adj." }
+]

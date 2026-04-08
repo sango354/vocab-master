@@ -1,0 +1,4602 @@
+﻿[
+    {
+        "id":  "school7000-0001",
+        "word":  "notion",
+        "displayWord":  "notion",
+        "phonetic":  "/notion/",
+        "mean":  "idea",
+        "pos":  "n.",
+        "level":  "core",
+        "tags":  [
+                     "academic",
+                     "reading"
+                 ],
+        "example":  "The article explains the notion in detail.",
+        "exampleZh":  "",
+        "synonyms":  [
+
+                     ],
+        "distractors":  [
+
+                        ],
+        "source":  "release-build",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "school7000-0002",
+        "word":  "hypothesis",
+        "displayWord":  "hypothesis",
+        "phonetic":  "/hypothesis/",
+        "mean":  "proposed explanation",
+        "pos":  "n.",
+        "level":  "core",
+        "tags":  [
+                     "academic",
+                     "science"
+                 ],
+        "example":  "The article explains the hypothesis in detail.",
+        "exampleZh":  "",
+        "synonyms":  [
+
+                     ],
+        "distractors":  [
+
+                        ],
+        "source":  "release-build",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "school7000-0003",
+        "word":  "dimension",
+        "displayWord":  "dimension",
+        "phonetic":  "/dimension/",
+        "mean":  "aspect",
+        "pos":  "n.",
+        "level":  "core",
+        "tags":  [
+                     "academic",
+                     "reading"
+                 ],
+        "example":  "The article explains the dimension in detail.",
+        "exampleZh":  "",
+        "synonyms":  [
+
+                     ],
+        "distractors":  [
+
+                        ],
+        "source":  "release-build",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "school7000-0004",
+        "word":  "phenomenon",
+        "displayWord":  "phenomenon",
+        "phonetic":  "/phenomenon/",
+        "mean":  "observable event",
+        "pos":  "n.",
+        "level":  "core",
+        "tags":  [
+                     "academic",
+                     "science"
+                 ],
+        "example":  "The article explains the phenomenon in detail.",
+        "exampleZh":  "",
+        "synonyms":  [
+
+                     ],
+        "distractors":  [
+
+                        ],
+        "source":  "release-build",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "school7000-0005",
+        "word":  "context",
+        "displayWord":  "context",
+        "phonetic":  "/context/",
+        "mean":  "surrounding information",
+        "pos":  "n.",
+        "level":  "core",
+        "tags":  [
+                     "academic",
+                     "reading"
+                 ],
+        "example":  "The article explains the context in detail.",
+        "exampleZh":  "",
+        "synonyms":  [
+
+                     ],
+        "distractors":  [
+
+                        ],
+        "source":  "release-build",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "school7000-0006",
+        "word":  "criterion",
+        "displayWord":  "criterion",
+        "phonetic":  "/criterion/",
+        "mean":  "standard for judgment",
+        "pos":  "n.",
+        "level":  "core",
+        "tags":  [
+                     "academic",
+                     "assessment"
+                 ],
+        "example":  "The article explains the criterion in detail.",
+        "exampleZh":  "",
+        "synonyms":  [
+
+                     ],
+        "distractors":  [
+
+                        ],
+        "source":  "release-build",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "school7000-0007",
+        "word":  "framework",
+        "displayWord":  "framework",
+        "phonetic":  "/framework/",
+        "mean":  "basic structure",
+        "pos":  "n.",
+        "level":  "core",
+        "tags":  [
+                     "academic",
+                     "analysis"
+                 ],
+        "example":  "The article explains the framework in detail.",
+        "exampleZh":  "",
+        "synonyms":  [
+
+                     ],
+        "distractors":  [
+
+                        ],
+        "source":  "release-build",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "school7000-0008",
+        "word":  "analysis",
+        "displayWord":  "analysis",
+        "phonetic":  "/analysis/",
+        "mean":  "careful study",
+        "pos":  "n.",
+        "level":  "core",
+        "tags":  [
+                     "academic",
+                     "writing"
+                 ],
+        "example":  "The article explains the analysis in detail.",
+        "exampleZh":  "",
+        "synonyms":  [
+
+                     ],
+        "distractors":  [
+
+                        ],
+        "source":  "release-build",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "school7000-0009",
+        "word":  "approach",
+        "displayWord":  "approach",
+        "phonetic":  "/approach/",
+        "mean":  "method",
+        "pos":  "n.",
+        "level":  "core",
+        "tags":  [
+                     "academic",
+                     "reading"
+                 ],
+        "example":  "The article explains the approach in detail.",
+        "exampleZh":  "",
+        "synonyms":  [
+
+                     ],
+        "distractors":  [
+
+                        ],
+        "source":  "release-build",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "school7000-0010",
+        "word":  "concept",
+        "displayWord":  "concept",
+        "phonetic":  "/concept/",
+        "mean":  "general idea",
+        "pos":  "n.",
+        "level":  "core",
+        "tags":  [
+                     "academic",
+                     "reading"
+                 ],
+        "example":  "The article explains the concept in detail.",
+        "exampleZh":  "",
+        "synonyms":  [
+
+                     ],
+        "distractors":  [
+
+                        ],
+        "source":  "release-build",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "school7000-0011",
+        "word":  "principle",
+        "displayWord":  "principle",
+        "phonetic":  "/principle/",
+        "mean":  "basic truth",
+        "pos":  "n.",
+        "level":  "core",
+        "tags":  [
+                     "academic",
+                     "science"
+                 ],
+        "example":  "The article explains the principle in detail.",
+        "exampleZh":  "",
+        "synonyms":  [
+
+                     ],
+        "distractors":  [
+
+                        ],
+        "source":  "release-build",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "school7000-0012",
+        "word":  "theory",
+        "displayWord":  "theory",
+        "phonetic":  "/theory/",
+        "mean":  "system of ideas",
+        "pos":  "n.",
+        "level":  "core",
+        "tags":  [
+                     "academic",
+                     "science"
+                 ],
+        "example":  "The article explains the theory in detail.",
+        "exampleZh":  "",
+        "synonyms":  [
+
+                     ],
+        "distractors":  [
+
+                        ],
+        "source":  "release-build",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "school7000-0013",
+        "word":  "factor",
+        "displayWord":  "factor",
+        "phonetic":  "/factor/",
+        "mean":  "important element",
+        "pos":  "n.",
+        "level":  "core",
+        "tags":  [
+                     "academic",
+                     "reading"
+                 ],
+        "example":  "The article explains the factor in detail.",
+        "exampleZh":  "",
+        "synonyms":  [
+
+                     ],
+        "distractors":  [
+
+                        ],
+        "source":  "release-build",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "school7000-0014",
+        "word":  "insight",
+        "displayWord":  "insight",
+        "phonetic":  "/insight/",
+        "mean":  "deep understanding",
+        "pos":  "n.",
+        "level":  "core",
+        "tags":  [
+                     "academic",
+                     "reading"
+                 ],
+        "example":  "The article explains the insight in detail.",
+        "exampleZh":  "",
+        "synonyms":  [
+
+                     ],
+        "distractors":  [
+
+                        ],
+        "source":  "release-build",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "school7000-0015",
+        "word":  "perspective",
+        "displayWord":  "perspective",
+        "phonetic":  "/perspective/",
+        "mean":  "point of view",
+        "pos":  "n.",
+        "level":  "core",
+        "tags":  [
+                     "academic",
+                     "discussion"
+                 ],
+        "example":  "The article explains the perspective in detail.",
+        "exampleZh":  "",
+        "synonyms":  [
+
+                     ],
+        "distractors":  [
+
+                        ],
+        "source":  "release-build",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "school7000-0016",
+        "word":  "structure",
+        "displayWord":  "structure",
+        "phonetic":  "/structure/",
+        "mean":  "arrangement of parts",
+        "pos":  "n.",
+        "level":  "core",
+        "tags":  [
+                     "academic",
+                     "writing"
+                 ],
+        "example":  "The article explains the structure in detail.",
+        "exampleZh":  "",
+        "synonyms":  [
+
+                     ],
+        "distractors":  [
+
+                        ],
+        "source":  "release-build",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "school7000-0017",
+        "word":  "method",
+        "displayWord":  "method",
+        "phonetic":  "/method/",
+        "mean":  "way of doing something",
+        "pos":  "n.",
+        "level":  "core",
+        "tags":  [
+                     "academic",
+                     "science"
+                 ],
+        "example":  "The article explains the method in detail.",
+        "exampleZh":  "",
+        "synonyms":  [
+
+                     ],
+        "distractors":  [
+
+                        ],
+        "source":  "release-build",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "school7000-0018",
+        "word":  "issue",
+        "displayWord":  "issue",
+        "phonetic":  "/issue/",
+        "mean":  "important problem",
+        "pos":  "n.",
+        "level":  "core",
+        "tags":  [
+                     "academic",
+                     "discussion"
+                 ],
+        "example":  "The article explains the issue in detail.",
+        "exampleZh":  "",
+        "synonyms":  [
+
+                     ],
+        "distractors":  [
+
+                        ],
+        "source":  "release-build",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "school7000-0019",
+        "word":  "evidence",
+        "displayWord":  "evidence",
+        "phonetic":  "/evidence/",
+        "mean":  "proof",
+        "pos":  "n.",
+        "level":  "core",
+        "tags":  [
+                     "academic",
+                     "science"
+                 ],
+        "example":  "The article explains the evidence in detail.",
+        "exampleZh":  "",
+        "synonyms":  [
+
+                     ],
+        "distractors":  [
+
+                        ],
+        "source":  "release-build",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "school7000-0020",
+        "word":  "resource",
+        "displayWord":  "resource",
+        "phonetic":  "/resource/",
+        "mean":  "useful source",
+        "pos":  "n.",
+        "level":  "core",
+        "tags":  [
+                     "academic",
+                     "study"
+                 ],
+        "example":  "The article explains the resource in detail.",
+        "exampleZh":  "",
+        "synonyms":  [
+
+                     ],
+        "distractors":  [
+
+                        ],
+        "source":  "release-build",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "school7000-0021",
+        "word":  "consequence",
+        "displayWord":  "consequence",
+        "phonetic":  "/consequence/",
+        "mean":  "result",
+        "pos":  "n.",
+        "level":  "core",
+        "tags":  [
+                     "academic",
+                     "reading"
+                 ],
+        "example":  "The article explains the consequence in detail.",
+        "exampleZh":  "",
+        "synonyms":  [
+
+                     ],
+        "distractors":  [
+
+                        ],
+        "source":  "release-build",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "school7000-0022",
+        "word":  "trend",
+        "displayWord":  "trend",
+        "phonetic":  "/trend/",
+        "mean":  "general direction of change",
+        "pos":  "n.",
+        "level":  "core",
+        "tags":  [
+                     "academic",
+                     "reading"
+                 ],
+        "example":  "The article explains the trend in detail.",
+        "exampleZh":  "",
+        "synonyms":  [
+
+                     ],
+        "distractors":  [
+
+                        ],
+        "source":  "release-build",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "school7000-0023",
+        "word":  "conflict",
+        "displayWord":  "conflict",
+        "phonetic":  "/conflict/",
+        "mean":  "serious disagreement",
+        "pos":  "n.",
+        "level":  "core",
+        "tags":  [
+                     "academic",
+                     "society"
+                 ],
+        "example":  "The article explains the conflict in detail.",
+        "exampleZh":  "",
+        "synonyms":  [
+
+                     ],
+        "distractors":  [
+
+                        ],
+        "source":  "release-build",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "school7000-0024",
+        "word":  "emphasis",
+        "displayWord":  "emphasis",
+        "phonetic":  "/emphasis/",
+        "mean":  "special importance",
+        "pos":  "n.",
+        "level":  "core",
+        "tags":  [
+                     "academic",
+                     "writing"
+                 ],
+        "example":  "The article explains the emphasis in detail.",
+        "exampleZh":  "",
+        "synonyms":  [
+
+                     ],
+        "distractors":  [
+
+                        ],
+        "source":  "release-build",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "school7000-0025",
+        "word":  "summary",
+        "displayWord":  "summary",
+        "phonetic":  "/summary/",
+        "mean":  "short main account",
+        "pos":  "n.",
+        "level":  "core",
+        "tags":  [
+                     "academic",
+                     "writing"
+                 ],
+        "example":  "The article explains the summary in detail.",
+        "exampleZh":  "",
+        "synonyms":  [
+
+                     ],
+        "distractors":  [
+
+                        ],
+        "source":  "release-build",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "school7000-0026",
+        "word":  "contrast",
+        "displayWord":  "contrast",
+        "phonetic":  "/contrast/",
+        "mean":  "clear difference",
+        "pos":  "n.",
+        "level":  "core",
+        "tags":  [
+                     "academic",
+                     "reading"
+                 ],
+        "example":  "The article explains the contrast in detail.",
+        "exampleZh":  "",
+        "synonyms":  [
+
+                     ],
+        "distractors":  [
+
+                        ],
+        "source":  "release-build",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "school7000-0027",
+        "word":  "innovation",
+        "displayWord":  "innovation",
+        "phonetic":  "/innovation/",
+        "mean":  "new idea or method",
+        "pos":  "n.",
+        "level":  "core",
+        "tags":  [
+                     "academic",
+                     "science"
+                 ],
+        "example":  "The article explains the innovation in detail.",
+        "exampleZh":  "",
+        "synonyms":  [
+
+                     ],
+        "distractors":  [
+
+                        ],
+        "source":  "release-build",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "school7000-0028",
+        "word":  "interpretation",
+        "displayWord":  "interpretation",
+        "phonetic":  "/interpretation/",
+        "mean":  "explanation of meaning",
+        "pos":  "n.",
+        "level":  "core",
+        "tags":  [
+                     "academic",
+                     "reading"
+                 ],
+        "example":  "The article explains the interpretation in detail.",
+        "exampleZh":  "",
+        "synonyms":  [
+
+                     ],
+        "distractors":  [
+
+                        ],
+        "source":  "release-build",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "school7000-0029",
+        "word":  "foundation",
+        "displayWord":  "foundation",
+        "phonetic":  "/foundation/",
+        "mean":  "basic support",
+        "pos":  "n.",
+        "level":  "core",
+        "tags":  [
+                     "academic",
+                     "analysis"
+                 ],
+        "example":  "The article explains the foundation in detail.",
+        "exampleZh":  "",
+        "synonyms":  [
+
+                     ],
+        "distractors":  [
+
+                        ],
+        "source":  "release-build",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "school7000-0030",
+        "word":  "mechanism",
+        "displayWord":  "mechanism",
+        "phonetic":  "/mechanism/",
+        "mean":  "system or process",
+        "pos":  "n.",
+        "level":  "core",
+        "tags":  [
+                     "academic",
+                     "science"
+                 ],
+        "example":  "The article explains the mechanism in detail.",
+        "exampleZh":  "",
+        "synonyms":  [
+
+                     ],
+        "distractors":  [
+
+                        ],
+        "source":  "release-build",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "school7000-0031",
+        "word":  "category",
+        "displayWord":  "category",
+        "phonetic":  "/category/",
+        "mean":  "group of similar things",
+        "pos":  "n.",
+        "level":  "core",
+        "tags":  [
+                     "academic",
+                     "classification"
+                 ],
+        "example":  "The article explains the category in detail.",
+        "exampleZh":  "",
+        "synonyms":  [
+
+                     ],
+        "distractors":  [
+
+                        ],
+        "source":  "release-build",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "school7000-0032",
+        "word":  "capacity",
+        "displayWord":  "capacity",
+        "phonetic":  "/capacity/",
+        "mean":  "ability or size",
+        "pos":  "n.",
+        "level":  "core",
+        "tags":  [
+                     "academic",
+                     "reading"
+                 ],
+        "example":  "The article explains the capacity in detail.",
+        "exampleZh":  "",
+        "synonyms":  [
+
+                     ],
+        "distractors":  [
+
+                        ],
+        "source":  "release-build",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "school7000-0033",
+        "word":  "implication",
+        "displayWord":  "implication",
+        "phonetic":  "/implication/",
+        "mean":  "suggested meaning",
+        "pos":  "n.",
+        "level":  "core",
+        "tags":  [
+                     "academic",
+                     "reading"
+                 ],
+        "example":  "The article explains the implication in detail.",
+        "exampleZh":  "",
+        "synonyms":  [
+
+                     ],
+        "distractors":  [
+
+                        ],
+        "source":  "release-build",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "school7000-0034",
+        "word":  "sequence",
+        "displayWord":  "sequence",
+        "phonetic":  "/sequence/",
+        "mean":  "ordered series",
+        "pos":  "n.",
+        "level":  "core",
+        "tags":  [
+                     "academic",
+                     "reading"
+                 ],
+        "example":  "The article explains the sequence in detail.",
+        "exampleZh":  "",
+        "synonyms":  [
+
+                     ],
+        "distractors":  [
+
+                        ],
+        "source":  "release-build",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "school7000-0035",
+        "word":  "variation",
+        "displayWord":  "variation",
+        "phonetic":  "/variation/",
+        "mean":  "difference in form",
+        "pos":  "n.",
+        "level":  "core",
+        "tags":  [
+                     "academic",
+                     "science"
+                 ],
+        "example":  "The article explains the variation in detail.",
+        "exampleZh":  "",
+        "synonyms":  [
+
+                     ],
+        "distractors":  [
+
+                        ],
+        "source":  "release-build",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "school7000-0036",
+        "word":  "region",
+        "displayWord":  "region",
+        "phonetic":  "/region/",
+        "mean":  "area",
+        "pos":  "n.",
+        "level":  "core",
+        "tags":  [
+                     "academic",
+                     "geography"
+                 ],
+        "example":  "The article explains the region in detail.",
+        "exampleZh":  "",
+        "synonyms":  [
+
+                     ],
+        "distractors":  [
+
+                        ],
+        "source":  "release-build",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "school7000-0037",
+        "word":  "significance",
+        "displayWord":  "significance",
+        "phonetic":  "/significance/",
+        "mean":  "importance",
+        "pos":  "n.",
+        "level":  "core",
+        "tags":  [
+                     "academic",
+                     "writing"
+                 ],
+        "example":  "The article explains the significance in detail.",
+        "exampleZh":  "",
+        "synonyms":  [
+
+                     ],
+        "distractors":  [
+
+                        ],
+        "source":  "release-build",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "school7000-0038",
+        "word":  "assumption",
+        "displayWord":  "assumption",
+        "phonetic":  "/assumption/",
+        "mean":  "belief taken as true",
+        "pos":  "n.",
+        "level":  "core",
+        "tags":  [
+                     "academic",
+                     "logic"
+                 ],
+        "example":  "The article explains the assumption in detail.",
+        "exampleZh":  "",
+        "synonyms":  [
+
+                     ],
+        "distractors":  [
+
+                        ],
+        "source":  "release-build",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "school7000-0039",
+        "word":  "distribution",
+        "displayWord":  "distribution",
+        "phonetic":  "/distribution/",
+        "mean":  "spreading out",
+        "pos":  "n.",
+        "level":  "core",
+        "tags":  [
+                     "academic",
+                     "science"
+                 ],
+        "example":  "The article explains the distribution in detail.",
+        "exampleZh":  "",
+        "synonyms":  [
+
+                     ],
+        "distractors":  [
+
+                        ],
+        "source":  "release-build",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "school7000-0040",
+        "word":  "conclusion",
+        "displayWord":  "conclusion",
+        "phonetic":  "/conclusion/",
+        "mean":  "final judgment",
+        "pos":  "n.",
+        "level":  "core",
+        "tags":  [
+                     "academic",
+                     "writing"
+                 ],
+        "example":  "The article explains the conclusion in detail.",
+        "exampleZh":  "",
+        "synonyms":  [
+
+                     ],
+        "distractors":  [
+
+                        ],
+        "source":  "release-build",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "school7000-0041",
+        "word":  "alternative",
+        "displayWord":  "alternative",
+        "phonetic":  "/alternative/",
+        "mean":  "different choice",
+        "pos":  "n.",
+        "level":  "core",
+        "tags":  [
+                     "academic",
+                     "discussion"
+                 ],
+        "example":  "The article explains the alternative in detail.",
+        "exampleZh":  "",
+        "synonyms":  [
+
+                     ],
+        "distractors":  [
+
+                        ],
+        "source":  "release-build",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "school7000-0042",
+        "word":  "circumstance",
+        "displayWord":  "circumstance",
+        "phonetic":  "/circumstance/",
+        "mean":  "condition surrounding an event",
+        "pos":  "n.",
+        "level":  "core",
+        "tags":  [
+                     "academic",
+                     "reading"
+                 ],
+        "example":  "The article explains the circumstance in detail.",
+        "exampleZh":  "",
+        "synonyms":  [
+
+                     ],
+        "distractors":  [
+
+                        ],
+        "source":  "release-build",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "school7000-0043",
+        "word":  "component",
+        "displayWord":  "component",
+        "phonetic":  "/component/",
+        "mean":  "part of a whole",
+        "pos":  "n.",
+        "level":  "core",
+        "tags":  [
+                     "academic",
+                     "science"
+                 ],
+        "example":  "The article explains the component in detail.",
+        "exampleZh":  "",
+        "synonyms":  [
+
+                     ],
+        "distractors":  [
+
+                        ],
+        "source":  "release-build",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "school7000-0044",
+        "word":  "controversy",
+        "displayWord":  "controversy",
+        "phonetic":  "/controversy/",
+        "mean":  "public disagreement",
+        "pos":  "n.",
+        "level":  "core",
+        "tags":  [
+                     "academic",
+                     "discussion"
+                 ],
+        "example":  "The article explains the controversy in detail.",
+        "exampleZh":  "",
+        "synonyms":  [
+
+                     ],
+        "distractors":  [
+
+                        ],
+        "source":  "release-build",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "school7000-0045",
+        "word":  "discipline",
+        "displayWord":  "discipline",
+        "phonetic":  "/discipline/",
+        "mean":  "field of study",
+        "pos":  "n.",
+        "level":  "core",
+        "tags":  [
+                     "academic",
+                     "education"
+                 ],
+        "example":  "The article explains the discipline in detail.",
+        "exampleZh":  "",
+        "synonyms":  [
+
+                     ],
+        "distractors":  [
+
+                        ],
+        "source":  "release-build",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "school7000-0046",
+        "word":  "equilibrium",
+        "displayWord":  "equilibrium",
+        "phonetic":  "/equilibrium/",
+        "mean":  "state of balance",
+        "pos":  "n.",
+        "level":  "core",
+        "tags":  [
+                     "academic",
+                     "science"
+                 ],
+        "example":  "The article explains the equilibrium in detail.",
+        "exampleZh":  "",
+        "synonyms":  [
+
+                     ],
+        "distractors":  [
+
+                        ],
+        "source":  "release-build",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "school7000-0047",
+        "word":  "hierarchy",
+        "displayWord":  "hierarchy",
+        "phonetic":  "/hierarchy/",
+        "mean":  "ranked order",
+        "pos":  "n.",
+        "level":  "core",
+        "tags":  [
+                     "academic",
+                     "society"
+                 ],
+        "example":  "The article explains the hierarchy in detail.",
+        "exampleZh":  "",
+        "synonyms":  [
+
+                     ],
+        "distractors":  [
+
+                        ],
+        "source":  "release-build",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "school7000-0048",
+        "word":  "justification",
+        "displayWord":  "justification",
+        "phonetic":  "/justification/",
+        "mean":  "good reason",
+        "pos":  "n.",
+        "level":  "core",
+        "tags":  [
+                     "academic",
+                     "writing"
+                 ],
+        "example":  "The article explains the justification in detail.",
+        "exampleZh":  "",
+        "synonyms":  [
+
+                     ],
+        "distractors":  [
+
+                        ],
+        "source":  "release-build",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "school7000-0049",
+        "word":  "metaphor",
+        "displayWord":  "metaphor",
+        "phonetic":  "/metaphor/",
+        "mean":  "figurative comparison",
+        "pos":  "n.",
+        "level":  "core",
+        "tags":  [
+                     "academic",
+                     "literature"
+                 ],
+        "example":  "The article explains the metaphor in detail.",
+        "exampleZh":  "",
+        "synonyms":  [
+
+                     ],
+        "distractors":  [
+
+                        ],
+        "source":  "release-build",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "school7000-0050",
+        "word":  "motive",
+        "displayWord":  "motive",
+        "phonetic":  "/motive/",
+        "mean":  "reason for action",
+        "pos":  "n.",
+        "level":  "core",
+        "tags":  [
+                     "academic",
+                     "reading"
+                 ],
+        "example":  "The article explains the motive in detail.",
+        "exampleZh":  "",
+        "synonyms":  [
+
+                     ],
+        "distractors":  [
+
+                        ],
+        "source":  "release-build",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "school7000-0051",
+        "word":  "paradox",
+        "displayWord":  "paradox",
+        "phonetic":  "/paradox/",
+        "mean":  "seeming contradiction",
+        "pos":  "n.",
+        "level":  "core",
+        "tags":  [
+                     "academic",
+                     "logic"
+                 ],
+        "example":  "The article explains the paradox in detail.",
+        "exampleZh":  "",
+        "synonyms":  [
+
+                     ],
+        "distractors":  [
+
+                        ],
+        "source":  "release-build",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "school7000-0052",
+        "word":  "probability",
+        "displayWord":  "probability",
+        "phonetic":  "/probability/",
+        "mean":  "likelihood",
+        "pos":  "n.",
+        "level":  "core",
+        "tags":  [
+                     "academic",
+                     "math"
+                 ],
+        "example":  "The article explains the probability in detail.",
+        "exampleZh":  "",
+        "synonyms":  [
+
+                     ],
+        "distractors":  [
+
+                        ],
+        "source":  "release-build",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "school7000-0053",
+        "word":  "proportion",
+        "displayWord":  "proportion",
+        "phonetic":  "/proportion/",
+        "mean":  "part in relation to whole",
+        "pos":  "n.",
+        "level":  "core",
+        "tags":  [
+                     "academic",
+                     "math"
+                 ],
+        "example":  "The article explains the proportion in detail.",
+        "exampleZh":  "",
+        "synonyms":  [
+
+                     ],
+        "distractors":  [
+
+                        ],
+        "source":  "release-build",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "school7000-0054",
+        "word":  "restriction",
+        "displayWord":  "restriction",
+        "phonetic":  "/restriction/",
+        "mean":  "limitation",
+        "pos":  "n.",
+        "level":  "core",
+        "tags":  [
+                     "academic",
+                     "policy"
+                 ],
+        "example":  "The article explains the restriction in detail.",
+        "exampleZh":  "",
+        "synonyms":  [
+
+                     ],
+        "distractors":  [
+
+                        ],
+        "source":  "release-build",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "school7000-0055",
+        "word":  "simulation",
+        "displayWord":  "simulation",
+        "phonetic":  "/simulation/",
+        "mean":  "model of real conditions",
+        "pos":  "n.",
+        "level":  "core",
+        "tags":  [
+                     "academic",
+                     "science"
+                 ],
+        "example":  "The article explains the simulation in detail.",
+        "exampleZh":  "",
+        "synonyms":  [
+
+                     ],
+        "distractors":  [
+
+                        ],
+        "source":  "release-build",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "school7000-0056",
+        "word":  "tendency",
+        "displayWord":  "tendency",
+        "phonetic":  "/tendency/",
+        "mean":  "usual direction or habit",
+        "pos":  "n.",
+        "level":  "core",
+        "tags":  [
+                     "academic",
+                     "reading"
+                 ],
+        "example":  "The article explains the tendency in detail.",
+        "exampleZh":  "",
+        "synonyms":  [
+
+                     ],
+        "distractors":  [
+
+                        ],
+        "source":  "release-build",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "school7000-0057",
+        "word":  "utility",
+        "displayWord":  "utility",
+        "phonetic":  "/utility/",
+        "mean":  "usefulness",
+        "pos":  "n.",
+        "level":  "core",
+        "tags":  [
+                     "academic",
+                     "analysis"
+                 ],
+        "example":  "The article explains the utility in detail.",
+        "exampleZh":  "",
+        "synonyms":  [
+
+                     ],
+        "distractors":  [
+
+                        ],
+        "source":  "release-build",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "school7000-0058",
+        "word":  "version",
+        "displayWord":  "version",
+        "phonetic":  "/version/",
+        "mean":  "particular form",
+        "pos":  "n.",
+        "level":  "core",
+        "tags":  [
+                     "academic",
+                     "reading"
+                 ],
+        "example":  "The article explains the version in detail.",
+        "exampleZh":  "",
+        "synonyms":  [
+
+                     ],
+        "distractors":  [
+
+                        ],
+        "source":  "release-build",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "school7000-0059",
+        "word":  "volume",
+        "displayWord":  "volume",
+        "phonetic":  "/volume/",
+        "mean":  "amount or size",
+        "pos":  "n.",
+        "level":  "core",
+        "tags":  [
+                     "academic",
+                     "science"
+                 ],
+        "example":  "The article explains the volume in detail.",
+        "exampleZh":  "",
+        "synonyms":  [
+
+                     ],
+        "distractors":  [
+
+                        ],
+        "source":  "release-build",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "school7000-0060",
+        "word":  "welfare",
+        "displayWord":  "welfare",
+        "phonetic":  "/welfare/",
+        "mean":  "health and happiness",
+        "pos":  "n.",
+        "level":  "core",
+        "tags":  [
+                     "academic",
+                     "society"
+                 ],
+        "example":  "The article explains the welfare in detail.",
+        "exampleZh":  "",
+        "synonyms":  [
+
+                     ],
+        "distractors":  [
+
+                        ],
+        "source":  "release-build",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "school7000-0061",
+        "word":  "accumulate",
+        "displayWord":  "accumulate",
+        "phonetic":  "/accumulate/",
+        "mean":  "gather over time",
+        "pos":  "v.",
+        "level":  "core",
+        "tags":  [
+                     "academic",
+                     "reading"
+                 ],
+        "example":  "Students should accumulate the passage carefully.",
+        "exampleZh":  "",
+        "synonyms":  [
+
+                     ],
+        "distractors":  [
+
+                        ],
+        "source":  "release-build",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "school7000-0062",
+        "word":  "differentiate",
+        "displayWord":  "differentiate",
+        "phonetic":  "/differentiate/",
+        "mean":  "show a difference",
+        "pos":  "v.",
+        "level":  "core",
+        "tags":  [
+                     "academic",
+                     "writing"
+                 ],
+        "example":  "Students should differentiate the passage carefully.",
+        "exampleZh":  "",
+        "synonyms":  [
+
+                     ],
+        "distractors":  [
+
+                        ],
+        "source":  "release-build",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "school7000-0063",
+        "word":  "interpret",
+        "displayWord":  "interpret",
+        "phonetic":  "/interpret/",
+        "mean":  "explain meaning",
+        "pos":  "v.",
+        "level":  "core",
+        "tags":  [
+                     "academic",
+                     "reading"
+                 ],
+        "example":  "Students should interpret the passage carefully.",
+        "exampleZh":  "",
+        "synonyms":  [
+
+                     ],
+        "distractors":  [
+
+                        ],
+        "source":  "release-build",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "school7000-0064",
+        "word":  "constrain",
+        "displayWord":  "constrain",
+        "phonetic":  "/constrain/",
+        "mean":  "limit",
+        "pos":  "v.",
+        "level":  "core",
+        "tags":  [
+                     "academic",
+                     "reading"
+                 ],
+        "example":  "Students should constrain the passage carefully.",
+        "exampleZh":  "",
+        "synonyms":  [
+
+                     ],
+        "distractors":  [
+
+                        ],
+        "source":  "release-build",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "school7000-0065",
+        "word":  "retain",
+        "displayWord":  "retain",
+        "phonetic":  "/retain/",
+        "mean":  "keep",
+        "pos":  "v.",
+        "level":  "core",
+        "tags":  [
+                     "academic",
+                     "memory"
+                 ],
+        "example":  "Students should retain the passage carefully.",
+        "exampleZh":  "",
+        "synonyms":  [
+
+                     ],
+        "distractors":  [
+
+                        ],
+        "source":  "release-build",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "school7000-0066",
+        "word":  "adapt",
+        "displayWord":  "adapt",
+        "phonetic":  "/adapt/",
+        "mean":  "adjust to new conditions",
+        "pos":  "v.",
+        "level":  "core",
+        "tags":  [
+                     "academic",
+                     "reading"
+                 ],
+        "example":  "Students should adapt the passage carefully.",
+        "exampleZh":  "",
+        "synonyms":  [
+
+                     ],
+        "distractors":  [
+
+                        ],
+        "source":  "release-build",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "school7000-0067",
+        "word":  "assume",
+        "displayWord":  "assume",
+        "phonetic":  "/assume/",
+        "mean":  "accept without proof",
+        "pos":  "v.",
+        "level":  "core",
+        "tags":  [
+                     "academic",
+                     "logic"
+                 ],
+        "example":  "Students should assume the passage carefully.",
+        "exampleZh":  "",
+        "synonyms":  [
+
+                     ],
+        "distractors":  [
+
+                        ],
+        "source":  "release-build",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "school7000-0068",
+        "word":  "calculate",
+        "displayWord":  "calculate",
+        "phonetic":  "/calculate/",
+        "mean":  "work out by numbers",
+        "pos":  "v.",
+        "level":  "core",
+        "tags":  [
+                     "academic",
+                     "math"
+                 ],
+        "example":  "Students should calculate the passage carefully.",
+        "exampleZh":  "",
+        "synonyms":  [
+
+                     ],
+        "distractors":  [
+
+                        ],
+        "source":  "release-build",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "school7000-0069",
+        "word":  "coincide",
+        "displayWord":  "coincide",
+        "phonetic":  "/coincide/",
+        "mean":  "happen together",
+        "pos":  "v.",
+        "level":  "core",
+        "tags":  [
+                     "academic",
+                     "reading"
+                 ],
+        "example":  "Students should coincide the passage carefully.",
+        "exampleZh":  "",
+        "synonyms":  [
+
+                     ],
+        "distractors":  [
+
+                        ],
+        "source":  "release-build",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "school7000-0070",
+        "word":  "compile",
+        "displayWord":  "compile",
+        "phonetic":  "/compile/",
+        "mean":  "collect into one work",
+        "pos":  "v.",
+        "level":  "core",
+        "tags":  [
+                     "academic",
+                     "writing"
+                 ],
+        "example":  "Students should compile the passage carefully.",
+        "exampleZh":  "",
+        "synonyms":  [
+
+                     ],
+        "distractors":  [
+
+                        ],
+        "source":  "release-build",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "school7000-0071",
+        "word":  "conclude",
+        "displayWord":  "conclude",
+        "phonetic":  "/conclude/",
+        "mean":  "decide after thinking",
+        "pos":  "v.",
+        "level":  "core",
+        "tags":  [
+                     "academic",
+                     "writing"
+                 ],
+        "example":  "Students should conclude the passage carefully.",
+        "exampleZh":  "",
+        "synonyms":  [
+
+                     ],
+        "distractors":  [
+
+                        ],
+        "source":  "release-build",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "school7000-0072",
+        "word":  "convert",
+        "displayWord":  "convert",
+        "phonetic":  "/convert/",
+        "mean":  "change into another form",
+        "pos":  "v.",
+        "level":  "core",
+        "tags":  [
+                     "academic",
+                     "science"
+                 ],
+        "example":  "Students should convert the passage carefully.",
+        "exampleZh":  "",
+        "synonyms":  [
+
+                     ],
+        "distractors":  [
+
+                        ],
+        "source":  "release-build",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "school7000-0073",
+        "word":  "define",
+        "displayWord":  "define",
+        "phonetic":  "/define/",
+        "mean":  "state the meaning of",
+        "pos":  "v.",
+        "level":  "core",
+        "tags":  [
+                     "academic",
+                     "writing"
+                 ],
+        "example":  "Students should define the passage carefully.",
+        "exampleZh":  "",
+        "synonyms":  [
+
+                     ],
+        "distractors":  [
+
+                        ],
+        "source":  "release-build",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "school7000-0074",
+        "word":  "derive",
+        "displayWord":  "derive",
+        "phonetic":  "/derive/",
+        "mean":  "get from a source",
+        "pos":  "v.",
+        "level":  "core",
+        "tags":  [
+                     "academic",
+                     "reading"
+                 ],
+        "example":  "Students should derive the passage carefully.",
+        "exampleZh":  "",
+        "synonyms":  [
+
+                     ],
+        "distractors":  [
+
+                        ],
+        "source":  "release-build",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "school7000-0075",
+        "word":  "detect",
+        "displayWord":  "detect",
+        "phonetic":  "/detect/",
+        "mean":  "discover",
+        "pos":  "v.",
+        "level":  "core",
+        "tags":  [
+                     "academic",
+                     "science"
+                 ],
+        "example":  "Students should detect the passage carefully.",
+        "exampleZh":  "",
+        "synonyms":  [
+
+                     ],
+        "distractors":  [
+
+                        ],
+        "source":  "release-build",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "school7000-0076",
+        "word":  "distinguish",
+        "displayWord":  "distinguish",
+        "phonetic":  "/distinguish/",
+        "mean":  "tell apart",
+        "pos":  "v.",
+        "level":  "core",
+        "tags":  [
+                     "academic",
+                     "reading"
+                 ],
+        "example":  "Students should distinguish the passage carefully.",
+        "exampleZh":  "",
+        "synonyms":  [
+
+                     ],
+        "distractors":  [
+
+                        ],
+        "source":  "release-build",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "school7000-0077",
+        "word":  "emerge",
+        "displayWord":  "emerge",
+        "phonetic":  "/emerge/",
+        "mean":  "come into view",
+        "pos":  "v.",
+        "level":  "core",
+        "tags":  [
+                     "academic",
+                     "reading"
+                 ],
+        "example":  "Students should emerge the passage carefully.",
+        "exampleZh":  "",
+        "synonyms":  [
+
+                     ],
+        "distractors":  [
+
+                        ],
+        "source":  "release-build",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "school7000-0078",
+        "word":  "enhance",
+        "displayWord":  "enhance",
+        "phonetic":  "/enhance/",
+        "mean":  "improve",
+        "pos":  "v.",
+        "level":  "core",
+        "tags":  [
+                     "academic",
+                     "writing"
+                 ],
+        "example":  "Students should enhance the passage carefully.",
+        "exampleZh":  "",
+        "synonyms":  [
+
+                     ],
+        "distractors":  [
+
+                        ],
+        "source":  "release-build",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "school7000-0079",
+        "word":  "estimate",
+        "displayWord":  "estimate",
+        "phonetic":  "/estimate/",
+        "mean":  "roughly judge value",
+        "pos":  "v.",
+        "level":  "core",
+        "tags":  [
+                     "academic",
+                     "math"
+                 ],
+        "example":  "Students should estimate the passage carefully.",
+        "exampleZh":  "",
+        "synonyms":  [
+
+                     ],
+        "distractors":  [
+
+                        ],
+        "source":  "release-build",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "school7000-0080",
+        "word":  "exclude",
+        "displayWord":  "exclude",
+        "phonetic":  "/exclude/",
+        "mean":  "leave out",
+        "pos":  "v.",
+        "level":  "core",
+        "tags":  [
+                     "academic",
+                     "analysis"
+                 ],
+        "example":  "Students should exclude the passage carefully.",
+        "exampleZh":  "",
+        "synonyms":  [
+
+                     ],
+        "distractors":  [
+
+                        ],
+        "source":  "release-build",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "school7000-0081",
+        "word":  "expand",
+        "displayWord":  "expand",
+        "phonetic":  "/expand/",
+        "mean":  "become larger",
+        "pos":  "v.",
+        "level":  "core",
+        "tags":  [
+                     "academic",
+                     "writing"
+                 ],
+        "example":  "Students should expand the passage carefully.",
+        "exampleZh":  "",
+        "synonyms":  [
+
+                     ],
+        "distractors":  [
+
+                        ],
+        "source":  "release-build",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "school7000-0082",
+        "word":  "expose",
+        "displayWord":  "expose",
+        "phonetic":  "/expose/",
+        "mean":  "make known",
+        "pos":  "v.",
+        "level":  "core",
+        "tags":  [
+                     "academic",
+                     "reading"
+                 ],
+        "example":  "Students should expose the passage carefully.",
+        "exampleZh":  "",
+        "synonyms":  [
+
+                     ],
+        "distractors":  [
+
+                        ],
+        "source":  "release-build",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "school7000-0083",
+        "word":  "generate",
+        "displayWord":  "generate",
+        "phonetic":  "/generate/",
+        "mean":  "produce",
+        "pos":  "v.",
+        "level":  "core",
+        "tags":  [
+                     "academic",
+                     "science"
+                 ],
+        "example":  "Students should generate the passage carefully.",
+        "exampleZh":  "",
+        "synonyms":  [
+
+                     ],
+        "distractors":  [
+
+                        ],
+        "source":  "release-build",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "school7000-0084",
+        "word":  "illustrate",
+        "displayWord":  "illustrate",
+        "phonetic":  "/illustrate/",
+        "mean":  "make clear with examples",
+        "pos":  "v.",
+        "level":  "core",
+        "tags":  [
+                     "academic",
+                     "writing"
+                 ],
+        "example":  "Students should illustrate the passage carefully.",
+        "exampleZh":  "",
+        "synonyms":  [
+
+                     ],
+        "distractors":  [
+
+                        ],
+        "source":  "release-build",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "school7000-0085",
+        "word":  "imply",
+        "displayWord":  "imply",
+        "phonetic":  "/imply/",
+        "mean":  "suggest without saying directly",
+        "pos":  "v.",
+        "level":  "core",
+        "tags":  [
+                     "academic",
+                     "reading"
+                 ],
+        "example":  "Students should imply the passage carefully.",
+        "exampleZh":  "",
+        "synonyms":  [
+
+                     ],
+        "distractors":  [
+
+                        ],
+        "source":  "release-build",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "school7000-0086",
+        "word":  "incorporate",
+        "displayWord":  "incorporate",
+        "phonetic":  "/incorporate/",
+        "mean":  "include as part",
+        "pos":  "v.",
+        "level":  "core",
+        "tags":  [
+                     "academic",
+                     "writing"
+                 ],
+        "example":  "Students should incorporate the passage carefully.",
+        "exampleZh":  "",
+        "synonyms":  [
+
+                     ],
+        "distractors":  [
+
+                        ],
+        "source":  "release-build",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "school7000-0087",
+        "word":  "indicate",
+        "displayWord":  "indicate",
+        "phonetic":  "/indicate/",
+        "mean":  "show",
+        "pos":  "v.",
+        "level":  "core",
+        "tags":  [
+                     "academic",
+                     "reading"
+                 ],
+        "example":  "Students should indicate the passage carefully.",
+        "exampleZh":  "",
+        "synonyms":  [
+
+                     ],
+        "distractors":  [
+
+                        ],
+        "source":  "release-build",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "school7000-0088",
+        "word":  "justify",
+        "displayWord":  "justify",
+        "phonetic":  "/justify/",
+        "mean":  "show to be right",
+        "pos":  "v.",
+        "level":  "core",
+        "tags":  [
+                     "academic",
+                     "writing"
+                 ],
+        "example":  "Students should justify the passage carefully.",
+        "exampleZh":  "",
+        "synonyms":  [
+
+                     ],
+        "distractors":  [
+
+                        ],
+        "source":  "release-build",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "school7000-0089",
+        "word":  "obtain",
+        "displayWord":  "obtain",
+        "phonetic":  "/obtain/",
+        "mean":  "get",
+        "pos":  "v.",
+        "level":  "core",
+        "tags":  [
+                     "academic",
+                     "reading"
+                 ],
+        "example":  "Students should obtain the passage carefully.",
+        "exampleZh":  "",
+        "synonyms":  [
+
+                     ],
+        "distractors":  [
+
+                        ],
+        "source":  "release-build",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "school7000-0090",
+        "word":  "perceive",
+        "displayWord":  "perceive",
+        "phonetic":  "/perceive/",
+        "mean":  "notice or understand",
+        "pos":  "v.",
+        "level":  "core",
+        "tags":  [
+                     "academic",
+                     "reading"
+                 ],
+        "example":  "Students should perceive the passage carefully.",
+        "exampleZh":  "",
+        "synonyms":  [
+
+                     ],
+        "distractors":  [
+
+                        ],
+        "source":  "release-build",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "school7000-0091",
+        "word":  "predict",
+        "displayWord":  "predict",
+        "phonetic":  "/predict/",
+        "mean":  "say in advance",
+        "pos":  "v.",
+        "level":  "core",
+        "tags":  [
+                     "academic",
+                     "science"
+                 ],
+        "example":  "Students should predict the passage carefully.",
+        "exampleZh":  "",
+        "synonyms":  [
+
+                     ],
+        "distractors":  [
+
+                        ],
+        "source":  "release-build",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "school7000-0092",
+        "word":  "preserve",
+        "displayWord":  "preserve",
+        "phonetic":  "/preserve/",
+        "mean":  "keep from harm",
+        "pos":  "v.",
+        "level":  "core",
+        "tags":  [
+                     "academic",
+                     "science"
+                 ],
+        "example":  "Students should preserve the passage carefully.",
+        "exampleZh":  "",
+        "synonyms":  [
+
+                     ],
+        "distractors":  [
+
+                        ],
+        "source":  "release-build",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "school7000-0093",
+        "word":  "pursue",
+        "displayWord":  "pursue",
+        "phonetic":  "/pursue/",
+        "mean":  "continue toward a goal",
+        "pos":  "v.",
+        "level":  "core",
+        "tags":  [
+                     "academic",
+                     "education"
+                 ],
+        "example":  "Students should pursue the passage carefully.",
+        "exampleZh":  "",
+        "synonyms":  [
+
+                     ],
+        "distractors":  [
+
+                        ],
+        "source":  "release-build",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "school7000-0094",
+        "word":  "reflect",
+        "displayWord":  "reflect",
+        "phonetic":  "/reflect/",
+        "mean":  "show or think carefully",
+        "pos":  "v.",
+        "level":  "core",
+        "tags":  [
+                     "academic",
+                     "writing"
+                 ],
+        "example":  "Students should reflect the passage carefully.",
+        "exampleZh":  "",
+        "synonyms":  [
+
+                     ],
+        "distractors":  [
+
+                        ],
+        "source":  "release-build",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "school7000-0095",
+        "word":  "reinforce",
+        "displayWord":  "reinforce",
+        "phonetic":  "/reinforce/",
+        "mean":  "make stronger",
+        "pos":  "v.",
+        "level":  "core",
+        "tags":  [
+                     "academic",
+                     "reading"
+                 ],
+        "example":  "Students should reinforce the passage carefully.",
+        "exampleZh":  "",
+        "synonyms":  [
+
+                     ],
+        "distractors":  [
+
+                        ],
+        "source":  "release-build",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "school7000-0096",
+        "word":  "respond",
+        "displayWord":  "respond",
+        "phonetic":  "/respond/",
+        "mean":  "react",
+        "pos":  "v.",
+        "level":  "core",
+        "tags":  [
+                     "academic",
+                     "discussion"
+                 ],
+        "example":  "Students should respond the passage carefully.",
+        "exampleZh":  "",
+        "synonyms":  [
+
+                     ],
+        "distractors":  [
+
+                        ],
+        "source":  "release-build",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "school7000-0097",
+        "word":  "restore",
+        "displayWord":  "restore",
+        "phonetic":  "/restore/",
+        "mean":  "bring back to earlier condition",
+        "pos":  "v.",
+        "level":  "core",
+        "tags":  [
+                     "academic",
+                     "history"
+                 ],
+        "example":  "Students should restore the passage carefully.",
+        "exampleZh":  "",
+        "synonyms":  [
+
+                     ],
+        "distractors":  [
+
+                        ],
+        "source":  "release-build",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "school7000-0098",
+        "word":  "transform",
+        "displayWord":  "transform",
+        "phonetic":  "/transform/",
+        "mean":  "change completely",
+        "pos":  "v.",
+        "level":  "core",
+        "tags":  [
+                     "academic",
+                     "science"
+                 ],
+        "example":  "Students should transform the passage carefully.",
+        "exampleZh":  "",
+        "synonyms":  [
+
+                     ],
+        "distractors":  [
+
+                        ],
+        "source":  "release-build",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "school7000-0099",
+        "word":  "undergo",
+        "displayWord":  "undergo",
+        "phonetic":  "/undergo/",
+        "mean":  "experience",
+        "pos":  "v.",
+        "level":  "core",
+        "tags":  [
+                     "academic",
+                     "reading"
+                 ],
+        "example":  "Students should undergo the passage carefully.",
+        "exampleZh":  "",
+        "synonyms":  [
+
+                     ],
+        "distractors":  [
+
+                        ],
+        "source":  "release-build",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "school7000-0100",
+        "word":  "verify",
+        "displayWord":  "verify",
+        "phonetic":  "/verify/",
+        "mean":  "check that something is true",
+        "pos":  "v.",
+        "level":  "core",
+        "tags":  [
+                     "academic",
+                     "science"
+                 ],
+        "example":  "Students should verify the passage carefully.",
+        "exampleZh":  "",
+        "synonyms":  [
+
+                     ],
+        "distractors":  [
+
+                        ],
+        "source":  "release-build",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "school7000-0101",
+        "word":  "coherent",
+        "displayWord":  "coherent",
+        "phonetic":  "/coherent/",
+        "mean":  "logically connected",
+        "pos":  "adj.",
+        "level":  "core",
+        "tags":  [
+                     "academic",
+                     "writing"
+                 ],
+        "example":  "The reading passage presents a coherent idea.",
+        "exampleZh":  "",
+        "synonyms":  [
+
+                     ],
+        "distractors":  [
+
+                        ],
+        "source":  "release-build",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "school7000-0102",
+        "word":  "fundamental",
+        "displayWord":  "fundamental",
+        "phonetic":  "/fundamental/",
+        "mean":  "basic and important",
+        "pos":  "adj.",
+        "level":  "core",
+        "tags":  [
+                     "academic",
+                     "reading"
+                 ],
+        "example":  "The reading passage presents a fundamental idea.",
+        "exampleZh":  "",
+        "synonyms":  [
+
+                     ],
+        "distractors":  [
+
+                        ],
+        "source":  "release-build",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "school7000-0103",
+        "word":  "rigid",
+        "displayWord":  "rigid",
+        "phonetic":  "/rigid/",
+        "mean":  "not flexible",
+        "pos":  "adj.",
+        "level":  "core",
+        "tags":  [
+                     "academic",
+                     "description"
+                 ],
+        "example":  "The reading passage presents a rigid idea.",
+        "exampleZh":  "",
+        "synonyms":  [
+
+                     ],
+        "distractors":  [
+
+                        ],
+        "source":  "release-build",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "school7000-0104",
+        "word":  "subtle",
+        "displayWord":  "subtle",
+        "phonetic":  "/subtle/",
+        "mean":  "not obvious",
+        "pos":  "adj.",
+        "level":  "core",
+        "tags":  [
+                     "academic",
+                     "reading"
+                 ],
+        "example":  "The reading passage presents a subtle idea.",
+        "exampleZh":  "",
+        "synonyms":  [
+
+                     ],
+        "distractors":  [
+
+                        ],
+        "source":  "release-build",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "school7000-0105",
+        "word":  "vivid",
+        "displayWord":  "vivid",
+        "phonetic":  "/vivid/",
+        "mean":  "clear and detailed",
+        "pos":  "adj.",
+        "level":  "core",
+        "tags":  [
+                     "academic",
+                     "writing"
+                 ],
+        "example":  "The reading passage presents a vivid idea.",
+        "exampleZh":  "",
+        "synonyms":  [
+
+                     ],
+        "distractors":  [
+
+                        ],
+        "source":  "release-build",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "school7000-0106",
+        "word":  "neutral",
+        "displayWord":  "neutral",
+        "phonetic":  "/neutral/",
+        "mean":  "not taking sides",
+        "pos":  "adj.",
+        "level":  "core",
+        "tags":  [
+                     "academic",
+                     "discussion"
+                 ],
+        "example":  "The reading passage presents a neutral idea.",
+        "exampleZh":  "",
+        "synonyms":  [
+
+                     ],
+        "distractors":  [
+
+                        ],
+        "source":  "release-build",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "school7000-0107",
+        "word":  "comprehensive",
+        "displayWord":  "comprehensive",
+        "phonetic":  "/comprehensive/",
+        "mean":  "complete and detailed",
+        "pos":  "adj.",
+        "level":  "core",
+        "tags":  [
+                     "academic",
+                     "writing"
+                 ],
+        "example":  "The reading passage presents a comprehensive idea.",
+        "exampleZh":  "",
+        "synonyms":  [
+
+                     ],
+        "distractors":  [
+
+                        ],
+        "source":  "release-build",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "school7000-0108",
+        "word":  "adjacent",
+        "displayWord":  "adjacent",
+        "phonetic":  "/adjacent/",
+        "mean":  "next to",
+        "pos":  "adj.",
+        "level":  "core",
+        "tags":  [
+                     "academic",
+                     "description"
+                 ],
+        "example":  "The reading passage presents a adjacent idea.",
+        "exampleZh":  "",
+        "synonyms":  [
+
+                     ],
+        "distractors":  [
+
+                        ],
+        "source":  "release-build",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "school7000-0109",
+        "word":  "abundant",
+        "displayWord":  "abundant",
+        "phonetic":  "/abundant/",
+        "mean":  "more than enough",
+        "pos":  "adj.",
+        "level":  "core",
+        "tags":  [
+                     "academic",
+                     "reading"
+                 ],
+        "example":  "The reading passage presents a abundant idea.",
+        "exampleZh":  "",
+        "synonyms":  [
+
+                     ],
+        "distractors":  [
+
+                        ],
+        "source":  "release-build",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "school7000-0110",
+        "word":  "durable",
+        "displayWord":  "durable",
+        "phonetic":  "/durable/",
+        "mean":  "long-lasting",
+        "pos":  "adj.",
+        "level":  "core",
+        "tags":  [
+                     "academic",
+                     "description"
+                 ],
+        "example":  "The reading passage presents a durable idea.",
+        "exampleZh":  "",
+        "synonyms":  [
+
+                     ],
+        "distractors":  [
+
+                        ],
+        "source":  "release-build",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "school7000-0111",
+        "word":  "ambiguous",
+        "displayWord":  "ambiguous",
+        "phonetic":  "/ambiguous/",
+        "mean":  "unclear",
+        "pos":  "adj.",
+        "level":  "core",
+        "tags":  [
+                     "academic",
+                     "writing"
+                 ],
+        "example":  "The reading passage presents a ambiguous idea.",
+        "exampleZh":  "",
+        "synonyms":  [
+
+                     ],
+        "distractors":  [
+
+                        ],
+        "source":  "release-build",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "school7000-0112",
+        "word":  "inevitable",
+        "displayWord":  "inevitable",
+        "phonetic":  "/inevitable/",
+        "mean":  "certain to happen",
+        "pos":  "adj.",
+        "level":  "core",
+        "tags":  [
+                     "academic",
+                     "logic"
+                 ],
+        "example":  "The reading passage presents a inevitable idea.",
+        "exampleZh":  "",
+        "synonyms":  [
+
+                     ],
+        "distractors":  [
+
+                        ],
+        "source":  "release-build",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "school7000-0113",
+        "word":  "plausible",
+        "displayWord":  "plausible",
+        "phonetic":  "/plausible/",
+        "mean":  "seemingly reasonable",
+        "pos":  "adj.",
+        "level":  "core",
+        "tags":  [
+                     "academic",
+                     "logic"
+                 ],
+        "example":  "The reading passage presents a plausible idea.",
+        "exampleZh":  "",
+        "synonyms":  [
+
+                     ],
+        "distractors":  [
+
+                        ],
+        "source":  "release-build",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "school7000-0114",
+        "word":  "resilient",
+        "displayWord":  "resilient",
+        "phonetic":  "/resilient/",
+        "mean":  "able to recover",
+        "pos":  "adj.",
+        "level":  "core",
+        "tags":  [
+                     "academic",
+                     "character"
+                 ],
+        "example":  "The reading passage presents a resilient idea.",
+        "exampleZh":  "",
+        "synonyms":  [
+
+                     ],
+        "distractors":  [
+
+                        ],
+        "source":  "release-build",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "school7000-0115",
+        "word":  "crucial",
+        "displayWord":  "crucial",
+        "phonetic":  "/crucial/",
+        "mean":  "extremely important",
+        "pos":  "adj.",
+        "level":  "core",
+        "tags":  [
+                     "academic",
+                     "reading"
+                 ],
+        "example":  "The reading passage presents a crucial idea.",
+        "exampleZh":  "",
+        "synonyms":  [
+
+                     ],
+        "distractors":  [
+
+                        ],
+        "source":  "release-build",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "school7000-0116",
+        "word":  "conventional",
+        "displayWord":  "conventional",
+        "phonetic":  "/conventional/",
+        "mean":  "following common practice",
+        "pos":  "adj.",
+        "level":  "core",
+        "tags":  [
+                     "academic",
+                     "society"
+                 ],
+        "example":  "The reading passage presents a conventional idea.",
+        "exampleZh":  "",
+        "synonyms":  [
+
+                     ],
+        "distractors":  [
+
+                        ],
+        "source":  "release-build",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "school7000-0117",
+        "word":  "diverse",
+        "displayWord":  "diverse",
+        "phonetic":  "/diverse/",
+        "mean":  "showing variety",
+        "pos":  "adj.",
+        "level":  "core",
+        "tags":  [
+                     "academic",
+                     "reading"
+                 ],
+        "example":  "The reading passage presents a diverse idea.",
+        "exampleZh":  "",
+        "synonyms":  [
+
+                     ],
+        "distractors":  [
+
+                        ],
+        "source":  "release-build",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "school7000-0118",
+        "word":  "explicit",
+        "displayWord":  "explicit",
+        "phonetic":  "/explicit/",
+        "mean":  "clearly stated",
+        "pos":  "adj.",
+        "level":  "core",
+        "tags":  [
+                     "academic",
+                     "writing"
+                 ],
+        "example":  "The reading passage presents a explicit idea.",
+        "exampleZh":  "",
+        "synonyms":  [
+
+                     ],
+        "distractors":  [
+
+                        ],
+        "source":  "release-build",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "school7000-0119",
+        "word":  "gradual",
+        "displayWord":  "gradual",
+        "phonetic":  "/gradual/",
+        "mean":  "happening slowly",
+        "pos":  "adj.",
+        "level":  "core",
+        "tags":  [
+                     "academic",
+                     "reading"
+                 ],
+        "example":  "The reading passage presents a gradual idea.",
+        "exampleZh":  "",
+        "synonyms":  [
+
+                     ],
+        "distractors":  [
+
+                        ],
+        "source":  "release-build",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "school7000-0120",
+        "word":  "relevant",
+        "displayWord":  "relevant",
+        "phonetic":  "/relevant/",
+        "mean":  "closely connected",
+        "pos":  "adj.",
+        "level":  "core",
+        "tags":  [
+                     "academic",
+                     "reading"
+                 ],
+        "example":  "The reading passage presents a relevant idea.",
+        "exampleZh":  "",
+        "synonyms":  [
+
+                     ],
+        "distractors":  [
+
+                        ],
+        "source":  "release-build",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "school7000-0121",
+        "word":  "accurate",
+        "displayWord":  "accurate",
+        "phonetic":  "/accurate/",
+        "mean":  "correct and exact",
+        "pos":  "adj.",
+        "level":  "core",
+        "tags":  [
+                     "academic",
+                     "math"
+                 ],
+        "example":  "The reading passage presents a accurate idea.",
+        "exampleZh":  "",
+        "synonyms":  [
+
+                     ],
+        "distractors":  [
+
+                        ],
+        "source":  "release-build",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "school7000-0122",
+        "word":  "approximate",
+        "displayWord":  "approximate",
+        "phonetic":  "/approximate/",
+        "mean":  "close but not exact",
+        "pos":  "adj.",
+        "level":  "core",
+        "tags":  [
+                     "academic",
+                     "math"
+                 ],
+        "example":  "The reading passage presents a approximate idea.",
+        "exampleZh":  "",
+        "synonyms":  [
+
+                     ],
+        "distractors":  [
+
+                        ],
+        "source":  "release-build",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "school7000-0123",
+        "word":  "artificial",
+        "displayWord":  "artificial",
+        "phonetic":  "/artificial/",
+        "mean":  "made by people",
+        "pos":  "adj.",
+        "level":  "core",
+        "tags":  [
+                     "academic",
+                     "science"
+                 ],
+        "example":  "The reading passage presents a artificial idea.",
+        "exampleZh":  "",
+        "synonyms":  [
+
+                     ],
+        "distractors":  [
+
+                        ],
+        "source":  "release-build",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "school7000-0124",
+        "word":  "biological",
+        "displayWord":  "biological",
+        "phonetic":  "/biological/",
+        "mean":  "related to living things",
+        "pos":  "adj.",
+        "level":  "core",
+        "tags":  [
+                     "academic",
+                     "science"
+                 ],
+        "example":  "The reading passage presents a biological idea.",
+        "exampleZh":  "",
+        "synonyms":  [
+
+                     ],
+        "distractors":  [
+
+                        ],
+        "source":  "release-build",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "school7000-0125",
+        "word":  "collective",
+        "displayWord":  "collective",
+        "phonetic":  "/collective/",
+        "mean":  "done by a group",
+        "pos":  "adj.",
+        "level":  "core",
+        "tags":  [
+                     "academic",
+                     "society"
+                 ],
+        "example":  "The reading passage presents a collective idea.",
+        "exampleZh":  "",
+        "synonyms":  [
+
+                     ],
+        "distractors":  [
+
+                        ],
+        "source":  "release-build",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "school7000-0126",
+        "word":  "compact",
+        "displayWord":  "compact",
+        "phonetic":  "/compact/",
+        "mean":  "small but complete",
+        "pos":  "adj.",
+        "level":  "core",
+        "tags":  [
+                     "academic",
+                     "description"
+                 ],
+        "example":  "The reading passage presents a compact idea.",
+        "exampleZh":  "",
+        "synonyms":  [
+
+                     ],
+        "distractors":  [
+
+                        ],
+        "source":  "release-build",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "school7000-0127",
+        "word":  "conscious",
+        "displayWord":  "conscious",
+        "phonetic":  "/conscious/",
+        "mean":  "aware",
+        "pos":  "adj.",
+        "level":  "core",
+        "tags":  [
+                     "academic",
+                     "reading"
+                 ],
+        "example":  "The reading passage presents a conscious idea.",
+        "exampleZh":  "",
+        "synonyms":  [
+
+                     ],
+        "distractors":  [
+
+                        ],
+        "source":  "release-build",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "school7000-0128",
+        "word":  "constant",
+        "displayWord":  "constant",
+        "phonetic":  "/constant/",
+        "mean":  "not changing",
+        "pos":  "adj.",
+        "level":  "core",
+        "tags":  [
+                     "academic",
+                     "science"
+                 ],
+        "example":  "The reading passage presents a constant idea.",
+        "exampleZh":  "",
+        "synonyms":  [
+
+                     ],
+        "distractors":  [
+
+                        ],
+        "source":  "release-build",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "school7000-0129",
+        "word":  "domestic",
+        "displayWord":  "domestic",
+        "phonetic":  "/domestic/",
+        "mean":  "within one country",
+        "pos":  "adj.",
+        "level":  "core",
+        "tags":  [
+                     "academic",
+                     "society"
+                 ],
+        "example":  "The reading passage presents a domestic idea.",
+        "exampleZh":  "",
+        "synonyms":  [
+
+                     ],
+        "distractors":  [
+
+                        ],
+        "source":  "release-build",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "school7000-0130",
+        "word":  "empirical",
+        "displayWord":  "empirical",
+        "phonetic":  "/empirical/",
+        "mean":  "based on observation",
+        "pos":  "adj.",
+        "level":  "core",
+        "tags":  [
+                     "academic",
+                     "research"
+                 ],
+        "example":  "The reading passage presents a empirical idea.",
+        "exampleZh":  "",
+        "synonyms":  [
+
+                     ],
+        "distractors":  [
+
+                        ],
+        "source":  "release-build",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "school7000-0131",
+        "word":  "ethical",
+        "displayWord":  "ethical",
+        "phonetic":  "/ethical/",
+        "mean":  "morally right",
+        "pos":  "adj.",
+        "level":  "core",
+        "tags":  [
+                     "academic",
+                     "discussion"
+                 ],
+        "example":  "The reading passage presents a ethical idea.",
+        "exampleZh":  "",
+        "synonyms":  [
+
+                     ],
+        "distractors":  [
+
+                        ],
+        "source":  "release-build",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "school7000-0132",
+        "word":  "hostile",
+        "displayWord":  "hostile",
+        "phonetic":  "/hostile/",
+        "mean":  "unfriendly",
+        "pos":  "adj.",
+        "level":  "core",
+        "tags":  [
+                     "academic",
+                     "society"
+                 ],
+        "example":  "The reading passage presents a hostile idea.",
+        "exampleZh":  "",
+        "synonyms":  [
+
+                     ],
+        "distractors":  [
+
+                        ],
+        "source":  "release-build",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "school7000-0133",
+        "word":  "logical",
+        "displayWord":  "logical",
+        "phonetic":  "/logical/",
+        "mean":  "reasonable in thought",
+        "pos":  "adj.",
+        "level":  "core",
+        "tags":  [
+                     "academic",
+                     "logic"
+                 ],
+        "example":  "The reading passage presents a logical idea.",
+        "exampleZh":  "",
+        "synonyms":  [
+
+                     ],
+        "distractors":  [
+
+                        ],
+        "source":  "release-build",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "school7000-0134",
+        "word":  "marginal",
+        "displayWord":  "marginal",
+        "phonetic":  "/marginal/",
+        "mean":  "small or limited",
+        "pos":  "adj.",
+        "level":  "core",
+        "tags":  [
+                     "academic",
+                     "analysis"
+                 ],
+        "example":  "The reading passage presents a marginal idea.",
+        "exampleZh":  "",
+        "synonyms":  [
+
+                     ],
+        "distractors":  [
+
+                        ],
+        "source":  "release-build",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "school7000-0135",
+        "word":  "minimal",
+        "displayWord":  "minimal",
+        "phonetic":  "/minimal/",
+        "mean":  "very small",
+        "pos":  "adj.",
+        "level":  "core",
+        "tags":  [
+                     "academic",
+                     "description"
+                 ],
+        "example":  "The reading passage presents a minimal idea.",
+        "exampleZh":  "",
+        "synonyms":  [
+
+                     ],
+        "distractors":  [
+
+                        ],
+        "source":  "release-build",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "school7000-0136",
+        "word":  "mutual",
+        "displayWord":  "mutual",
+        "phonetic":  "/mutual/",
+        "mean":  "shared by two sides",
+        "pos":  "adj.",
+        "level":  "core",
+        "tags":  [
+                     "academic",
+                     "society"
+                 ],
+        "example":  "The reading passage presents a mutual idea.",
+        "exampleZh":  "",
+        "synonyms":  [
+
+                     ],
+        "distractors":  [
+
+                        ],
+        "source":  "release-build",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "school7000-0137",
+        "word":  "negative",
+        "displayWord":  "negative",
+        "phonetic":  "/negative/",
+        "mean":  "harmful or not positive",
+        "pos":  "adj.",
+        "level":  "core",
+        "tags":  [
+                     "academic",
+                     "discussion"
+                 ],
+        "example":  "The reading passage presents a negative idea.",
+        "exampleZh":  "",
+        "synonyms":  [
+
+                     ],
+        "distractors":  [
+
+                        ],
+        "source":  "release-build",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "school7000-0138",
+        "word":  "parallel",
+        "displayWord":  "parallel",
+        "phonetic":  "/parallel/",
+        "mean":  "similar and developing together",
+        "pos":  "adj.",
+        "level":  "core",
+        "tags":  [
+                     "academic",
+                     "reading"
+                 ],
+        "example":  "The reading passage presents a parallel idea.",
+        "exampleZh":  "",
+        "synonyms":  [
+
+                     ],
+        "distractors":  [
+
+                        ],
+        "source":  "release-build",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "school7000-0139",
+        "word":  "precise",
+        "displayWord":  "precise",
+        "phonetic":  "/precise/",
+        "mean":  "exact",
+        "pos":  "adj.",
+        "level":  "core",
+        "tags":  [
+                     "academic",
+                     "math"
+                 ],
+        "example":  "The reading passage presents a precise idea.",
+        "exampleZh":  "",
+        "synonyms":  [
+
+                     ],
+        "distractors":  [
+
+                        ],
+        "source":  "release-build",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "school7000-0140",
+        "word":  "random",
+        "displayWord":  "random",
+        "phonetic":  "/random/",
+        "mean":  "without a clear pattern",
+        "pos":  "adj.",
+        "level":  "core",
+        "tags":  [
+                     "academic",
+                     "science"
+                 ],
+        "example":  "The reading passage presents a random idea.",
+        "exampleZh":  "",
+        "synonyms":  [
+
+                     ],
+        "distractors":  [
+
+                        ],
+        "source":  "release-build",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "school7000-0141",
+        "word":  "rational",
+        "displayWord":  "rational",
+        "phonetic":  "/rational/",
+        "mean":  "based on reason",
+        "pos":  "adj.",
+        "level":  "core",
+        "tags":  [
+                     "academic",
+                     "logic"
+                 ],
+        "example":  "The reading passage presents a rational idea.",
+        "exampleZh":  "",
+        "synonyms":  [
+
+                     ],
+        "distractors":  [
+
+                        ],
+        "source":  "release-build",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "school7000-0142",
+        "word":  "remote",
+        "displayWord":  "remote",
+        "phonetic":  "/remote/",
+        "mean":  "far away",
+        "pos":  "adj.",
+        "level":  "core",
+        "tags":  [
+                     "academic",
+                     "geography"
+                 ],
+        "example":  "The reading passage presents a remote idea.",
+        "exampleZh":  "",
+        "synonyms":  [
+
+                     ],
+        "distractors":  [
+
+                        ],
+        "source":  "release-build",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "school7000-0143",
+        "word":  "stable",
+        "displayWord":  "stable",
+        "phonetic":  "/stable/",
+        "mean":  "steady and not changing",
+        "pos":  "adj.",
+        "level":  "core",
+        "tags":  [
+                     "academic",
+                     "science"
+                 ],
+        "example":  "The reading passage presents a stable idea.",
+        "exampleZh":  "",
+        "synonyms":  [
+
+                     ],
+        "distractors":  [
+
+                        ],
+        "source":  "release-build",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "school7000-0144",
+        "word":  "sufficient",
+        "displayWord":  "sufficient",
+        "phonetic":  "/sufficient/",
+        "mean":  "enough",
+        "pos":  "adj.",
+        "level":  "core",
+        "tags":  [
+                     "academic",
+                     "reading"
+                 ],
+        "example":  "The reading passage presents a sufficient idea.",
+        "exampleZh":  "",
+        "synonyms":  [
+
+                     ],
+        "distractors":  [
+
+                        ],
+        "source":  "release-build",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "school7000-0145",
+        "word":  "temporary",
+        "displayWord":  "temporary",
+        "phonetic":  "/temporary/",
+        "mean":  "lasting a short time",
+        "pos":  "adj.",
+        "level":  "core",
+        "tags":  [
+                     "academic",
+                     "description"
+                 ],
+        "example":  "The reading passage presents a temporary idea.",
+        "exampleZh":  "",
+        "synonyms":  [
+
+                     ],
+        "distractors":  [
+
+                        ],
+        "source":  "release-build",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "school7000-0146",
+        "word":  "ultimate",
+        "displayWord":  "ultimate",
+        "phonetic":  "/ultimate/",
+        "mean":  "final or most important",
+        "pos":  "adj.",
+        "level":  "core",
+        "tags":  [
+                     "academic",
+                     "reading"
+                 ],
+        "example":  "The reading passage presents a ultimate idea.",
+        "exampleZh":  "",
+        "synonyms":  [
+
+                     ],
+        "distractors":  [
+
+                        ],
+        "source":  "release-build",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "school7000-0147",
+        "word":  "unique",
+        "displayWord":  "unique",
+        "phonetic":  "/unique/",
+        "mean":  "one of a kind",
+        "pos":  "adj.",
+        "level":  "core",
+        "tags":  [
+                     "academic",
+                     "description"
+                 ],
+        "example":  "The reading passage presents a unique idea.",
+        "exampleZh":  "",
+        "synonyms":  [
+
+                     ],
+        "distractors":  [
+
+                        ],
+        "source":  "release-build",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "school7000-0148",
+        "word":  "valid",
+        "displayWord":  "valid",
+        "phonetic":  "/valid/",
+        "mean":  "well-based and acceptable",
+        "pos":  "adj.",
+        "level":  "core",
+        "tags":  [
+                     "academic",
+                     "logic"
+                 ],
+        "example":  "The reading passage presents a valid idea.",
+        "exampleZh":  "",
+        "synonyms":  [
+
+                     ],
+        "distractors":  [
+
+                        ],
+        "source":  "release-build",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "school7000-0149",
+        "word":  "visible",
+        "displayWord":  "visible",
+        "phonetic":  "/visible/",
+        "mean":  "able to be seen",
+        "pos":  "adj.",
+        "level":  "core",
+        "tags":  [
+                     "academic",
+                     "science"
+                 ],
+        "example":  "The reading passage presents a visible idea.",
+        "exampleZh":  "",
+        "synonyms":  [
+
+                     ],
+        "distractors":  [
+
+                        ],
+        "source":  "release-build",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "school7000-0150",
+        "word":  "abstract",
+        "displayWord":  "abstract",
+        "phonetic":  "/abstract/",
+        "mean":  "dealing with ideas not concrete things",
+        "pos":  "adj.",
+        "level":  "core",
+        "tags":  [
+                     "academic",
+                     "reading"
+                 ],
+        "example":  "The reading passage presents a abstract idea.",
+        "exampleZh":  "",
+        "synonyms":  [
+
+                     ],
+        "distractors":  [
+
+                        ],
+        "source":  "release-build",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "school7000-0151",
+        "word":  "acute",
+        "displayWord":  "acute",
+        "phonetic":  "/acute/",
+        "mean":  "serious or sharp",
+        "pos":  "adj.",
+        "level":  "core",
+        "tags":  [
+                     "academic",
+                     "reading"
+                 ],
+        "example":  "The reading passage presents a acute idea.",
+        "exampleZh":  "",
+        "synonyms":  [
+
+                     ],
+        "distractors":  [
+
+                        ],
+        "source":  "release-build",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "school7000-0152",
+        "word":  "brief",
+        "displayWord":  "brief",
+        "phonetic":  "/brief/",
+        "mean":  "short in time or words",
+        "pos":  "adj.",
+        "level":  "core",
+        "tags":  [
+                     "academic",
+                     "writing"
+                 ],
+        "example":  "The reading passage presents a brief idea.",
+        "exampleZh":  "",
+        "synonyms":  [
+
+                     ],
+        "distractors":  [
+
+                        ],
+        "source":  "release-build",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "school7000-0153",
+        "word":  "capable",
+        "displayWord":  "capable",
+        "phonetic":  "/capable/",
+        "mean":  "having ability",
+        "pos":  "adj.",
+        "level":  "core",
+        "tags":  [
+                     "academic",
+                     "character"
+                 ],
+        "example":  "The reading passage presents a capable idea.",
+        "exampleZh":  "",
+        "synonyms":  [
+
+                     ],
+        "distractors":  [
+
+                        ],
+        "source":  "release-build",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "school7000-0154",
+        "word":  "civil",
+        "displayWord":  "civil",
+        "phonetic":  "/civil/",
+        "mean":  "polite or related to citizens",
+        "pos":  "adj.",
+        "level":  "core",
+        "tags":  [
+                     "academic",
+                     "society"
+                 ],
+        "example":  "The reading passage presents a civil idea.",
+        "exampleZh":  "",
+        "synonyms":  [
+
+                     ],
+        "distractors":  [
+
+                        ],
+        "source":  "release-build",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "school7000-0155",
+        "word":  "complex",
+        "displayWord":  "complex",
+        "phonetic":  "/complex/",
+        "mean":  "having many parts",
+        "pos":  "adj.",
+        "level":  "core",
+        "tags":  [
+                     "academic",
+                     "reading"
+                 ],
+        "example":  "The reading passage presents a complex idea.",
+        "exampleZh":  "",
+        "synonyms":  [
+
+                     ],
+        "distractors":  [
+
+                        ],
+        "source":  "release-build",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "school7000-0156",
+        "word":  "critical",
+        "displayWord":  "critical",
+        "phonetic":  "/critical/",
+        "mean":  "very important or analytical",
+        "pos":  "adj.",
+        "level":  "core",
+        "tags":  [
+                     "academic",
+                     "writing"
+                 ],
+        "example":  "The reading passage presents a critical idea.",
+        "exampleZh":  "",
+        "synonyms":  [
+
+                     ],
+        "distractors":  [
+
+                        ],
+        "source":  "release-build",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "school7000-0157",
+        "word":  "efficient",
+        "displayWord":  "efficient",
+        "phonetic":  "/efficient/",
+        "mean":  "working well without waste",
+        "pos":  "adj.",
+        "level":  "core",
+        "tags":  [
+                     "academic",
+                     "analysis"
+                 ],
+        "example":  "The reading passage presents a efficient idea.",
+        "exampleZh":  "",
+        "synonyms":  [
+
+                     ],
+        "distractors":  [
+
+                        ],
+        "source":  "release-build",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "school7000-0158",
+        "word":  "frequent",
+        "displayWord":  "frequent",
+        "phonetic":  "/frequent/",
+        "mean":  "happening often",
+        "pos":  "adj.",
+        "level":  "core",
+        "tags":  [
+                     "academic",
+                     "reading"
+                 ],
+        "example":  "The reading passage presents a frequent idea.",
+        "exampleZh":  "",
+        "synonyms":  [
+
+                     ],
+        "distractors":  [
+
+                        ],
+        "source":  "release-build",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "school7000-0159",
+        "word":  "internal",
+        "displayWord":  "internal",
+        "phonetic":  "/internal/",
+        "mean":  "inside",
+        "pos":  "adj.",
+        "level":  "core",
+        "tags":  [
+                     "academic",
+                     "science"
+                 ],
+        "example":  "The reading passage presents a internal idea.",
+        "exampleZh":  "",
+        "synonyms":  [
+
+                     ],
+        "distractors":  [
+
+                        ],
+        "source":  "release-build",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "school7000-0160",
+        "word":  "intense",
+        "displayWord":  "intense",
+        "phonetic":  "/intense/",
+        "mean":  "very strong",
+        "pos":  "adj.",
+        "level":  "core",
+        "tags":  [
+                     "academic",
+                     "reading"
+                 ],
+        "example":  "The reading passage presents a intense idea.",
+        "exampleZh":  "",
+        "synonyms":  [
+
+                     ],
+        "distractors":  [
+
+                        ],
+        "source":  "release-build",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "school7000-0161",
+        "word":  "accordingly",
+        "displayWord":  "accordingly",
+        "phonetic":  "/accordingly/",
+        "mean":  "in a suitable way",
+        "pos":  "adv.",
+        "level":  "core",
+        "tags":  [
+                     "academic",
+                     "writing"
+                 ],
+        "example":  "The author explains the point accordingly in the essay.",
+        "exampleZh":  "",
+        "synonyms":  [
+
+                     ],
+        "distractors":  [
+
+                        ],
+        "source":  "release-build",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "school7000-0162",
+        "word":  "adequately",
+        "displayWord":  "adequately",
+        "phonetic":  "/adequately/",
+        "mean":  "well enough",
+        "pos":  "adv.",
+        "level":  "core",
+        "tags":  [
+                     "academic",
+                     "writing"
+                 ],
+        "example":  "The author explains the point adequately in the essay.",
+        "exampleZh":  "",
+        "synonyms":  [
+
+                     ],
+        "distractors":  [
+
+                        ],
+        "source":  "release-build",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "school7000-0163",
+        "word":  "approximately",
+        "displayWord":  "approximately",
+        "phonetic":  "/approximately/",
+        "mean":  "about but not exactly",
+        "pos":  "adv.",
+        "level":  "core",
+        "tags":  [
+                     "academic",
+                     "math"
+                 ],
+        "example":  "The author explains the point approximately in the essay.",
+        "exampleZh":  "",
+        "synonyms":  [
+
+                     ],
+        "distractors":  [
+
+                        ],
+        "source":  "release-build",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "school7000-0164",
+        "word":  "consequently",
+        "displayWord":  "consequently",
+        "phonetic":  "/consequently/",
+        "mean":  "as a result",
+        "pos":  "adv.",
+        "level":  "core",
+        "tags":  [
+                     "academic",
+                     "writing"
+                 ],
+        "example":  "The author explains the point consequently in the essay.",
+        "exampleZh":  "",
+        "synonyms":  [
+
+                     ],
+        "distractors":  [
+
+                        ],
+        "source":  "release-build",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "school7000-0165",
+        "word":  "consistently",
+        "displayWord":  "consistently",
+        "phonetic":  "/consistently/",
+        "mean":  "in the same way over time",
+        "pos":  "adv.",
+        "level":  "core",
+        "tags":  [
+                     "academic",
+                     "analysis"
+                 ],
+        "example":  "The author explains the point consistently in the essay.",
+        "exampleZh":  "",
+        "synonyms":  [
+
+                     ],
+        "distractors":  [
+
+                        ],
+        "source":  "release-build",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "school7000-0166",
+        "word":  "deliberately",
+        "displayWord":  "deliberately",
+        "phonetic":  "/deliberately/",
+        "mean":  "on purpose",
+        "pos":  "adv.",
+        "level":  "core",
+        "tags":  [
+                     "academic",
+                     "reading"
+                 ],
+        "example":  "The author explains the point deliberately in the essay.",
+        "exampleZh":  "",
+        "synonyms":  [
+
+                     ],
+        "distractors":  [
+
+                        ],
+        "source":  "release-build",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "school7000-0167",
+        "word":  "eventually",
+        "displayWord":  "eventually",
+        "phonetic":  "/eventually/",
+        "mean":  "in the end",
+        "pos":  "adv.",
+        "level":  "core",
+        "tags":  [
+                     "academic",
+                     "reading"
+                 ],
+        "example":  "The author explains the point eventually in the essay.",
+        "exampleZh":  "",
+        "synonyms":  [
+
+                     ],
+        "distractors":  [
+
+                        ],
+        "source":  "release-build",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "school7000-0168",
+        "word":  "frequently",
+        "displayWord":  "frequently",
+        "phonetic":  "/frequently/",
+        "mean":  "often",
+        "pos":  "adv.",
+        "level":  "core",
+        "tags":  [
+                     "academic",
+                     "reading"
+                 ],
+        "example":  "The author explains the point frequently in the essay.",
+        "exampleZh":  "",
+        "synonyms":  [
+
+                     ],
+        "distractors":  [
+
+                        ],
+        "source":  "release-build",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "school7000-0169",
+        "word":  "generally",
+        "displayWord":  "generally",
+        "phonetic":  "/generally/",
+        "mean":  "usually",
+        "pos":  "adv.",
+        "level":  "core",
+        "tags":  [
+                     "academic",
+                     "writing"
+                 ],
+        "example":  "The author explains the point generally in the essay.",
+        "exampleZh":  "",
+        "synonyms":  [
+
+                     ],
+        "distractors":  [
+
+                        ],
+        "source":  "release-build",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "school7000-0170",
+        "word":  "gradually",
+        "displayWord":  "gradually",
+        "phonetic":  "/gradually/",
+        "mean":  "slowly over time",
+        "pos":  "adv.",
+        "level":  "core",
+        "tags":  [
+                     "academic",
+                     "reading"
+                 ],
+        "example":  "The author explains the point gradually in the essay.",
+        "exampleZh":  "",
+        "synonyms":  [
+
+                     ],
+        "distractors":  [
+
+                        ],
+        "source":  "release-build",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "school7000-0171",
+        "word":  "historically",
+        "displayWord":  "historically",
+        "phonetic":  "/historically/",
+        "mean":  "in terms of history",
+        "pos":  "adv.",
+        "level":  "core",
+        "tags":  [
+                     "academic",
+                     "history"
+                 ],
+        "example":  "The author explains the point historically in the essay.",
+        "exampleZh":  "",
+        "synonyms":  [
+
+                     ],
+        "distractors":  [
+
+                        ],
+        "source":  "release-build",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "school7000-0172",
+        "word":  "initially",
+        "displayWord":  "initially",
+        "phonetic":  "/initially/",
+        "mean":  "at first",
+        "pos":  "adv.",
+        "level":  "core",
+        "tags":  [
+                     "academic",
+                     "writing"
+                 ],
+        "example":  "The author explains the point initially in the essay.",
+        "exampleZh":  "",
+        "synonyms":  [
+
+                     ],
+        "distractors":  [
+
+                        ],
+        "source":  "release-build",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "school7000-0173",
+        "word":  "merely",
+        "displayWord":  "merely",
+        "phonetic":  "/merely/",
+        "mean":  "only",
+        "pos":  "adv.",
+        "level":  "core",
+        "tags":  [
+                     "academic",
+                     "reading"
+                 ],
+        "example":  "The author explains the point merely in the essay.",
+        "exampleZh":  "",
+        "synonyms":  [
+
+                     ],
+        "distractors":  [
+
+                        ],
+        "source":  "release-build",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "school7000-0174",
+        "word":  "normally",
+        "displayWord":  "normally",
+        "phonetic":  "/normally/",
+        "mean":  "in the usual way",
+        "pos":  "adv.",
+        "level":  "core",
+        "tags":  [
+                     "academic",
+                     "science"
+                 ],
+        "example":  "The author explains the point normally in the essay.",
+        "exampleZh":  "",
+        "synonyms":  [
+
+                     ],
+        "distractors":  [
+
+                        ],
+        "source":  "release-build",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "school7000-0175",
+        "word":  "partially",
+        "displayWord":  "partially",
+        "phonetic":  "/partially/",
+        "mean":  "not completely",
+        "pos":  "adv.",
+        "level":  "core",
+        "tags":  [
+                     "academic",
+                     "analysis"
+                 ],
+        "example":  "The author explains the point partially in the essay.",
+        "exampleZh":  "",
+        "synonyms":  [
+
+                     ],
+        "distractors":  [
+
+                        ],
+        "source":  "release-build",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "school7000-0176",
+        "word":  "primarily",
+        "displayWord":  "primarily",
+        "phonetic":  "/primarily/",
+        "mean":  "mainly",
+        "pos":  "adv.",
+        "level":  "core",
+        "tags":  [
+                     "academic",
+                     "writing"
+                 ],
+        "example":  "The author explains the point primarily in the essay.",
+        "exampleZh":  "",
+        "synonyms":  [
+
+                     ],
+        "distractors":  [
+
+                        ],
+        "source":  "release-build",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "school7000-0177",
+        "word":  "relatively",
+        "displayWord":  "relatively",
+        "phonetic":  "/relatively/",
+        "mean":  "compared with something else",
+        "pos":  "adv.",
+        "level":  "core",
+        "tags":  [
+                     "academic",
+                     "reading"
+                 ],
+        "example":  "The author explains the point relatively in the essay.",
+        "exampleZh":  "",
+        "synonyms":  [
+
+                     ],
+        "distractors":  [
+
+                        ],
+        "source":  "release-build",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "school7000-0178",
+        "word":  "significantly",
+        "displayWord":  "significantly",
+        "phonetic":  "/significantly/",
+        "mean":  "in an important way",
+        "pos":  "adv.",
+        "level":  "core",
+        "tags":  [
+                     "academic",
+                     "writing"
+                 ],
+        "example":  "The author explains the point significantly in the essay.",
+        "exampleZh":  "",
+        "synonyms":  [
+
+                     ],
+        "distractors":  [
+
+                        ],
+        "source":  "release-build",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "school7000-0179",
+        "word":  "subsequently",
+        "displayWord":  "subsequently",
+        "phonetic":  "/subsequently/",
+        "mean":  "after that",
+        "pos":  "adv.",
+        "level":  "core",
+        "tags":  [
+                     "academic",
+                     "writing"
+                 ],
+        "example":  "The author explains the point subsequently in the essay.",
+        "exampleZh":  "",
+        "synonyms":  [
+
+                     ],
+        "distractors":  [
+
+                        ],
+        "source":  "release-build",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "school7000-0180",
+        "word":  "virtually",
+        "displayWord":  "virtually",
+        "phonetic":  "/virtually/",
+        "mean":  "almost",
+        "pos":  "adv.",
+        "level":  "core",
+        "tags":  [
+                     "academic",
+                     "reading"
+                 ],
+        "example":  "The author explains the point virtually in the essay.",
+        "exampleZh":  "",
+        "synonyms":  [
+
+                     ],
+        "distractors":  [
+
+                        ],
+        "source":  "release-build",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "school7000-0181",
+        "word":  "infer",
+        "displayWord":  "infer",
+        "phonetic":  "/infer/",
+        "mean":  "draw a conclusion",
+        "pos":  "v.",
+        "level":  "core",
+        "tags":  [
+                     "academic",
+                     "reading"
+                 ],
+        "example":  "Students should infer the passage carefully.",
+        "exampleZh":  "",
+        "synonyms":  [
+
+                     ],
+        "distractors":  [
+
+                        ],
+        "source":  "release-build",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "school7000-0182",
+        "word":  "mitigate",
+        "displayWord":  "mitigate",
+        "phonetic":  "/mitigate/",
+        "mean":  "make less severe",
+        "pos":  "v.",
+        "level":  "core",
+        "tags":  [
+                     "academic",
+                     "analysis"
+                 ],
+        "example":  "Students should mitigate the passage carefully.",
+        "exampleZh":  "",
+        "synonyms":  [
+
+                     ],
+        "distractors":  [
+
+                        ],
+        "source":  "release-build",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "school7000-0183",
+        "word":  "convey",
+        "displayWord":  "convey",
+        "phonetic":  "/convey/",
+        "mean":  "communicate",
+        "pos":  "v.",
+        "level":  "core",
+        "tags":  [
+                     "academic",
+                     "writing"
+                 ],
+        "example":  "Students should convey the passage carefully.",
+        "exampleZh":  "",
+        "synonyms":  [
+
+                     ],
+        "distractors":  [
+
+                        ],
+        "source":  "release-build",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "school7000-0184",
+        "word":  "validate",
+        "displayWord":  "validate",
+        "phonetic":  "/validate/",
+        "mean":  "confirm",
+        "pos":  "v.",
+        "level":  "core",
+        "tags":  [
+                     "academic",
+                     "research"
+                 ],
+        "example":  "Students should validate the passage carefully.",
+        "exampleZh":  "",
+        "synonyms":  [
+
+                     ],
+        "distractors":  [
+
+                        ],
+        "source":  "release-build",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "school7000-0185",
+        "word":  "simulate",
+        "displayWord":  "simulate",
+        "phonetic":  "/simulate/",
+        "mean":  "imitate conditions",
+        "pos":  "v.",
+        "level":  "core",
+        "tags":  [
+                     "academic",
+                     "science"
+                 ],
+        "example":  "Students should simulate the passage carefully.",
+        "exampleZh":  "",
+        "synonyms":  [
+
+                     ],
+        "distractors":  [
+
+                        ],
+        "source":  "release-build",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "school7000-0186",
+        "word":  "classify",
+        "displayWord":  "classify",
+        "phonetic":  "/classify/",
+        "mean":  "arrange into groups",
+        "pos":  "v.",
+        "level":  "core",
+        "tags":  [
+                     "academic",
+                     "analysis"
+                 ],
+        "example":  "Students should classify the passage carefully.",
+        "exampleZh":  "",
+        "synonyms":  [
+
+                     ],
+        "distractors":  [
+
+                        ],
+        "source":  "release-build",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "school7000-0187",
+        "word":  "monitor",
+        "displayWord":  "monitor",
+        "phonetic":  "/monitor/",
+        "mean":  "watch over time",
+        "pos":  "v.",
+        "level":  "core",
+        "tags":  [
+                     "academic",
+                     "research"
+                 ],
+        "example":  "Students should monitor the passage carefully.",
+        "exampleZh":  "",
+        "synonyms":  [
+
+                     ],
+        "distractors":  [
+
+                        ],
+        "source":  "release-build",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "school7000-0188",
+        "word":  "revise",
+        "displayWord":  "revise",
+        "phonetic":  "/revise/",
+        "mean":  "change for improvement",
+        "pos":  "v.",
+        "level":  "core",
+        "tags":  [
+                     "academic",
+                     "writing"
+                 ],
+        "example":  "Students should revise the passage carefully.",
+        "exampleZh":  "",
+        "synonyms":  [
+
+                     ],
+        "distractors":  [
+
+                        ],
+        "source":  "release-build",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "school7000-0189",
+        "word":  "synthesize",
+        "displayWord":  "synthesize",
+        "phonetic":  "/synthesize/",
+        "mean":  "combine into a whole",
+        "pos":  "v.",
+        "level":  "core",
+        "tags":  [
+                     "academic",
+                     "writing"
+                 ],
+        "example":  "Students should synthesize the passage carefully.",
+        "exampleZh":  "",
+        "synonyms":  [
+
+                     ],
+        "distractors":  [
+
+                        ],
+        "source":  "release-build",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "school7000-0190",
+        "word":  "dominate",
+        "displayWord":  "dominate",
+        "phonetic":  "/dominate/",
+        "mean":  "control strongly",
+        "pos":  "v.",
+        "level":  "core",
+        "tags":  [
+                     "academic",
+                     "reading"
+                 ],
+        "example":  "Students should dominate the passage carefully.",
+        "exampleZh":  "",
+        "synonyms":  [
+
+                     ],
+        "distractors":  [
+
+                        ],
+        "source":  "release-build",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "school7000-0191",
+        "word":  "bias",
+        "displayWord":  "bias",
+        "phonetic":  "/bias/",
+        "mean":  "unfair preference",
+        "pos":  "n.",
+        "level":  "core",
+        "tags":  [
+                     "academic",
+                     "discussion"
+                 ],
+        "example":  "The article explains the bias in detail.",
+        "exampleZh":  "",
+        "synonyms":  [
+
+                     ],
+        "distractors":  [
+
+                        ],
+        "source":  "release-build",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "school7000-0192",
+        "word":  "dilemma",
+        "displayWord":  "dilemma",
+        "phonetic":  "/dilemma/",
+        "mean":  "difficult choice",
+        "pos":  "n.",
+        "level":  "core",
+        "tags":  [
+                     "academic",
+                     "reading"
+                 ],
+        "example":  "The article explains the dilemma in detail.",
+        "exampleZh":  "",
+        "synonyms":  [
+
+                     ],
+        "distractors":  [
+
+                        ],
+        "source":  "release-build",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "school7000-0193",
+        "word":  "ideology",
+        "displayWord":  "ideology",
+        "phonetic":  "/ideology/",
+        "mean":  "system of ideas",
+        "pos":  "n.",
+        "level":  "core",
+        "tags":  [
+                     "academic",
+                     "society"
+                 ],
+        "example":  "The article explains the ideology in detail.",
+        "exampleZh":  "",
+        "synonyms":  [
+
+                     ],
+        "distractors":  [
+
+                        ],
+        "source":  "release-build",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "school7000-0194",
+        "word":  "literacy",
+        "displayWord":  "literacy",
+        "phonetic":  "/literacy/",
+        "mean":  "ability to read and write",
+        "pos":  "n.",
+        "level":  "core",
+        "tags":  [
+                     "academic",
+                     "education"
+                 ],
+        "example":  "The article explains the literacy in detail.",
+        "exampleZh":  "",
+        "synonyms":  [
+
+                     ],
+        "distractors":  [
+
+                        ],
+        "source":  "release-build",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "school7000-0195",
+        "word":  "priority",
+        "displayWord":  "priority",
+        "phonetic":  "/priority/",
+        "mean":  "something treated as more important",
+        "pos":  "n.",
+        "level":  "core",
+        "tags":  [
+                     "academic",
+                     "planning"
+                 ],
+        "example":  "The article explains the priority in detail.",
+        "exampleZh":  "",
+        "synonyms":  [
+
+                     ],
+        "distractors":  [
+
+                        ],
+        "source":  "release-build",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "school7000-0196",
+        "word":  "rationale",
+        "displayWord":  "rationale",
+        "phonetic":  "/rationale/",
+        "mean":  "reasoning behind something",
+        "pos":  "n.",
+        "level":  "core",
+        "tags":  [
+                     "academic",
+                     "writing"
+                 ],
+        "example":  "The article explains the rationale in detail.",
+        "exampleZh":  "",
+        "synonyms":  [
+
+                     ],
+        "distractors":  [
+
+                        ],
+        "source":  "release-build",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "school7000-0197",
+        "word":  "scope",
+        "displayWord":  "scope",
+        "phonetic":  "/scope/",
+        "mean":  "range",
+        "pos":  "n.",
+        "level":  "core",
+        "tags":  [
+                     "academic",
+                     "analysis"
+                 ],
+        "example":  "The article explains the scope in detail.",
+        "exampleZh":  "",
+        "synonyms":  [
+
+                     ],
+        "distractors":  [
+
+                        ],
+        "source":  "release-build",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "school7000-0198",
+        "word":  "sector",
+        "displayWord":  "sector",
+        "phonetic":  "/sector/",
+        "mean":  "part of society or economy",
+        "pos":  "n.",
+        "level":  "core",
+        "tags":  [
+                     "academic",
+                     "society"
+                 ],
+        "example":  "The article explains the sector in detail.",
+        "exampleZh":  "",
+        "synonyms":  [
+
+                     ],
+        "distractors":  [
+
+                        ],
+        "source":  "release-build",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "school7000-0199",
+        "word":  "shift",
+        "displayWord":  "shift",
+        "phonetic":  "/shift/",
+        "mean":  "change",
+        "pos":  "n.",
+        "level":  "core",
+        "tags":  [
+                     "academic",
+                     "reading"
+                 ],
+        "example":  "The article explains the shift in detail.",
+        "exampleZh":  "",
+        "synonyms":  [
+
+                     ],
+        "distractors":  [
+
+                        ],
+        "source":  "release-build",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "school7000-0200",
+        "word":  "theme",
+        "displayWord":  "theme",
+        "phonetic":  "/theme/",
+        "mean":  "main subject",
+        "pos":  "n.",
+        "level":  "core",
+        "tags":  [
+                     "academic",
+                     "literature"
+                 ],
+        "example":  "The article explains the theme in detail.",
+        "exampleZh":  "",
+        "synonyms":  [
+
+                     ],
+        "distractors":  [
+
+                        ],
+        "source":  "release-build",
+        "updatedAt":  "2026-04-08"
+    }
+]

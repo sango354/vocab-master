@@ -1,0 +1,201 @@
+# toeic release source
+invoice|n.|billing document|business,finance
+shipment|n.|goods sent|business,logistics
+vendor|n.|seller|business,sales
+inventory|n.|stock of goods|business,operations
+merger|n.|company combination|business,finance
+agenda|n.|meeting plan|business,meetings
+forecast|n.|prediction|business,planning
+compliance|n.|following rules|business,legal
+quota|n.|required amount|business,sales
+payroll|n.|employee payment list|business,finance
+budget|n.|spending plan|business,finance
+client|n.|customer|business,sales
+contract|n.|agreement|business,legal
+deadline|n.|due date|business,planning
+revenue|n.|income|business,finance
+proposal|n.|formal plan|business,planning
+schedule|n.|timetable|business,planning
+department|n.|company division|business,organization
+strategy|n.|long-term plan|business,planning
+asset|n.|valuable property|business,finance
+audit|n.|official review|business,finance
+expense|n.|cost|business,finance
+profit|n.|financial gain|business,finance
+policy|n.|official rule|business,policy
+warehouse|n.|storage building|business,logistics
+subsidy|n.|financial support|business,finance
+commission|n.|sales payment|business,sales
+vacancy|n.|open position|business,hr
+branch|n.|local office|business,organization
+retailer|n.|store seller|business,sales
+supplier|n.|company providing goods|business,logistics
+logistics|n.|movement of goods|business,operations
+estimate|n.|rough calculation|business,finance
+salary|n.|fixed pay|business,hr
+bonus|n.|extra payment|business,hr
+facility|n.|building or service|business,operations
+transaction|n.|business exchange|business,finance
+conference|n.|formal meeting|business,meetings
+certificate|n.|official document|business,legal
+trademark|n.|registered brand sign|business,legal
+promotion|n.|marketing activity|business,marketing
+campaign|n.|organized promotion effort|business,marketing
+survey|n.|questionnaire study|business,research
+warranty|n.|repair promise|business,service
+refund|n.|money returned|business,service
+complaint|n.|statement of dissatisfaction|business,service
+applicant|n.|person applying|business,hr
+resume|n.|job summary document|business,hr
+personnel|n.|employees|business,hr
+headquarters|n.|main office|business,organization
+consultant|n.|professional adviser|business,management
+negotiation|n.|discussion to reach agreement|business,sales
+productivity|n.|amount produced|business,performance
+seminar|n.|training session|business,training
+brochure|n.|informational booklet|business,marketing
+discount|n.|price reduction|business,sales
+enrollment|n.|act of joining|business,hr
+subscription|n.|regular paid service|business,service
+advertisement|n.|public promotion message|business,marketing
+franchise|n.|licensed business branch|business,organization
+delegate|v.|assign responsibility|business,management
+authorize|v.|give approval|business,policy
+allocate|v.|distribute resources|business,planning
+facilitate|v.|make easier|business,operations
+reimburse|v.|pay back expenses|business,finance
+negotiate|v.|discuss terms|business,sales
+evaluate|v.|assess|business,analysis
+implement|v.|carry out|business,operations
+maintain|v.|keep in good condition|business,operations
+submit|v.|hand in|business,workflow
+coordinate|v.|organize together|business,management
+approve|v.|accept officially|business,policy
+postpone|v.|delay|business,planning
+revise|v.|change for improvement|business,writing
+inspect|v.|check carefully|business,operations
+recruit|v.|hire|business,hr
+advertise|v.|promote publicly|business,marketing
+manufacture|v.|make products|business,operations
+distribute|v.|deliver to many places|business,logistics
+operate|v.|run a business or machine|business,operations
+expand|v.|grow larger|business,strategy
+invest|v.|put in money|business,finance
+collaborate|v.|work together|business,management
+process|v.|handle systematically|business,operations
+renovate|v.|repair and improve|business,facilities
+resolve|v.|solve|business,management
+supervise|v.|oversee work|business,management
+notify|v.|inform officially|business,workflow
+purchase|v.|buy|business,procurement
+deliver|v.|bring goods|business,logistics
+install|v.|set up equipment|business,operations
+launch|v.|start officially|business,marketing
+monitor|v.|watch regularly|business,management
+merge|v.|combine|business,finance
+hire|v.|employ|business,hr
+resign|v.|leave a job|business,hr
+compensate|v.|make up for|business,policy
+outsource|v.|use outside services|business,operations
+analyze|v.|examine carefully|business,analysis
+assemble|v.|put together|business,operations
+calculate|v.|work out a number|business,finance
+certify|v.|confirm officially|business,legal
+clarify|v.|make clear|business,communication
+conserve|v.|save for future use|business,operations
+consult|v.|seek advice|business,management
+contact|v.|communicate with|business,communication
+decrease|v.|become less|business,finance
+encourage|v.|give support|business,management
+enforce|v.|make people obey|business,policy
+exchange|v.|trade one thing for another|business,transactions
+finalize|v.|complete officially|business,workflow
+import|v.|bring goods into a country|business,logistics
+minimize|v.|reduce as much as possible|business,analysis
+obtain|v.|get|business,workflow
+organize|v.|arrange|business,management
+persuade|v.|convince|business,sales
+renew|v.|make valid again|business,service
+feasible|adj.|practical|business,planning
+annual|adj.|yearly|business,reporting
+mandatory|adj.|required|business,policy
+confidential|adj.|private|business,legal
+profitable|adj.|making money|business,finance
+efficient|adj.|productive|business,performance
+quarterly|adj.|every three months|business,reporting
+temporary|adj.|not permanent|business,hr
+available|adj.|ready for use|business,service
+competitive|adj.|able to compete well|business,strategy
+flexible|adj.|easy to adjust|business,management
+reliable|adj.|dependable|business,service
+durable|adj.|long-lasting|business,product
+immediate|adj.|happening at once|business,workflow
+regional|adj.|relating to one area|business,organization
+financial|adj.|related to money|business,finance
+corporate|adj.|related to a company|business,organization
+productive|adj.|producing a lot|business,performance
+strategic|adj.|important for long-term plans|business,planning
+internal|adj.|within the company|business,organization
+external|adj.|coming from outside|business,organization
+legal|adj.|allowed by law|business,legal
+convenient|adj.|easy to use|business,service
+formal|adj.|official and proper|business,communication
+digital|adj.|using computer technology|business,technology
+practical|adj.|useful in real situations|business,planning
+effective|adj.|producing the intended result|business,performance
+pending|adj.|waiting to be decided|business,workflow
+overdue|adj.|late|business,workflow
+stable|adj.|not changing much|business,finance
+global|adj.|worldwide|business,organization
+domestic|adj.|within one country|business,organization
+sustainable|adj.|able to continue over time|business,strategy
+accurate|adj.|correct and exact|business,analysis
+consistent|adj.|always acting the same way|business,quality
+professional|adj.|showing skill and care|business,service
+innovative|adj.|introducing new ideas|business,strategy
+selective|adj.|careful in choosing|business,hr
+direct|adj.|straight and clear|business,communication
+frequent|adj.|happening often|business,operations
+objective|n.|goal|business,planning
+guideline|n.|recommended rule|business,policy
+partnership|n.|business relationship|business,organization
+monopoly|n.|single-seller control|business,economics
+portfolio|n.|set of investments|business,finance
+insurance|n.|financial protection|business,finance
+division|n.|separate section|business,organization
+colleague|n.|coworker|business,hr
+employer|n.|company hiring workers|business,hr
+consumer|n.|buyer of products|business,marketing
+shareholder|n.|owner of company shares|business,finance
+bankruptcy|n.|state of failing financially|business,finance
+database|n.|organized data collection|business,technology
+signature|n.|written name approval|business,legal
+memorandum|n.|short official note|business,communication
+itinerary|n.|travel schedule|business,travel
+documentation|n.|official written records|business,workflow
+outcome|n.|result|business,analysis
+workforce|n.|all employees|business,hr
+benchmark|n.|standard for comparison|business,analysis
+outlet|n.|store branch|business,sales
+prospect|n.|possible customer or future chance|business,sales
+stakeholder|n.|interested party|business,management
+expenditure|n.|amount spent|business,finance
+turnover|n.|rate of sales or staff change|business,finance
+occupancy|n.|use of a space|business,facilities
+tariff|n.|tax on imports|business,trade
+gradually|adv.|slowly over time|business,planning
+strictly|adv.|in a firm exact way|business,policy
+beforehand|adv.|in advance|business,planning
+annually|adv.|every year|business,reporting
+efficiently|adv.|in a productive way|business,performance
+formally|adv.|in an official way|business,communication
+securely|adv.|in a safe way|business,technology
+carefully|adv.|with attention|business,quality
+widely|adv.|over a large area|business,marketing
+overseas|adv.|in another country|business,trade
+locally|adv.|within the area|business,sales
+partially|adv.|not completely|business,workflow
+jointly|adv.|together|business,management
+closely|adv.|with great attention|business,analysis
+openly|adv.|in a transparent way|business,communication
+regularly|adv.|at fixed times|business,operations

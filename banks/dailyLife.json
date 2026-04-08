@@ -1,0 +1,17 @@
+[
+  { "word": "Grocery", "phonetic": "/grocery/", "mean": "food supplies", "pos": "n." },
+  { "word": "Laundry", "phonetic": "/laundry/", "mean": "clothes to be washed", "pos": "n." },
+  { "word": "Prescription", "phonetic": "/prescription/", "mean": "doctor order", "pos": "n." },
+  { "word": "Aisle", "phonetic": "/aisle/", "mean": "walkway", "pos": "n." },
+  { "word": "Receipt", "phonetic": "/receipt/", "mean": "proof of purchase", "pos": "n." },
+  { "word": "Commuter", "phonetic": "/commuter/", "mean": "person who travels to work", "pos": "n." },
+  { "word": "Detergent", "phonetic": "/detergent/", "mean": "cleaning agent", "pos": "n." },
+  { "word": "Reservation", "phonetic": "/reservation/", "mean": "booking", "pos": "n." },
+  { "word": "Discount", "phonetic": "/discount/", "mean": "price reduction", "pos": "n." },
+  { "word": "Convenient", "phonetic": "/convenient/", "mean": "easy to use", "pos": "adj." },
+  { "word": "Neighbor", "phonetic": "/neighbor/", "mean": "person living nearby", "pos": "n." },
+  { "word": "Recommend", "phonetic": "/recommend/", "mean": "suggest", "pos": "v." },
+  { "word": "Bill", "phonetic": "/bill/", "mean": "invoice", "pos": "n." },
+  { "word": "Repair", "phonetic": "/repair/", "mean": "fix", "pos": "v." },
+  { "word": "Crowded", "phonetic": "/crowded/", "mean": "full of people", "pos": "adj." }
+]

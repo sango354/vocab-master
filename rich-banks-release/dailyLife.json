@@ -1,0 +1,4602 @@
+﻿[
+    {
+        "id":  "dailylife-0001",
+        "word":  "refund",
+        "displayWord":  "refund",
+        "phonetic":  "/refund/",
+        "mean":  "money returned",
+        "pos":  "n.",
+        "level":  "core",
+        "tags":  [
+                     "daily-life",
+                     "shopping"
+                 ],
+        "example":  "I dealt with the refund this morning.",
+        "exampleZh":  "",
+        "synonyms":  [
+
+                     ],
+        "distractors":  [
+
+                        ],
+        "source":  "release-build",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "dailylife-0002",
+        "word":  "coupon",
+        "displayWord":  "coupon",
+        "phonetic":  "/coupon/",
+        "mean":  "discount ticket",
+        "pos":  "n.",
+        "level":  "core",
+        "tags":  [
+                     "daily-life",
+                     "shopping"
+                 ],
+        "example":  "I dealt with the coupon this morning.",
+        "exampleZh":  "",
+        "synonyms":  [
+
+                     ],
+        "distractors":  [
+
+                        ],
+        "source":  "release-build",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "dailylife-0003",
+        "word":  "checkout",
+        "displayWord":  "checkout",
+        "phonetic":  "/checkout/",
+        "mean":  "payment counter",
+        "pos":  "n.",
+        "level":  "core",
+        "tags":  [
+                     "daily-life",
+                     "shopping"
+                 ],
+        "example":  "I dealt with the checkout this morning.",
+        "exampleZh":  "",
+        "synonyms":  [
+
+                     ],
+        "distractors":  [
+
+                        ],
+        "source":  "release-build",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "dailylife-0004",
+        "word":  "platform",
+        "displayWord":  "platform",
+        "phonetic":  "/platform/",
+        "mean":  "train waiting area",
+        "pos":  "n.",
+        "level":  "core",
+        "tags":  [
+                     "daily-life",
+                     "transportation"
+                 ],
+        "example":  "I dealt with the platform this morning.",
+        "exampleZh":  "",
+        "synonyms":  [
+
+                     ],
+        "distractors":  [
+
+                        ],
+        "source":  "release-build",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "dailylife-0005",
+        "word":  "intersection",
+        "displayWord":  "intersection",
+        "phonetic":  "/intersection/",
+        "mean":  "road crossing",
+        "pos":  "n.",
+        "level":  "core",
+        "tags":  [
+                     "daily-life",
+                     "transportation"
+                 ],
+        "example":  "I dealt with the intersection this morning.",
+        "exampleZh":  "",
+        "synonyms":  [
+
+                     ],
+        "distractors":  [
+
+                        ],
+        "source":  "release-build",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "dailylife-0006",
+        "word":  "symptom",
+        "displayWord":  "symptom",
+        "phonetic":  "/symptom/",
+        "mean":  "sign of illness",
+        "pos":  "n.",
+        "level":  "core",
+        "tags":  [
+                     "daily-life",
+                     "health"
+                 ],
+        "example":  "I dealt with the symptom this morning.",
+        "exampleZh":  "",
+        "synonyms":  [
+
+                     ],
+        "distractors":  [
+
+                        ],
+        "source":  "release-build",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "dailylife-0007",
+        "word":  "ointment",
+        "displayWord":  "ointment",
+        "phonetic":  "/ointment/",
+        "mean":  "medical cream",
+        "pos":  "n.",
+        "level":  "core",
+        "tags":  [
+                     "daily-life",
+                     "health"
+                 ],
+        "example":  "I dealt with the ointment this morning.",
+        "exampleZh":  "",
+        "synonyms":  [
+
+                     ],
+        "distractors":  [
+
+                        ],
+        "source":  "release-build",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "dailylife-0008",
+        "word":  "appointment",
+        "displayWord":  "appointment",
+        "phonetic":  "/appointment/",
+        "mean":  "arranged meeting time",
+        "pos":  "n.",
+        "level":  "core",
+        "tags":  [
+                     "daily-life",
+                     "service"
+                 ],
+        "example":  "I dealt with the appointment this morning.",
+        "exampleZh":  "",
+        "synonyms":  [
+
+                     ],
+        "distractors":  [
+
+                        ],
+        "source":  "release-build",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "dailylife-0009",
+        "word":  "appliance",
+        "displayWord":  "appliance",
+        "phonetic":  "/appliance/",
+        "mean":  "household machine",
+        "pos":  "n.",
+        "level":  "core",
+        "tags":  [
+                     "daily-life",
+                     "home"
+                 ],
+        "example":  "I dealt with the appliance this morning.",
+        "exampleZh":  "",
+        "synonyms":  [
+
+                     ],
+        "distractors":  [
+
+                        ],
+        "source":  "release-build",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "dailylife-0010",
+        "word":  "landlord",
+        "displayWord":  "landlord",
+        "phonetic":  "/landlord/",
+        "mean":  "property owner",
+        "pos":  "n.",
+        "level":  "core",
+        "tags":  [
+                     "daily-life",
+                     "housing"
+                 ],
+        "example":  "I dealt with the landlord this morning.",
+        "exampleZh":  "",
+        "synonyms":  [
+
+                     ],
+        "distractors":  [
+
+                        ],
+        "source":  "release-build",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "dailylife-0011",
+        "word":  "ingredient",
+        "displayWord":  "ingredient",
+        "phonetic":  "/ingredient/",
+        "mean":  "food component",
+        "pos":  "n.",
+        "level":  "core",
+        "tags":  [
+                     "daily-life",
+                     "food"
+                 ],
+        "example":  "I dealt with the ingredient this morning.",
+        "exampleZh":  "",
+        "synonyms":  [
+
+                     ],
+        "distractors":  [
+
+                        ],
+        "source":  "release-build",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "dailylife-0012",
+        "word":  "receipt",
+        "displayWord":  "receipt",
+        "phonetic":  "/receipt/",
+        "mean":  "proof of purchase",
+        "pos":  "n.",
+        "level":  "core",
+        "tags":  [
+                     "daily-life",
+                     "shopping"
+                 ],
+        "example":  "I dealt with the receipt this morning.",
+        "exampleZh":  "",
+        "synonyms":  [
+
+                     ],
+        "distractors":  [
+
+                        ],
+        "source":  "release-build",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "dailylife-0013",
+        "word":  "grocery",
+        "displayWord":  "grocery",
+        "phonetic":  "/grocery/",
+        "mean":  "food supplies",
+        "pos":  "n.",
+        "level":  "core",
+        "tags":  [
+                     "daily-life",
+                     "shopping"
+                 ],
+        "example":  "I dealt with the grocery this morning.",
+        "exampleZh":  "",
+        "synonyms":  [
+
+                     ],
+        "distractors":  [
+
+                        ],
+        "source":  "release-build",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "dailylife-0014",
+        "word":  "laundry",
+        "displayWord":  "laundry",
+        "phonetic":  "/laundry/",
+        "mean":  "clothes to be washed",
+        "pos":  "n.",
+        "level":  "core",
+        "tags":  [
+                     "daily-life",
+                     "home"
+                 ],
+        "example":  "I dealt with the laundry this morning.",
+        "exampleZh":  "",
+        "synonyms":  [
+
+                     ],
+        "distractors":  [
+
+                        ],
+        "source":  "release-build",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "dailylife-0015",
+        "word":  "prescription",
+        "displayWord":  "prescription",
+        "phonetic":  "/prescription/",
+        "mean":  "doctor order",
+        "pos":  "n.",
+        "level":  "core",
+        "tags":  [
+                     "daily-life",
+                     "health"
+                 ],
+        "example":  "I dealt with the prescription this morning.",
+        "exampleZh":  "",
+        "synonyms":  [
+
+                     ],
+        "distractors":  [
+
+                        ],
+        "source":  "release-build",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "dailylife-0016",
+        "word":  "aisle",
+        "displayWord":  "aisle",
+        "phonetic":  "/aisle/",
+        "mean":  "walkway",
+        "pos":  "n.",
+        "level":  "core",
+        "tags":  [
+                     "daily-life",
+                     "shopping"
+                 ],
+        "example":  "I dealt with the aisle this morning.",
+        "exampleZh":  "",
+        "synonyms":  [
+
+                     ],
+        "distractors":  [
+
+                        ],
+        "source":  "release-build",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "dailylife-0017",
+        "word":  "commuter",
+        "displayWord":  "commuter",
+        "phonetic":  "/commuter/",
+        "mean":  "person who travels to work",
+        "pos":  "n.",
+        "level":  "core",
+        "tags":  [
+                     "daily-life",
+                     "transportation"
+                 ],
+        "example":  "I dealt with the commuter this morning.",
+        "exampleZh":  "",
+        "synonyms":  [
+
+                     ],
+        "distractors":  [
+
+                        ],
+        "source":  "release-build",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "dailylife-0018",
+        "word":  "detergent",
+        "displayWord":  "detergent",
+        "phonetic":  "/detergent/",
+        "mean":  "cleaning agent",
+        "pos":  "n.",
+        "level":  "core",
+        "tags":  [
+                     "daily-life",
+                     "home"
+                 ],
+        "example":  "I dealt with the detergent this morning.",
+        "exampleZh":  "",
+        "synonyms":  [
+
+                     ],
+        "distractors":  [
+
+                        ],
+        "source":  "release-build",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "dailylife-0019",
+        "word":  "reservation",
+        "displayWord":  "reservation",
+        "phonetic":  "/reservation/",
+        "mean":  "booking",
+        "pos":  "n.",
+        "level":  "core",
+        "tags":  [
+                     "daily-life",
+                     "service"
+                 ],
+        "example":  "I dealt with the reservation this morning.",
+        "exampleZh":  "",
+        "synonyms":  [
+
+                     ],
+        "distractors":  [
+
+                        ],
+        "source":  "release-build",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "dailylife-0020",
+        "word":  "discount",
+        "displayWord":  "discount",
+        "phonetic":  "/discount/",
+        "mean":  "price reduction",
+        "pos":  "n.",
+        "level":  "core",
+        "tags":  [
+                     "daily-life",
+                     "shopping"
+                 ],
+        "example":  "I dealt with the discount this morning.",
+        "exampleZh":  "",
+        "synonyms":  [
+
+                     ],
+        "distractors":  [
+
+                        ],
+        "source":  "release-build",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "dailylife-0021",
+        "word":  "neighbor",
+        "displayWord":  "neighbor",
+        "phonetic":  "/neighbor/",
+        "mean":  "person living nearby",
+        "pos":  "n.",
+        "level":  "core",
+        "tags":  [
+                     "daily-life",
+                     "community"
+                 ],
+        "example":  "I dealt with the neighbor this morning.",
+        "exampleZh":  "",
+        "synonyms":  [
+
+                     ],
+        "distractors":  [
+
+                        ],
+        "source":  "release-build",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "dailylife-0022",
+        "word":  "bill",
+        "displayWord":  "bill",
+        "phonetic":  "/bill/",
+        "mean":  "invoice",
+        "pos":  "n.",
+        "level":  "core",
+        "tags":  [
+                     "daily-life",
+                     "finance"
+                 ],
+        "example":  "I dealt with the bill this morning.",
+        "exampleZh":  "",
+        "synonyms":  [
+
+                     ],
+        "distractors":  [
+
+                        ],
+        "source":  "release-build",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "dailylife-0023",
+        "word":  "kitchen",
+        "displayWord":  "kitchen",
+        "phonetic":  "/kitchen/",
+        "mean":  "room for cooking",
+        "pos":  "n.",
+        "level":  "core",
+        "tags":  [
+                     "daily-life",
+                     "home"
+                 ],
+        "example":  "I dealt with the kitchen this morning.",
+        "exampleZh":  "",
+        "synonyms":  [
+
+                     ],
+        "distractors":  [
+
+                        ],
+        "source":  "release-build",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "dailylife-0024",
+        "word":  "balcony",
+        "displayWord":  "balcony",
+        "phonetic":  "/balcony/",
+        "mean":  "outdoor platform on a building",
+        "pos":  "n.",
+        "level":  "core",
+        "tags":  [
+                     "daily-life",
+                     "housing"
+                 ],
+        "example":  "I dealt with the balcony this morning.",
+        "exampleZh":  "",
+        "synonyms":  [
+
+                     ],
+        "distractors":  [
+
+                        ],
+        "source":  "release-build",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "dailylife-0025",
+        "word":  "blanket",
+        "displayWord":  "blanket",
+        "phonetic":  "/blanket/",
+        "mean":  "warm covering",
+        "pos":  "n.",
+        "level":  "core",
+        "tags":  [
+                     "daily-life",
+                     "home"
+                 ],
+        "example":  "I dealt with the blanket this morning.",
+        "exampleZh":  "",
+        "synonyms":  [
+
+                     ],
+        "distractors":  [
+
+                        ],
+        "source":  "release-build",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "dailylife-0026",
+        "word":  "closet",
+        "displayWord":  "closet",
+        "phonetic":  "/closet/",
+        "mean":  "small storage space",
+        "pos":  "n.",
+        "level":  "core",
+        "tags":  [
+                     "daily-life",
+                     "home"
+                 ],
+        "example":  "I dealt with the closet this morning.",
+        "exampleZh":  "",
+        "synonyms":  [
+
+                     ],
+        "distractors":  [
+
+                        ],
+        "source":  "release-build",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "dailylife-0027",
+        "word":  "cabinet",
+        "displayWord":  "cabinet",
+        "phonetic":  "/cabinet/",
+        "mean":  "storage furniture",
+        "pos":  "n.",
+        "level":  "core",
+        "tags":  [
+                     "daily-life",
+                     "home"
+                 ],
+        "example":  "I dealt with the cabinet this morning.",
+        "exampleZh":  "",
+        "synonyms":  [
+
+                     ],
+        "distractors":  [
+
+                        ],
+        "source":  "release-build",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "dailylife-0028",
+        "word":  "cushion",
+        "displayWord":  "cushion",
+        "phonetic":  "/cushion/",
+        "mean":  "soft support pad",
+        "pos":  "n.",
+        "level":  "core",
+        "tags":  [
+                     "daily-life",
+                     "home"
+                 ],
+        "example":  "I dealt with the cushion this morning.",
+        "exampleZh":  "",
+        "synonyms":  [
+
+                     ],
+        "distractors":  [
+
+                        ],
+        "source":  "release-build",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "dailylife-0029",
+        "word":  "curtain",
+        "displayWord":  "curtain",
+        "phonetic":  "/curtain/",
+        "mean":  "window covering",
+        "pos":  "n.",
+        "level":  "core",
+        "tags":  [
+                     "daily-life",
+                     "home"
+                 ],
+        "example":  "I dealt with the curtain this morning.",
+        "exampleZh":  "",
+        "synonyms":  [
+
+                     ],
+        "distractors":  [
+
+                        ],
+        "source":  "release-build",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "dailylife-0030",
+        "word":  "drawer",
+        "displayWord":  "drawer",
+        "phonetic":  "/drawer/",
+        "mean":  "sliding storage box",
+        "pos":  "n.",
+        "level":  "core",
+        "tags":  [
+                     "daily-life",
+                     "home"
+                 ],
+        "example":  "I dealt with the drawer this morning.",
+        "exampleZh":  "",
+        "synonyms":  [
+
+                     ],
+        "distractors":  [
+
+                        ],
+        "source":  "release-build",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "dailylife-0031",
+        "word":  "elevator",
+        "displayWord":  "elevator",
+        "phonetic":  "/elevator/",
+        "mean":  "moving lift",
+        "pos":  "n.",
+        "level":  "core",
+        "tags":  [
+                     "daily-life",
+                     "housing"
+                 ],
+        "example":  "I dealt with the elevator this morning.",
+        "exampleZh":  "",
+        "synonyms":  [
+
+                     ],
+        "distractors":  [
+
+                        ],
+        "source":  "release-build",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "dailylife-0032",
+        "word":  "hallway",
+        "displayWord":  "hallway",
+        "phonetic":  "/hallway/",
+        "mean":  "passage inside a building",
+        "pos":  "n.",
+        "level":  "core",
+        "tags":  [
+                     "daily-life",
+                     "housing"
+                 ],
+        "example":  "I dealt with the hallway this morning.",
+        "exampleZh":  "",
+        "synonyms":  [
+
+                     ],
+        "distractors":  [
+
+                        ],
+        "source":  "release-build",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "dailylife-0033",
+        "word":  "lamp",
+        "displayWord":  "lamp",
+        "phonetic":  "/lamp/",
+        "mean":  "device giving light",
+        "pos":  "n.",
+        "level":  "core",
+        "tags":  [
+                     "daily-life",
+                     "home"
+                 ],
+        "example":  "I dealt with the lamp this morning.",
+        "exampleZh":  "",
+        "synonyms":  [
+
+                     ],
+        "distractors":  [
+
+                        ],
+        "source":  "release-build",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "dailylife-0034",
+        "word":  "mirror",
+        "displayWord":  "mirror",
+        "phonetic":  "/mirror/",
+        "mean":  "reflective surface",
+        "pos":  "n.",
+        "level":  "core",
+        "tags":  [
+                     "daily-life",
+                     "home"
+                 ],
+        "example":  "I dealt with the mirror this morning.",
+        "exampleZh":  "",
+        "synonyms":  [
+
+                     ],
+        "distractors":  [
+
+                        ],
+        "source":  "release-build",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "dailylife-0035",
+        "word":  "pillow",
+        "displayWord":  "pillow",
+        "phonetic":  "/pillow/",
+        "mean":  "head support for sleeping",
+        "pos":  "n.",
+        "level":  "core",
+        "tags":  [
+                     "daily-life",
+                     "home"
+                 ],
+        "example":  "I dealt with the pillow this morning.",
+        "exampleZh":  "",
+        "synonyms":  [
+
+                     ],
+        "distractors":  [
+
+                        ],
+        "source":  "release-build",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "dailylife-0036",
+        "word":  "shelf",
+        "displayWord":  "shelf",
+        "phonetic":  "/shelf/",
+        "mean":  "flat storage board",
+        "pos":  "n.",
+        "level":  "core",
+        "tags":  [
+                     "daily-life",
+                     "home"
+                 ],
+        "example":  "I dealt with the shelf this morning.",
+        "exampleZh":  "",
+        "synonyms":  [
+
+                     ],
+        "distractors":  [
+
+                        ],
+        "source":  "release-build",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "dailylife-0037",
+        "word":  "stove",
+        "displayWord":  "stove",
+        "phonetic":  "/stove/",
+        "mean":  "cooking device",
+        "pos":  "n.",
+        "level":  "core",
+        "tags":  [
+                     "daily-life",
+                     "home"
+                 ],
+        "example":  "I dealt with the stove this morning.",
+        "exampleZh":  "",
+        "synonyms":  [
+
+                     ],
+        "distractors":  [
+
+                        ],
+        "source":  "release-build",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "dailylife-0038",
+        "word":  "towel",
+        "displayWord":  "towel",
+        "phonetic":  "/towel/",
+        "mean":  "cloth for drying",
+        "pos":  "n.",
+        "level":  "core",
+        "tags":  [
+                     "daily-life",
+                     "home"
+                 ],
+        "example":  "I dealt with the towel this morning.",
+        "exampleZh":  "",
+        "synonyms":  [
+
+                     ],
+        "distractors":  [
+
+                        ],
+        "source":  "release-build",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "dailylife-0039",
+        "word":  "trash",
+        "displayWord":  "trash",
+        "phonetic":  "/trash/",
+        "mean":  "waste material",
+        "pos":  "n.",
+        "level":  "core",
+        "tags":  [
+                     "daily-life",
+                     "home"
+                 ],
+        "example":  "I dealt with the trash this morning.",
+        "exampleZh":  "",
+        "synonyms":  [
+
+                     ],
+        "distractors":  [
+
+                        ],
+        "source":  "release-build",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "dailylife-0040",
+        "word":  "wifi",
+        "displayWord":  "wifi",
+        "phonetic":  "/wifi/",
+        "mean":  "wireless internet connection",
+        "pos":  "n.",
+        "level":  "core",
+        "tags":  [
+                     "daily-life",
+                     "technology"
+                 ],
+        "example":  "I dealt with the wifi this morning.",
+        "exampleZh":  "",
+        "synonyms":  [
+
+                     ],
+        "distractors":  [
+
+                        ],
+        "source":  "release-build",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "dailylife-0041",
+        "word":  "suitcase",
+        "displayWord":  "suitcase",
+        "phonetic":  "/suitcase/",
+        "mean":  "travel bag",
+        "pos":  "n.",
+        "level":  "core",
+        "tags":  [
+                     "daily-life",
+                     "travel"
+                 ],
+        "example":  "I dealt with the suitcase this morning.",
+        "exampleZh":  "",
+        "synonyms":  [
+
+                     ],
+        "distractors":  [
+
+                        ],
+        "source":  "release-build",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "dailylife-0042",
+        "word":  "passport",
+        "displayWord":  "passport",
+        "phonetic":  "/passport/",
+        "mean":  "international travel document",
+        "pos":  "n.",
+        "level":  "core",
+        "tags":  [
+                     "daily-life",
+                     "travel"
+                 ],
+        "example":  "I dealt with the passport this morning.",
+        "exampleZh":  "",
+        "synonyms":  [
+
+                     ],
+        "distractors":  [
+
+                        ],
+        "source":  "release-build",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "dailylife-0043",
+        "word":  "ticket",
+        "displayWord":  "ticket",
+        "phonetic":  "/ticket/",
+        "mean":  "pass for travel or entry",
+        "pos":  "n.",
+        "level":  "core",
+        "tags":  [
+                     "daily-life",
+                     "travel"
+                 ],
+        "example":  "I dealt with the ticket this morning.",
+        "exampleZh":  "",
+        "synonyms":  [
+
+                     ],
+        "distractors":  [
+
+                        ],
+        "source":  "release-build",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "dailylife-0044",
+        "word":  "subway",
+        "displayWord":  "subway",
+        "phonetic":  "/subway/",
+        "mean":  "underground train system",
+        "pos":  "n.",
+        "level":  "core",
+        "tags":  [
+                     "daily-life",
+                     "transportation"
+                 ],
+        "example":  "I dealt with the subway this morning.",
+        "exampleZh":  "",
+        "synonyms":  [
+
+                     ],
+        "distractors":  [
+
+                        ],
+        "source":  "release-build",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "dailylife-0045",
+        "word":  "station",
+        "displayWord":  "station",
+        "phonetic":  "/station/",
+        "mean":  "place where vehicles stop",
+        "pos":  "n.",
+        "level":  "core",
+        "tags":  [
+                     "daily-life",
+                     "transportation"
+                 ],
+        "example":  "I dealt with the station this morning.",
+        "exampleZh":  "",
+        "synonyms":  [
+
+                     ],
+        "distractors":  [
+
+                        ],
+        "source":  "release-build",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "dailylife-0046",
+        "word":  "traffic",
+        "displayWord":  "traffic",
+        "phonetic":  "/traffic/",
+        "mean":  "movement of vehicles",
+        "pos":  "n.",
+        "level":  "core",
+        "tags":  [
+                     "daily-life",
+                     "transportation"
+                 ],
+        "example":  "I dealt with the traffic this morning.",
+        "exampleZh":  "",
+        "synonyms":  [
+
+                     ],
+        "distractors":  [
+
+                        ],
+        "source":  "release-build",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "dailylife-0047",
+        "word":  "crosswalk",
+        "displayWord":  "crosswalk",
+        "phonetic":  "/crosswalk/",
+        "mean":  "marked place to cross a road",
+        "pos":  "n.",
+        "level":  "core",
+        "tags":  [
+                     "daily-life",
+                     "transportation"
+                 ],
+        "example":  "I dealt with the crosswalk this morning.",
+        "exampleZh":  "",
+        "synonyms":  [
+
+                     ],
+        "distractors":  [
+
+                        ],
+        "source":  "release-build",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "dailylife-0048",
+        "word":  "taxi",
+        "displayWord":  "taxi",
+        "phonetic":  "/taxi/",
+        "mean":  "car for hire",
+        "pos":  "n.",
+        "level":  "core",
+        "tags":  [
+                     "daily-life",
+                     "transportation"
+                 ],
+        "example":  "I dealt with the taxi this morning.",
+        "exampleZh":  "",
+        "synonyms":  [
+
+                     ],
+        "distractors":  [
+
+                        ],
+        "source":  "release-build",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "dailylife-0049",
+        "word":  "fare",
+        "displayWord":  "fare",
+        "phonetic":  "/fare/",
+        "mean":  "cost of a ride",
+        "pos":  "n.",
+        "level":  "core",
+        "tags":  [
+                     "daily-life",
+                     "transportation"
+                 ],
+        "example":  "I dealt with the fare this morning.",
+        "exampleZh":  "",
+        "synonyms":  [
+
+                     ],
+        "distractors":  [
+
+                        ],
+        "source":  "release-build",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "dailylife-0050",
+        "word":  "luggage",
+        "displayWord":  "luggage",
+        "phonetic":  "/luggage/",
+        "mean":  "bags for travel",
+        "pos":  "n.",
+        "level":  "core",
+        "tags":  [
+                     "daily-life",
+                     "travel"
+                 ],
+        "example":  "I dealt with the luggage this morning.",
+        "exampleZh":  "",
+        "synonyms":  [
+
+                     ],
+        "distractors":  [
+
+                        ],
+        "source":  "release-build",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "dailylife-0051",
+        "word":  "route",
+        "displayWord":  "route",
+        "phonetic":  "/route/",
+        "mean":  "path from one place to another",
+        "pos":  "n.",
+        "level":  "core",
+        "tags":  [
+                     "daily-life",
+                     "transportation"
+                 ],
+        "example":  "I dealt with the route this morning.",
+        "exampleZh":  "",
+        "synonyms":  [
+
+                     ],
+        "distractors":  [
+
+                        ],
+        "source":  "release-build",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "dailylife-0052",
+        "word":  "map",
+        "displayWord":  "map",
+        "phonetic":  "/map/",
+        "mean":  "drawing of an area",
+        "pos":  "n.",
+        "level":  "core",
+        "tags":  [
+                     "daily-life",
+                     "travel"
+                 ],
+        "example":  "I dealt with the map this morning.",
+        "exampleZh":  "",
+        "synonyms":  [
+
+                     ],
+        "distractors":  [
+
+                        ],
+        "source":  "release-build",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "dailylife-0053",
+        "word":  "helmet",
+        "displayWord":  "helmet",
+        "phonetic":  "/helmet/",
+        "mean":  "protective head covering",
+        "pos":  "n.",
+        "level":  "core",
+        "tags":  [
+                     "daily-life",
+                     "safety"
+                 ],
+        "example":  "I dealt with the helmet this morning.",
+        "exampleZh":  "",
+        "synonyms":  [
+
+                     ],
+        "distractors":  [
+
+                        ],
+        "source":  "release-build",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "dailylife-0054",
+        "word":  "license",
+        "displayWord":  "license",
+        "phonetic":  "/license/",
+        "mean":  "official permit",
+        "pos":  "n.",
+        "level":  "core",
+        "tags":  [
+                     "daily-life",
+                     "transportation"
+                 ],
+        "example":  "I dealt with the license this morning.",
+        "exampleZh":  "",
+        "synonyms":  [
+
+                     ],
+        "distractors":  [
+
+                        ],
+        "source":  "release-build",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "dailylife-0055",
+        "word":  "parking",
+        "displayWord":  "parking",
+        "phonetic":  "/parking/",
+        "mean":  "space for leaving a vehicle",
+        "pos":  "n.",
+        "level":  "core",
+        "tags":  [
+                     "daily-life",
+                     "transportation"
+                 ],
+        "example":  "I dealt with the parking this morning.",
+        "exampleZh":  "",
+        "synonyms":  [
+
+                     ],
+        "distractors":  [
+
+                        ],
+        "source":  "release-build",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "dailylife-0056",
+        "word":  "pharmacy",
+        "displayWord":  "pharmacy",
+        "phonetic":  "/pharmacy/",
+        "mean":  "store selling medicine",
+        "pos":  "n.",
+        "level":  "core",
+        "tags":  [
+                     "daily-life",
+                     "health"
+                 ],
+        "example":  "I dealt with the pharmacy this morning.",
+        "exampleZh":  "",
+        "synonyms":  [
+
+                     ],
+        "distractors":  [
+
+                        ],
+        "source":  "release-build",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "dailylife-0057",
+        "word":  "clinic",
+        "displayWord":  "clinic",
+        "phonetic":  "/clinic/",
+        "mean":  "small medical center",
+        "pos":  "n.",
+        "level":  "core",
+        "tags":  [
+                     "daily-life",
+                     "health"
+                 ],
+        "example":  "I dealt with the clinic this morning.",
+        "exampleZh":  "",
+        "synonyms":  [
+
+                     ],
+        "distractors":  [
+
+                        ],
+        "source":  "release-build",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "dailylife-0058",
+        "word":  "dentist",
+        "displayWord":  "dentist",
+        "phonetic":  "/dentist/",
+        "mean":  "doctor for teeth",
+        "pos":  "n.",
+        "level":  "core",
+        "tags":  [
+                     "daily-life",
+                     "health"
+                 ],
+        "example":  "I dealt with the dentist this morning.",
+        "exampleZh":  "",
+        "synonyms":  [
+
+                     ],
+        "distractors":  [
+
+                        ],
+        "source":  "release-build",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "dailylife-0059",
+        "word":  "waiter",
+        "displayWord":  "waiter",
+        "phonetic":  "/waiter/",
+        "mean":  "person serving food",
+        "pos":  "n.",
+        "level":  "core",
+        "tags":  [
+                     "daily-life",
+                     "service"
+                 ],
+        "example":  "I dealt with the waiter this morning.",
+        "exampleZh":  "",
+        "synonyms":  [
+
+                     ],
+        "distractors":  [
+
+                        ],
+        "source":  "release-build",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "dailylife-0060",
+        "word":  "menu",
+        "displayWord":  "menu",
+        "phonetic":  "/menu/",
+        "mean":  "list of food choices",
+        "pos":  "n.",
+        "level":  "core",
+        "tags":  [
+                     "daily-life",
+                     "food"
+                 ],
+        "example":  "I dealt with the menu this morning.",
+        "exampleZh":  "",
+        "synonyms":  [
+
+                     ],
+        "distractors":  [
+
+                        ],
+        "source":  "release-build",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "dailylife-0061",
+        "word":  "host",
+        "displayWord":  "host",
+        "phonetic":  "/host/",
+        "mean":  "person receiving guests",
+        "pos":  "n.",
+        "level":  "core",
+        "tags":  [
+                     "daily-life",
+                     "social"
+                 ],
+        "example":  "I dealt with the host this morning.",
+        "exampleZh":  "",
+        "synonyms":  [
+
+                     ],
+        "distractors":  [
+
+                        ],
+        "source":  "release-build",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "dailylife-0062",
+        "word":  "guest",
+        "displayWord":  "guest",
+        "phonetic":  "/guest/",
+        "mean":  "invited visitor",
+        "pos":  "n.",
+        "level":  "core",
+        "tags":  [
+                     "daily-life",
+                     "social"
+                 ],
+        "example":  "I dealt with the guest this morning.",
+        "exampleZh":  "",
+        "synonyms":  [
+
+                     ],
+        "distractors":  [
+
+                        ],
+        "source":  "release-build",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "dailylife-0063",
+        "word":  "recipe",
+        "displayWord":  "recipe",
+        "phonetic":  "/recipe/",
+        "mean":  "cooking instructions",
+        "pos":  "n.",
+        "level":  "core",
+        "tags":  [
+                     "daily-life",
+                     "food"
+                 ],
+        "example":  "I dealt with the recipe this morning.",
+        "exampleZh":  "",
+        "synonyms":  [
+
+                     ],
+        "distractors":  [
+
+                        ],
+        "source":  "release-build",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "dailylife-0064",
+        "word":  "snack",
+        "displayWord":  "snack",
+        "phonetic":  "/snack/",
+        "mean":  "small amount of food",
+        "pos":  "n.",
+        "level":  "core",
+        "tags":  [
+                     "daily-life",
+                     "food"
+                 ],
+        "example":  "I dealt with the snack this morning.",
+        "exampleZh":  "",
+        "synonyms":  [
+
+                     ],
+        "distractors":  [
+
+                        ],
+        "source":  "release-build",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "dailylife-0065",
+        "word":  "dessert",
+        "displayWord":  "dessert",
+        "phonetic":  "/dessert/",
+        "mean":  "sweet food after a meal",
+        "pos":  "n.",
+        "level":  "core",
+        "tags":  [
+                     "daily-life",
+                     "food"
+                 ],
+        "example":  "I dealt with the dessert this morning.",
+        "exampleZh":  "",
+        "synonyms":  [
+
+                     ],
+        "distractors":  [
+
+                        ],
+        "source":  "release-build",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "dailylife-0066",
+        "word":  "beverage",
+        "displayWord":  "beverage",
+        "phonetic":  "/beverage/",
+        "mean":  "drink",
+        "pos":  "n.",
+        "level":  "core",
+        "tags":  [
+                     "daily-life",
+                     "food"
+                 ],
+        "example":  "I dealt with the beverage this morning.",
+        "exampleZh":  "",
+        "synonyms":  [
+
+                     ],
+        "distractors":  [
+
+                        ],
+        "source":  "release-build",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "dailylife-0067",
+        "word":  "breakfast",
+        "displayWord":  "breakfast",
+        "phonetic":  "/breakfast/",
+        "mean":  "first meal of the day",
+        "pos":  "n.",
+        "level":  "core",
+        "tags":  [
+                     "daily-life",
+                     "food"
+                 ],
+        "example":  "I dealt with the breakfast this morning.",
+        "exampleZh":  "",
+        "synonyms":  [
+
+                     ],
+        "distractors":  [
+
+                        ],
+        "source":  "release-build",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "dailylife-0068",
+        "word":  "lunch",
+        "displayWord":  "lunch",
+        "phonetic":  "/lunch/",
+        "mean":  "midday meal",
+        "pos":  "n.",
+        "level":  "core",
+        "tags":  [
+                     "daily-life",
+                     "food"
+                 ],
+        "example":  "I dealt with the lunch this morning.",
+        "exampleZh":  "",
+        "synonyms":  [
+
+                     ],
+        "distractors":  [
+
+                        ],
+        "source":  "release-build",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "dailylife-0069",
+        "word":  "dinner",
+        "displayWord":  "dinner",
+        "phonetic":  "/dinner/",
+        "mean":  "main evening meal",
+        "pos":  "n.",
+        "level":  "core",
+        "tags":  [
+                     "daily-life",
+                     "food"
+                 ],
+        "example":  "I dealt with the dinner this morning.",
+        "exampleZh":  "",
+        "synonyms":  [
+
+                     ],
+        "distractors":  [
+
+                        ],
+        "source":  "release-build",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "dailylife-0070",
+        "word":  "outing",
+        "displayWord":  "outing",
+        "phonetic":  "/outing/",
+        "mean":  "trip for pleasure",
+        "pos":  "n.",
+        "level":  "core",
+        "tags":  [
+                     "daily-life",
+                     "social"
+                 ],
+        "example":  "I dealt with the outing this morning.",
+        "exampleZh":  "",
+        "synonyms":  [
+
+                     ],
+        "distractors":  [
+
+                        ],
+        "source":  "release-build",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "dailylife-0071",
+        "word":  "festival",
+        "displayWord":  "festival",
+        "phonetic":  "/festival/",
+        "mean":  "special public celebration",
+        "pos":  "n.",
+        "level":  "core",
+        "tags":  [
+                     "daily-life",
+                     "social"
+                 ],
+        "example":  "I dealt with the festival this morning.",
+        "exampleZh":  "",
+        "synonyms":  [
+
+                     ],
+        "distractors":  [
+
+                        ],
+        "source":  "release-build",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "dailylife-0072",
+        "word":  "hobby",
+        "displayWord":  "hobby",
+        "phonetic":  "/hobby/",
+        "mean":  "activity done for enjoyment",
+        "pos":  "n.",
+        "level":  "core",
+        "tags":  [
+                     "daily-life",
+                     "social"
+                 ],
+        "example":  "I dealt with the hobby this morning.",
+        "exampleZh":  "",
+        "synonyms":  [
+
+                     ],
+        "distractors":  [
+
+                        ],
+        "source":  "release-build",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "dailylife-0073",
+        "word":  "playlist",
+        "displayWord":  "playlist",
+        "phonetic":  "/playlist/",
+        "mean":  "selected list of songs",
+        "pos":  "n.",
+        "level":  "core",
+        "tags":  [
+                     "daily-life",
+                     "technology"
+                 ],
+        "example":  "I dealt with the playlist this morning.",
+        "exampleZh":  "",
+        "synonyms":  [
+
+                     ],
+        "distractors":  [
+
+                        ],
+        "source":  "release-build",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "dailylife-0074",
+        "word":  "battery",
+        "displayWord":  "battery",
+        "phonetic":  "/battery/",
+        "mean":  "device storing power",
+        "pos":  "n.",
+        "level":  "core",
+        "tags":  [
+                     "daily-life",
+                     "technology"
+                 ],
+        "example":  "I dealt with the battery this morning.",
+        "exampleZh":  "",
+        "synonyms":  [
+
+                     ],
+        "distractors":  [
+
+                        ],
+        "source":  "release-build",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "dailylife-0075",
+        "word":  "charger",
+        "displayWord":  "charger",
+        "phonetic":  "/charger/",
+        "mean":  "device for adding power",
+        "pos":  "n.",
+        "level":  "core",
+        "tags":  [
+                     "daily-life",
+                     "technology"
+                 ],
+        "example":  "I dealt with the charger this morning.",
+        "exampleZh":  "",
+        "synonyms":  [
+
+                     ],
+        "distractors":  [
+
+                        ],
+        "source":  "release-build",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "dailylife-0076",
+        "word":  "package",
+        "displayWord":  "package",
+        "phonetic":  "/package/",
+        "mean":  "wrapped object for delivery",
+        "pos":  "n.",
+        "level":  "core",
+        "tags":  [
+                     "daily-life",
+                     "service"
+                 ],
+        "example":  "I dealt with the package this morning.",
+        "exampleZh":  "",
+        "synonyms":  [
+
+                     ],
+        "distractors":  [
+
+                        ],
+        "source":  "release-build",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "dailylife-0077",
+        "word":  "mailbox",
+        "displayWord":  "mailbox",
+        "phonetic":  "/mailbox/",
+        "mean":  "box for receiving letters",
+        "pos":  "n.",
+        "level":  "core",
+        "tags":  [
+                     "daily-life",
+                     "home"
+                 ],
+        "example":  "I dealt with the mailbox this morning.",
+        "exampleZh":  "",
+        "synonyms":  [
+
+                     ],
+        "distractors":  [
+
+                        ],
+        "source":  "release-build",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "dailylife-0078",
+        "word":  "gift",
+        "displayWord":  "gift",
+        "phonetic":  "/gift/",
+        "mean":  "present",
+        "pos":  "n.",
+        "level":  "core",
+        "tags":  [
+                     "daily-life",
+                     "social"
+                 ],
+        "example":  "I dealt with the gift this morning.",
+        "exampleZh":  "",
+        "synonyms":  [
+
+                     ],
+        "distractors":  [
+
+                        ],
+        "source":  "release-build",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "dailylife-0079",
+        "word":  "wallet",
+        "displayWord":  "wallet",
+        "phonetic":  "/wallet/",
+        "mean":  "small case for money and cards",
+        "pos":  "n.",
+        "level":  "core",
+        "tags":  [
+                     "daily-life",
+                     "finance"
+                 ],
+        "example":  "I dealt with the wallet this morning.",
+        "exampleZh":  "",
+        "synonyms":  [
+
+                     ],
+        "distractors":  [
+
+                        ],
+        "source":  "release-build",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "dailylife-0080",
+        "word":  "umbrella",
+        "displayWord":  "umbrella",
+        "phonetic":  "/umbrella/",
+        "mean":  "tool for protection from rain",
+        "pos":  "n.",
+        "level":  "core",
+        "tags":  [
+                     "daily-life",
+                     "weather"
+                 ],
+        "example":  "I dealt with the umbrella this morning.",
+        "exampleZh":  "",
+        "synonyms":  [
+
+                     ],
+        "distractors":  [
+
+                        ],
+        "source":  "release-build",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "dailylife-0081",
+        "word":  "prescribe",
+        "displayWord":  "prescribe",
+        "phonetic":  "/prescribe/",
+        "mean":  "order medicine",
+        "pos":  "v.",
+        "level":  "core",
+        "tags":  [
+                     "daily-life",
+                     "health"
+                 ],
+        "example":  "We often prescribe this during daily life.",
+        "exampleZh":  "",
+        "synonyms":  [
+
+                     ],
+        "distractors":  [
+
+                        ],
+        "source":  "release-build",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "dailylife-0082",
+        "word":  "vacuum",
+        "displayWord":  "vacuum",
+        "phonetic":  "/vacuum/",
+        "mean":  "clean with suction",
+        "pos":  "v.",
+        "level":  "core",
+        "tags":  [
+                     "daily-life",
+                     "home"
+                 ],
+        "example":  "We often vacuum this during daily life.",
+        "exampleZh":  "",
+        "synonyms":  [
+
+                     ],
+        "distractors":  [
+
+                        ],
+        "source":  "release-build",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "dailylife-0083",
+        "word":  "borrow",
+        "displayWord":  "borrow",
+        "phonetic":  "/borrow/",
+        "mean":  "take and return later",
+        "pos":  "v.",
+        "level":  "core",
+        "tags":  [
+                     "daily-life",
+                     "social"
+                 ],
+        "example":  "We often borrow this during daily life.",
+        "exampleZh":  "",
+        "synonyms":  [
+
+                     ],
+        "distractors":  [
+
+                        ],
+        "source":  "release-build",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "dailylife-0084",
+        "word":  "recommend",
+        "displayWord":  "recommend",
+        "phonetic":  "/recommend/",
+        "mean":  "suggest",
+        "pos":  "v.",
+        "level":  "core",
+        "tags":  [
+                     "daily-life",
+                     "conversation"
+                 ],
+        "example":  "We often recommend this during daily life.",
+        "exampleZh":  "",
+        "synonyms":  [
+
+                     ],
+        "distractors":  [
+
+                        ],
+        "source":  "release-build",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "dailylife-0085",
+        "word":  "repair",
+        "displayWord":  "repair",
+        "phonetic":  "/repair/",
+        "mean":  "fix",
+        "pos":  "v.",
+        "level":  "core",
+        "tags":  [
+                     "daily-life",
+                     "service"
+                 ],
+        "example":  "We often repair this during daily life.",
+        "exampleZh":  "",
+        "synonyms":  [
+
+                     ],
+        "distractors":  [
+
+                        ],
+        "source":  "release-build",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "dailylife-0086",
+        "word":  "commute",
+        "displayWord":  "commute",
+        "phonetic":  "/commute/",
+        "mean":  "travel to work regularly",
+        "pos":  "v.",
+        "level":  "core",
+        "tags":  [
+                     "daily-life",
+                     "transportation"
+                 ],
+        "example":  "We often commute this during daily life.",
+        "exampleZh":  "",
+        "synonyms":  [
+
+                     ],
+        "distractors":  [
+
+                        ],
+        "source":  "release-build",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "dailylife-0087",
+        "word":  "cook",
+        "displayWord":  "cook",
+        "phonetic":  "/cook/",
+        "mean":  "prepare food with heat",
+        "pos":  "v.",
+        "level":  "core",
+        "tags":  [
+                     "daily-life",
+                     "food"
+                 ],
+        "example":  "We often cook this during daily life.",
+        "exampleZh":  "",
+        "synonyms":  [
+
+                     ],
+        "distractors":  [
+
+                        ],
+        "source":  "release-build",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "dailylife-0088",
+        "word":  "wash",
+        "displayWord":  "wash",
+        "phonetic":  "/wash/",
+        "mean":  "clean with water",
+        "pos":  "v.",
+        "level":  "core",
+        "tags":  [
+                     "daily-life",
+                     "home"
+                 ],
+        "example":  "We often wash this during daily life.",
+        "exampleZh":  "",
+        "synonyms":  [
+
+                     ],
+        "distractors":  [
+
+                        ],
+        "source":  "release-build",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "dailylife-0089",
+        "word":  "book",
+        "displayWord":  "book",
+        "phonetic":  "/book/",
+        "mean":  "reserve in advance",
+        "pos":  "v.",
+        "level":  "core",
+        "tags":  [
+                     "daily-life",
+                     "service"
+                 ],
+        "example":  "We often book this during daily life.",
+        "exampleZh":  "",
+        "synonyms":  [
+
+                     ],
+        "distractors":  [
+
+                        ],
+        "source":  "release-build",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "dailylife-0090",
+        "word":  "cancel",
+        "displayWord":  "cancel",
+        "phonetic":  "/cancel/",
+        "mean":  "stop something planned",
+        "pos":  "v.",
+        "level":  "core",
+        "tags":  [
+                     "daily-life",
+                     "service"
+                 ],
+        "example":  "We often cancel this during daily life.",
+        "exampleZh":  "",
+        "synonyms":  [
+
+                     ],
+        "distractors":  [
+
+                        ],
+        "source":  "release-build",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "dailylife-0091",
+        "word":  "return",
+        "displayWord":  "return",
+        "phonetic":  "/return/",
+        "mean":  "give back or go back",
+        "pos":  "v.",
+        "level":  "core",
+        "tags":  [
+                     "daily-life",
+                     "shopping"
+                 ],
+        "example":  "We often return this during daily life.",
+        "exampleZh":  "",
+        "synonyms":  [
+
+                     ],
+        "distractors":  [
+
+                        ],
+        "source":  "release-build",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "dailylife-0092",
+        "word":  "charge",
+        "displayWord":  "charge",
+        "phonetic":  "/charge/",
+        "mean":  "ask for payment",
+        "pos":  "v.",
+        "level":  "core",
+        "tags":  [
+                     "daily-life",
+                     "finance"
+                 ],
+        "example":  "We often charge this during daily life.",
+        "exampleZh":  "",
+        "synonyms":  [
+
+                     ],
+        "distractors":  [
+
+                        ],
+        "source":  "release-build",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "dailylife-0093",
+        "word":  "deliver",
+        "displayWord":  "deliver",
+        "phonetic":  "/deliver/",
+        "mean":  "bring to a place",
+        "pos":  "v.",
+        "level":  "core",
+        "tags":  [
+                     "daily-life",
+                     "service"
+                 ],
+        "example":  "We often deliver this during daily life.",
+        "exampleZh":  "",
+        "synonyms":  [
+
+                     ],
+        "distractors":  [
+
+                        ],
+        "source":  "release-build",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "dailylife-0094",
+        "word":  "exercise",
+        "displayWord":  "exercise",
+        "phonetic":  "/exercise/",
+        "mean":  "do physical activity",
+        "pos":  "v.",
+        "level":  "core",
+        "tags":  [
+                     "daily-life",
+                     "health"
+                 ],
+        "example":  "We often exercise this during daily life.",
+        "exampleZh":  "",
+        "synonyms":  [
+
+                     ],
+        "distractors":  [
+
+                        ],
+        "source":  "release-build",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "dailylife-0095",
+        "word":  "invite",
+        "displayWord":  "invite",
+        "phonetic":  "/invite/",
+        "mean":  "ask someone to come",
+        "pos":  "v.",
+        "level":  "core",
+        "tags":  [
+                     "daily-life",
+                     "social"
+                 ],
+        "example":  "We often invite this during daily life.",
+        "exampleZh":  "",
+        "synonyms":  [
+
+                     ],
+        "distractors":  [
+
+                        ],
+        "source":  "release-build",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "dailylife-0096",
+        "word":  "pack",
+        "displayWord":  "pack",
+        "phonetic":  "/pack/",
+        "mean":  "put things into a bag",
+        "pos":  "v.",
+        "level":  "core",
+        "tags":  [
+                     "daily-life",
+                     "travel"
+                 ],
+        "example":  "We often pack this during daily life.",
+        "exampleZh":  "",
+        "synonyms":  [
+
+                     ],
+        "distractors":  [
+
+                        ],
+        "source":  "release-build",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "dailylife-0097",
+        "word":  "prepare",
+        "displayWord":  "prepare",
+        "phonetic":  "/prepare/",
+        "mean":  "make ready",
+        "pos":  "v.",
+        "level":  "core",
+        "tags":  [
+                     "daily-life",
+                     "home"
+                 ],
+        "example":  "We often prepare this during daily life.",
+        "exampleZh":  "",
+        "synonyms":  [
+
+                     ],
+        "distractors":  [
+
+                        ],
+        "source":  "release-build",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "dailylife-0098",
+        "word":  "replace",
+        "displayWord":  "replace",
+        "phonetic":  "/replace/",
+        "mean":  "put a new one in place of an old one",
+        "pos":  "v.",
+        "level":  "core",
+        "tags":  [
+                     "daily-life",
+                     "home"
+                 ],
+        "example":  "We often replace this during daily life.",
+        "exampleZh":  "",
+        "synonyms":  [
+
+                     ],
+        "distractors":  [
+
+                        ],
+        "source":  "release-build",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "dailylife-0099",
+        "word":  "reserve",
+        "displayWord":  "reserve",
+        "phonetic":  "/reserve/",
+        "mean":  "book in advance",
+        "pos":  "v.",
+        "level":  "core",
+        "tags":  [
+                     "daily-life",
+                     "service"
+                 ],
+        "example":  "We often reserve this during daily life.",
+        "exampleZh":  "",
+        "synonyms":  [
+
+                     ],
+        "distractors":  [
+
+                        ],
+        "source":  "release-build",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "dailylife-0100",
+        "word":  "share",
+        "displayWord":  "share",
+        "phonetic":  "/share/",
+        "mean":  "let others use or know",
+        "pos":  "v.",
+        "level":  "core",
+        "tags":  [
+                     "daily-life",
+                     "social"
+                 ],
+        "example":  "We often share this during daily life.",
+        "exampleZh":  "",
+        "synonyms":  [
+
+                     ],
+        "distractors":  [
+
+                        ],
+        "source":  "release-build",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "dailylife-0101",
+        "word":  "shop",
+        "displayWord":  "shop",
+        "phonetic":  "/shop/",
+        "mean":  "buy things",
+        "pos":  "v.",
+        "level":  "core",
+        "tags":  [
+                     "daily-life",
+                     "shopping"
+                 ],
+        "example":  "We often shop this during daily life.",
+        "exampleZh":  "",
+        "synonyms":  [
+
+                     ],
+        "distractors":  [
+
+                        ],
+        "source":  "release-build",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "dailylife-0102",
+        "word":  "clean",
+        "displayWord":  "clean",
+        "phonetic":  "/clean/",
+        "mean":  "make free from dirt",
+        "pos":  "v.",
+        "level":  "core",
+        "tags":  [
+                     "daily-life",
+                     "home"
+                 ],
+        "example":  "We often clean this during daily life.",
+        "exampleZh":  "",
+        "synonyms":  [
+
+                     ],
+        "distractors":  [
+
+                        ],
+        "source":  "release-build",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "dailylife-0103",
+        "word":  "dry",
+        "displayWord":  "dry",
+        "phonetic":  "/dry/",
+        "mean":  "remove moisture",
+        "pos":  "v.",
+        "level":  "core",
+        "tags":  [
+                     "daily-life",
+                     "home"
+                 ],
+        "example":  "We often dry this during daily life.",
+        "exampleZh":  "",
+        "synonyms":  [
+
+                     ],
+        "distractors":  [
+
+                        ],
+        "source":  "release-build",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "dailylife-0104",
+        "word":  "fold",
+        "displayWord":  "fold",
+        "phonetic":  "/fold/",
+        "mean":  "bend over on itself",
+        "pos":  "v.",
+        "level":  "core",
+        "tags":  [
+                     "daily-life",
+                     "home"
+                 ],
+        "example":  "We often fold this during daily life.",
+        "exampleZh":  "",
+        "synonyms":  [
+
+                     ],
+        "distractors":  [
+
+                        ],
+        "source":  "release-build",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "dailylife-0105",
+        "word":  "greet",
+        "displayWord":  "greet",
+        "phonetic":  "/greet/",
+        "mean":  "welcome",
+        "pos":  "v.",
+        "level":  "core",
+        "tags":  [
+                     "daily-life",
+                     "social"
+                 ],
+        "example":  "We often greet this during daily life.",
+        "exampleZh":  "",
+        "synonyms":  [
+
+                     ],
+        "distractors":  [
+
+                        ],
+        "source":  "release-build",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "dailylife-0106",
+        "word":  "heat",
+        "displayWord":  "heat",
+        "phonetic":  "/heat/",
+        "mean":  "make warm or hot",
+        "pos":  "v.",
+        "level":  "core",
+        "tags":  [
+                     "daily-life",
+                     "food"
+                 ],
+        "example":  "We often heat this during daily life.",
+        "exampleZh":  "",
+        "synonyms":  [
+
+                     ],
+        "distractors":  [
+
+                        ],
+        "source":  "release-build",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "dailylife-0107",
+        "word":  "lock",
+        "displayWord":  "lock",
+        "phonetic":  "/lock/",
+        "mean":  "secure with a key",
+        "pos":  "v.",
+        "level":  "core",
+        "tags":  [
+                     "daily-life",
+                     "safety"
+                 ],
+        "example":  "We often lock this during daily life.",
+        "exampleZh":  "",
+        "synonyms":  [
+
+                     ],
+        "distractors":  [
+
+                        ],
+        "source":  "release-build",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "dailylife-0108",
+        "word":  "park",
+        "displayWord":  "park",
+        "phonetic":  "/park/",
+        "mean":  "leave a vehicle temporarily",
+        "pos":  "v.",
+        "level":  "core",
+        "tags":  [
+                     "daily-life",
+                     "transportation"
+                 ],
+        "example":  "We often park this during daily life.",
+        "exampleZh":  "",
+        "synonyms":  [
+
+                     ],
+        "distractors":  [
+
+                        ],
+        "source":  "release-build",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "dailylife-0109",
+        "word":  "polish",
+        "displayWord":  "polish",
+        "phonetic":  "/polish/",
+        "mean":  "make shiny and smooth",
+        "pos":  "v.",
+        "level":  "core",
+        "tags":  [
+                     "daily-life",
+                     "home"
+                 ],
+        "example":  "We often polish this during daily life.",
+        "exampleZh":  "",
+        "synonyms":  [
+
+                     ],
+        "distractors":  [
+
+                        ],
+        "source":  "release-build",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "dailylife-0110",
+        "word":  "relax",
+        "displayWord":  "relax",
+        "phonetic":  "/relax/",
+        "mean":  "rest and become calm",
+        "pos":  "v.",
+        "level":  "core",
+        "tags":  [
+                     "daily-life",
+                     "health"
+                 ],
+        "example":  "We often relax this during daily life.",
+        "exampleZh":  "",
+        "synonyms":  [
+
+                     ],
+        "distractors":  [
+
+                        ],
+        "source":  "release-build",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "dailylife-0111",
+        "word":  "rinse",
+        "displayWord":  "rinse",
+        "phonetic":  "/rinse/",
+        "mean":  "wash quickly with water",
+        "pos":  "v.",
+        "level":  "core",
+        "tags":  [
+                     "daily-life",
+                     "home"
+                 ],
+        "example":  "We often rinse this during daily life.",
+        "exampleZh":  "",
+        "synonyms":  [
+
+                     ],
+        "distractors":  [
+
+                        ],
+        "source":  "release-build",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "dailylife-0112",
+        "word":  "stretch",
+        "displayWord":  "stretch",
+        "phonetic":  "/stretch/",
+        "mean":  "extend the body or material",
+        "pos":  "v.",
+        "level":  "core",
+        "tags":  [
+                     "daily-life",
+                     "health"
+                 ],
+        "example":  "We often stretch this during daily life.",
+        "exampleZh":  "",
+        "synonyms":  [
+
+                     ],
+        "distractors":  [
+
+                        ],
+        "source":  "release-build",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "dailylife-0113",
+        "word":  "unpack",
+        "displayWord":  "unpack",
+        "phonetic":  "/unpack/",
+        "mean":  "remove from a bag or box",
+        "pos":  "v.",
+        "level":  "core",
+        "tags":  [
+                     "daily-life",
+                     "travel"
+                 ],
+        "example":  "We often unpack this during daily life.",
+        "exampleZh":  "",
+        "synonyms":  [
+
+                     ],
+        "distractors":  [
+
+                        ],
+        "source":  "release-build",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "dailylife-0114",
+        "word":  "visit",
+        "displayWord":  "visit",
+        "phonetic":  "/visit/",
+        "mean":  "go to see",
+        "pos":  "v.",
+        "level":  "core",
+        "tags":  [
+                     "daily-life",
+                     "social"
+                 ],
+        "example":  "We often visit this during daily life.",
+        "exampleZh":  "",
+        "synonyms":  [
+
+                     ],
+        "distractors":  [
+
+                        ],
+        "source":  "release-build",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "dailylife-0115",
+        "word":  "water",
+        "displayWord":  "water",
+        "phonetic":  "/water/",
+        "mean":  "pour water on",
+        "pos":  "v.",
+        "level":  "core",
+        "tags":  [
+                     "daily-life",
+                     "home"
+                 ],
+        "example":  "We often water this during daily life.",
+        "exampleZh":  "",
+        "synonyms":  [
+
+                     ],
+        "distractors":  [
+
+                        ],
+        "source":  "release-build",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "dailylife-0116",
+        "word":  "wear",
+        "displayWord":  "wear",
+        "phonetic":  "/wear/",
+        "mean":  "have clothes on the body",
+        "pos":  "v.",
+        "level":  "core",
+        "tags":  [
+                     "daily-life",
+                     "clothing"
+                 ],
+        "example":  "We often wear this during daily life.",
+        "exampleZh":  "",
+        "synonyms":  [
+
+                     ],
+        "distractors":  [
+
+                        ],
+        "source":  "release-build",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "dailylife-0117",
+        "word":  "withdraw",
+        "displayWord":  "withdraw",
+        "phonetic":  "/withdraw/",
+        "mean":  "take money out",
+        "pos":  "v.",
+        "level":  "core",
+        "tags":  [
+                     "daily-life",
+                     "finance"
+                 ],
+        "example":  "We often withdraw this during daily life.",
+        "exampleZh":  "",
+        "synonyms":  [
+
+                     ],
+        "distractors":  [
+
+                        ],
+        "source":  "release-build",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "dailylife-0118",
+        "word":  "update",
+        "displayWord":  "update",
+        "phonetic":  "/update/",
+        "mean":  "make current",
+        "pos":  "v.",
+        "level":  "core",
+        "tags":  [
+                     "daily-life",
+                     "technology"
+                 ],
+        "example":  "We often update this during daily life.",
+        "exampleZh":  "",
+        "synonyms":  [
+
+                     ],
+        "distractors":  [
+
+                        ],
+        "source":  "release-build",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "dailylife-0119",
+        "word":  "transfer",
+        "displayWord":  "transfer",
+        "phonetic":  "/transfer/",
+        "mean":  "move from one place to another",
+        "pos":  "v.",
+        "level":  "core",
+        "tags":  [
+                     "daily-life",
+                     "finance"
+                 ],
+        "example":  "We often transfer this during daily life.",
+        "exampleZh":  "",
+        "synonyms":  [
+
+                     ],
+        "distractors":  [
+
+                        ],
+        "source":  "release-build",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "dailylife-0120",
+        "word":  "register",
+        "displayWord":  "register",
+        "phonetic":  "/register/",
+        "mean":  "record officially",
+        "pos":  "v.",
+        "level":  "core",
+        "tags":  [
+                     "daily-life",
+                     "service"
+                 ],
+        "example":  "We often register this during daily life.",
+        "exampleZh":  "",
+        "synonyms":  [
+
+                     ],
+        "distractors":  [
+
+                        ],
+        "source":  "release-build",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "dailylife-0121",
+        "word":  "messy",
+        "displayWord":  "messy",
+        "phonetic":  "/messy/",
+        "mean":  "untidy",
+        "pos":  "adj.",
+        "level":  "core",
+        "tags":  [
+                     "daily-life",
+                     "home"
+                 ],
+        "example":  "The place felt messy and easy to use.",
+        "exampleZh":  "",
+        "synonyms":  [
+
+                     ],
+        "distractors":  [
+
+                        ],
+        "source":  "release-build",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "dailylife-0122",
+        "word":  "spacious",
+        "displayWord":  "spacious",
+        "phonetic":  "/spacious/",
+        "mean":  "having a lot of room",
+        "pos":  "adj.",
+        "level":  "core",
+        "tags":  [
+                     "daily-life",
+                     "housing"
+                 ],
+        "example":  "The place felt spacious and easy to use.",
+        "exampleZh":  "",
+        "synonyms":  [
+
+                     ],
+        "distractors":  [
+
+                        ],
+        "source":  "release-build",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "dailylife-0123",
+        "word":  "casual",
+        "displayWord":  "casual",
+        "phonetic":  "/casual/",
+        "mean":  "informal",
+        "pos":  "adj.",
+        "level":  "core",
+        "tags":  [
+                     "daily-life",
+                     "social"
+                 ],
+        "example":  "The place felt casual and easy to use.",
+        "exampleZh":  "",
+        "synonyms":  [
+
+                     ],
+        "distractors":  [
+
+                        ],
+        "source":  "release-build",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "dailylife-0124",
+        "word":  "crowded",
+        "displayWord":  "crowded",
+        "phonetic":  "/crowded/",
+        "mean":  "full of people",
+        "pos":  "adj.",
+        "level":  "core",
+        "tags":  [
+                     "daily-life",
+                     "description"
+                 ],
+        "example":  "The place felt crowded and easy to use.",
+        "exampleZh":  "",
+        "synonyms":  [
+
+                     ],
+        "distractors":  [
+
+                        ],
+        "source":  "release-build",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "dailylife-0125",
+        "word":  "available",
+        "displayWord":  "available",
+        "phonetic":  "/available/",
+        "mean":  "ready for use",
+        "pos":  "adj.",
+        "level":  "core",
+        "tags":  [
+                     "daily-life",
+                     "service"
+                 ],
+        "example":  "The place felt available and easy to use.",
+        "exampleZh":  "",
+        "synonyms":  [
+
+                     ],
+        "distractors":  [
+
+                        ],
+        "source":  "release-build",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "dailylife-0126",
+        "word":  "tidy",
+        "displayWord":  "tidy",
+        "phonetic":  "/tidy/",
+        "mean":  "neat and in order",
+        "pos":  "adj.",
+        "level":  "core",
+        "tags":  [
+                     "daily-life",
+                     "home"
+                 ],
+        "example":  "The place felt tidy and easy to use.",
+        "exampleZh":  "",
+        "synonyms":  [
+
+                     ],
+        "distractors":  [
+
+                        ],
+        "source":  "release-build",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "dailylife-0127",
+        "word":  "comfortable",
+        "displayWord":  "comfortable",
+        "phonetic":  "/comfortable/",
+        "mean":  "pleasant to use or wear",
+        "pos":  "adj.",
+        "level":  "core",
+        "tags":  [
+                     "daily-life",
+                     "home"
+                 ],
+        "example":  "The place felt comfortable and easy to use.",
+        "exampleZh":  "",
+        "synonyms":  [
+
+                     ],
+        "distractors":  [
+
+                        ],
+        "source":  "release-build",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "dailylife-0128",
+        "word":  "convenient",
+        "displayWord":  "convenient",
+        "phonetic":  "/convenient/",
+        "mean":  "easy to use",
+        "pos":  "adj.",
+        "level":  "core",
+        "tags":  [
+                     "daily-life",
+                     "service"
+                 ],
+        "example":  "The place felt convenient and easy to use.",
+        "exampleZh":  "",
+        "synonyms":  [
+
+                     ],
+        "distractors":  [
+
+                        ],
+        "source":  "release-build",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "dailylife-0129",
+        "word":  "dirty",
+        "displayWord":  "dirty",
+        "phonetic":  "/dirty/",
+        "mean":  "not clean",
+        "pos":  "adj.",
+        "level":  "core",
+        "tags":  [
+                     "daily-life",
+                     "home"
+                 ],
+        "example":  "The place felt dirty and easy to use.",
+        "exampleZh":  "",
+        "synonyms":  [
+
+                     ],
+        "distractors":  [
+
+                        ],
+        "source":  "release-build",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "dailylife-0130",
+        "word":  "empty",
+        "displayWord":  "empty",
+        "phonetic":  "/empty/",
+        "mean":  "containing nothing",
+        "pos":  "adj.",
+        "level":  "core",
+        "tags":  [
+                     "daily-life",
+                     "description"
+                 ],
+        "example":  "The place felt empty and easy to use.",
+        "exampleZh":  "",
+        "synonyms":  [
+
+                     ],
+        "distractors":  [
+
+                        ],
+        "source":  "release-build",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "dailylife-0131",
+        "word":  "fresh",
+        "displayWord":  "fresh",
+        "phonetic":  "/fresh/",
+        "mean":  "recent and not old",
+        "pos":  "adj.",
+        "level":  "core",
+        "tags":  [
+                     "daily-life",
+                     "food"
+                 ],
+        "example":  "The place felt fresh and easy to use.",
+        "exampleZh":  "",
+        "synonyms":  [
+
+                     ],
+        "distractors":  [
+
+                        ],
+        "source":  "release-build",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "dailylife-0132",
+        "word":  "friendly",
+        "displayWord":  "friendly",
+        "phonetic":  "/friendly/",
+        "mean":  "kind and pleasant",
+        "pos":  "adj.",
+        "level":  "core",
+        "tags":  [
+                     "daily-life",
+                     "social"
+                 ],
+        "example":  "The place felt friendly and easy to use.",
+        "exampleZh":  "",
+        "synonyms":  [
+
+                     ],
+        "distractors":  [
+
+                        ],
+        "source":  "release-build",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "dailylife-0133",
+        "word":  "heavy",
+        "displayWord":  "heavy",
+        "phonetic":  "/heavy/",
+        "mean":  "weighing a lot",
+        "pos":  "adj.",
+        "level":  "core",
+        "tags":  [
+                     "daily-life",
+                     "description"
+                 ],
+        "example":  "The place felt heavy and easy to use.",
+        "exampleZh":  "",
+        "synonyms":  [
+
+                     ],
+        "distractors":  [
+
+                        ],
+        "source":  "release-build",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "dailylife-0134",
+        "word":  "local",
+        "displayWord":  "local",
+        "phonetic":  "/local/",
+        "mean":  "from nearby area",
+        "pos":  "adj.",
+        "level":  "core",
+        "tags":  [
+                     "daily-life",
+                     "community"
+                 ],
+        "example":  "The place felt local and easy to use.",
+        "exampleZh":  "",
+        "synonyms":  [
+
+                     ],
+        "distractors":  [
+
+                        ],
+        "source":  "release-build",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "dailylife-0135",
+        "word":  "noisy",
+        "displayWord":  "noisy",
+        "phonetic":  "/noisy/",
+        "mean":  "making a lot of sound",
+        "pos":  "adj.",
+        "level":  "core",
+        "tags":  [
+                     "daily-life",
+                     "description"
+                 ],
+        "example":  "The place felt noisy and easy to use.",
+        "exampleZh":  "",
+        "synonyms":  [
+
+                     ],
+        "distractors":  [
+
+                        ],
+        "source":  "release-build",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "dailylife-0136",
+        "word":  "quiet",
+        "displayWord":  "quiet",
+        "phonetic":  "/quiet/",
+        "mean":  "making little sound",
+        "pos":  "adj.",
+        "level":  "core",
+        "tags":  [
+                     "daily-life",
+                     "description"
+                 ],
+        "example":  "The place felt quiet and easy to use.",
+        "exampleZh":  "",
+        "synonyms":  [
+
+                     ],
+        "distractors":  [
+
+                        ],
+        "source":  "release-build",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "dailylife-0137",
+        "word":  "safe",
+        "displayWord":  "safe",
+        "phonetic":  "/safe/",
+        "mean":  "not dangerous",
+        "pos":  "adj.",
+        "level":  "core",
+        "tags":  [
+                     "daily-life",
+                     "safety"
+                 ],
+        "example":  "The place felt safe and easy to use.",
+        "exampleZh":  "",
+        "synonyms":  [
+
+                     ],
+        "distractors":  [
+
+                        ],
+        "source":  "release-build",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "dailylife-0138",
+        "word":  "slow",
+        "displayWord":  "slow",
+        "phonetic":  "/slow/",
+        "mean":  "not fast",
+        "pos":  "adj.",
+        "level":  "core",
+        "tags":  [
+                     "daily-life",
+                     "description"
+                 ],
+        "example":  "The place felt slow and easy to use.",
+        "exampleZh":  "",
+        "synonyms":  [
+
+                     ],
+        "distractors":  [
+
+                        ],
+        "source":  "release-build",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "dailylife-0139",
+        "word":  "orderly",
+        "displayWord":  "orderly",
+        "phonetic":  "/orderly/",
+        "mean":  "arranged in a neat way",
+        "pos":  "adj.",
+        "level":  "core",
+        "tags":  [
+                     "daily-life",
+                     "home"
+                 ],
+        "example":  "The place felt orderly and easy to use.",
+        "exampleZh":  "",
+        "synonyms":  [
+
+                     ],
+        "distractors":  [
+
+                        ],
+        "source":  "release-build",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "dailylife-0140",
+        "word":  "warm",
+        "displayWord":  "warm",
+        "phonetic":  "/warm/",
+        "mean":  "slightly hot in a pleasant way",
+        "pos":  "adj.",
+        "level":  "core",
+        "tags":  [
+                     "daily-life",
+                     "weather"
+                 ],
+        "example":  "The place felt warm and easy to use.",
+        "exampleZh":  "",
+        "synonyms":  [
+
+                     ],
+        "distractors":  [
+
+                        ],
+        "source":  "release-build",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "dailylife-0141",
+        "word":  "affordable",
+        "displayWord":  "affordable",
+        "phonetic":  "/affordable/",
+        "mean":  "not too expensive",
+        "pos":  "adj.",
+        "level":  "core",
+        "tags":  [
+                     "daily-life",
+                     "shopping"
+                 ],
+        "example":  "The place felt affordable and easy to use.",
+        "exampleZh":  "",
+        "synonyms":  [
+
+                     ],
+        "distractors":  [
+
+                        ],
+        "source":  "release-build",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "dailylife-0142",
+        "word":  "awake",
+        "displayWord":  "awake",
+        "phonetic":  "/awake/",
+        "mean":  "not sleeping",
+        "pos":  "adj.",
+        "level":  "core",
+        "tags":  [
+                     "daily-life",
+                     "health"
+                 ],
+        "example":  "The place felt awake and easy to use.",
+        "exampleZh":  "",
+        "synonyms":  [
+
+                     ],
+        "distractors":  [
+
+                        ],
+        "source":  "release-build",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "dailylife-0143",
+        "word":  "busy",
+        "displayWord":  "busy",
+        "phonetic":  "/busy/",
+        "mean":  "having a lot to do",
+        "pos":  "adj.",
+        "level":  "core",
+        "tags":  [
+                     "daily-life",
+                     "social"
+                 ],
+        "example":  "The place felt busy and easy to use.",
+        "exampleZh":  "",
+        "synonyms":  [
+
+                     ],
+        "distractors":  [
+
+                        ],
+        "source":  "release-build",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "dailylife-0144",
+        "word":  "calm",
+        "displayWord":  "calm",
+        "phonetic":  "/calm/",
+        "mean":  "peaceful",
+        "pos":  "adj.",
+        "level":  "core",
+        "tags":  [
+                     "daily-life",
+                     "health"
+                 ],
+        "example":  "The place felt calm and easy to use.",
+        "exampleZh":  "",
+        "synonyms":  [
+
+                     ],
+        "distractors":  [
+
+                        ],
+        "source":  "release-build",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "dailylife-0145",
+        "word":  "cheap",
+        "displayWord":  "cheap",
+        "phonetic":  "/cheap/",
+        "mean":  "low in price",
+        "pos":  "adj.",
+        "level":  "core",
+        "tags":  [
+                     "daily-life",
+                     "shopping"
+                 ],
+        "example":  "The place felt cheap and easy to use.",
+        "exampleZh":  "",
+        "synonyms":  [
+
+                     ],
+        "distractors":  [
+
+                        ],
+        "source":  "release-build",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "dailylife-0146",
+        "word":  "crispy",
+        "displayWord":  "crispy",
+        "phonetic":  "/crispy/",
+        "mean":  "firm and easy to break",
+        "pos":  "adj.",
+        "level":  "core",
+        "tags":  [
+                     "daily-life",
+                     "food"
+                 ],
+        "example":  "The place felt crispy and easy to use.",
+        "exampleZh":  "",
+        "synonyms":  [
+
+                     ],
+        "distractors":  [
+
+                        ],
+        "source":  "release-build",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "dailylife-0147",
+        "word":  "daily",
+        "displayWord":  "daily",
+        "phonetic":  "/daily/",
+        "mean":  "happening every day",
+        "pos":  "adj.",
+        "level":  "core",
+        "tags":  [
+                     "daily-life",
+                     "routine"
+                 ],
+        "example":  "The place felt daily and easy to use.",
+        "exampleZh":  "",
+        "synonyms":  [
+
+                     ],
+        "distractors":  [
+
+                        ],
+        "source":  "release-build",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "dailylife-0148",
+        "word":  "delicious",
+        "displayWord":  "delicious",
+        "phonetic":  "/delicious/",
+        "mean":  "very tasty",
+        "pos":  "adj.",
+        "level":  "core",
+        "tags":  [
+                     "daily-life",
+                     "food"
+                 ],
+        "example":  "The place felt delicious and easy to use.",
+        "exampleZh":  "",
+        "synonyms":  [
+
+                     ],
+        "distractors":  [
+
+                        ],
+        "source":  "release-build",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "dailylife-0149",
+        "word":  "silent",
+        "displayWord":  "silent",
+        "phonetic":  "/silent/",
+        "mean":  "making no sound",
+        "pos":  "adj.",
+        "level":  "core",
+        "tags":  [
+                     "daily-life",
+                     "description"
+                 ],
+        "example":  "The place felt silent and easy to use.",
+        "exampleZh":  "",
+        "synonyms":  [
+
+                     ],
+        "distractors":  [
+
+                        ],
+        "source":  "release-build",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "dailylife-0150",
+        "word":  "elderly",
+        "displayWord":  "elderly",
+        "phonetic":  "/elderly/",
+        "mean":  "old in age",
+        "pos":  "adj.",
+        "level":  "core",
+        "tags":  [
+                     "daily-life",
+                     "community"
+                 ],
+        "example":  "The place felt elderly and easy to use.",
+        "exampleZh":  "",
+        "synonyms":  [
+
+                     ],
+        "distractors":  [
+
+                        ],
+        "source":  "release-build",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "dailylife-0151",
+        "word":  "formal",
+        "displayWord":  "formal",
+        "phonetic":  "/formal/",
+        "mean":  "following official style",
+        "pos":  "adj.",
+        "level":  "core",
+        "tags":  [
+                     "daily-life",
+                     "social"
+                 ],
+        "example":  "The place felt formal and easy to use.",
+        "exampleZh":  "",
+        "synonyms":  [
+
+                     ],
+        "distractors":  [
+
+                        ],
+        "source":  "release-build",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "dailylife-0152",
+        "word":  "freezing",
+        "displayWord":  "freezing",
+        "phonetic":  "/freezing/",
+        "mean":  "extremely cold",
+        "pos":  "adj.",
+        "level":  "core",
+        "tags":  [
+                     "daily-life",
+                     "weather"
+                 ],
+        "example":  "The place felt freezing and easy to use.",
+        "exampleZh":  "",
+        "synonyms":  [
+
+                     ],
+        "distractors":  [
+
+                        ],
+        "source":  "release-build",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "dailylife-0153",
+        "word":  "full",
+        "displayWord":  "full",
+        "phonetic":  "/full/",
+        "mean":  "containing as much as possible",
+        "pos":  "adj.",
+        "level":  "core",
+        "tags":  [
+                     "daily-life",
+                     "description"
+                 ],
+        "example":  "The place felt full and easy to use.",
+        "exampleZh":  "",
+        "synonyms":  [
+
+                     ],
+        "distractors":  [
+
+                        ],
+        "source":  "release-build",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "dailylife-0154",
+        "word":  "helpful",
+        "displayWord":  "helpful",
+        "phonetic":  "/helpful/",
+        "mean":  "giving useful help",
+        "pos":  "adj.",
+        "level":  "core",
+        "tags":  [
+                     "daily-life",
+                     "social"
+                 ],
+        "example":  "The place felt helpful and easy to use.",
+        "exampleZh":  "",
+        "synonyms":  [
+
+                     ],
+        "distractors":  [
+
+                        ],
+        "source":  "release-build",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "dailylife-0155",
+        "word":  "late",
+        "displayWord":  "late",
+        "phonetic":  "/late/",
+        "mean":  "arriving after expected time",
+        "pos":  "adj.",
+        "level":  "core",
+        "tags":  [
+                     "daily-life",
+                     "routine"
+                 ],
+        "example":  "The place felt late and easy to use.",
+        "exampleZh":  "",
+        "synonyms":  [
+
+                     ],
+        "distractors":  [
+
+                        ],
+        "source":  "release-build",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "dailylife-0156",
+        "word":  "lazy",
+        "displayWord":  "lazy",
+        "phonetic":  "/lazy/",
+        "mean":  "not willing to work",
+        "pos":  "adj.",
+        "level":  "core",
+        "tags":  [
+                     "daily-life",
+                     "description"
+                 ],
+        "example":  "The place felt lazy and easy to use.",
+        "exampleZh":  "",
+        "synonyms":  [
+
+                     ],
+        "distractors":  [
+
+                        ],
+        "source":  "release-build",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "dailylife-0157",
+        "word":  "modern",
+        "displayWord":  "modern",
+        "phonetic":  "/modern/",
+        "mean":  "new in style or method",
+        "pos":  "adj.",
+        "level":  "core",
+        "tags":  [
+                     "daily-life",
+                     "technology"
+                 ],
+        "example":  "The place felt modern and easy to use.",
+        "exampleZh":  "",
+        "synonyms":  [
+
+                     ],
+        "distractors":  [
+
+                        ],
+        "source":  "release-build",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "dailylife-0158",
+        "word":  "ordinary",
+        "displayWord":  "ordinary",
+        "phonetic":  "/ordinary/",
+        "mean":  "not special",
+        "pos":  "adj.",
+        "level":  "core",
+        "tags":  [
+                     "daily-life",
+                     "description"
+                 ],
+        "example":  "The place felt ordinary and easy to use.",
+        "exampleZh":  "",
+        "synonyms":  [
+
+                     ],
+        "distractors":  [
+
+                        ],
+        "source":  "release-build",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "dailylife-0159",
+        "word":  "polite",
+        "displayWord":  "polite",
+        "phonetic":  "/polite/",
+        "mean":  "showing good manners",
+        "pos":  "adj.",
+        "level":  "core",
+        "tags":  [
+                     "daily-life",
+                     "social"
+                 ],
+        "example":  "The place felt polite and easy to use.",
+        "exampleZh":  "",
+        "synonyms":  [
+
+                     ],
+        "distractors":  [
+
+                        ],
+        "source":  "release-build",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "dailylife-0160",
+        "word":  "ready",
+        "displayWord":  "ready",
+        "phonetic":  "/ready/",
+        "mean":  "prepared",
+        "pos":  "adj.",
+        "level":  "core",
+        "tags":  [
+                     "daily-life",
+                     "routine"
+                 ],
+        "example":  "The place felt ready and easy to use.",
+        "exampleZh":  "",
+        "synonyms":  [
+
+                     ],
+        "distractors":  [
+
+                        ],
+        "source":  "release-build",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "dailylife-0161",
+        "word":  "abroad",
+        "displayWord":  "abroad",
+        "phonetic":  "/abroad/",
+        "mean":  "in another country",
+        "pos":  "adv.",
+        "level":  "core",
+        "tags":  [
+                     "daily-life",
+                     "travel"
+                 ],
+        "example":  "She handled the situation abroad at home.",
+        "exampleZh":  "",
+        "synonyms":  [
+
+                     ],
+        "distractors":  [
+
+                        ],
+        "source":  "release-build",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "dailylife-0162",
+        "word":  "afterward",
+        "displayWord":  "afterward",
+        "phonetic":  "/afterward/",
+        "mean":  "later",
+        "pos":  "adv.",
+        "level":  "core",
+        "tags":  [
+                     "daily-life",
+                     "routine"
+                 ],
+        "example":  "She handled the situation afterward at home.",
+        "exampleZh":  "",
+        "synonyms":  [
+
+                     ],
+        "distractors":  [
+
+                        ],
+        "source":  "release-build",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "dailylife-0163",
+        "word":  "carefully",
+        "displayWord":  "carefully",
+        "phonetic":  "/carefully/",
+        "mean":  "with attention",
+        "pos":  "adv.",
+        "level":  "core",
+        "tags":  [
+                     "daily-life",
+                     "routine"
+                 ],
+        "example":  "She handled the situation carefully at home.",
+        "exampleZh":  "",
+        "synonyms":  [
+
+                     ],
+        "distractors":  [
+
+                        ],
+        "source":  "release-build",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "dailylife-0164",
+        "word":  "nearby",
+        "displayWord":  "nearby",
+        "phonetic":  "/nearby/",
+        "mean":  "not far away",
+        "pos":  "adv.",
+        "level":  "core",
+        "tags":  [
+                     "daily-life",
+                     "location"
+                 ],
+        "example":  "She handled the situation nearby at home.",
+        "exampleZh":  "",
+        "synonyms":  [
+
+                     ],
+        "distractors":  [
+
+                        ],
+        "source":  "release-build",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "dailylife-0165",
+        "word":  "early",
+        "displayWord":  "early",
+        "phonetic":  "/early/",
+        "mean":  "before expected time",
+        "pos":  "adv.",
+        "level":  "core",
+        "tags":  [
+                     "daily-life",
+                     "routine"
+                 ],
+        "example":  "She handled the situation early at home.",
+        "exampleZh":  "",
+        "synonyms":  [
+
+                     ],
+        "distractors":  [
+
+                        ],
+        "source":  "release-build",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "dailylife-0166",
+        "word":  "finally",
+        "displayWord":  "finally",
+        "phonetic":  "/finally/",
+        "mean":  "at last",
+        "pos":  "adv.",
+        "level":  "core",
+        "tags":  [
+                     "daily-life",
+                     "routine"
+                 ],
+        "example":  "She handled the situation finally at home.",
+        "exampleZh":  "",
+        "synonyms":  [
+
+                     ],
+        "distractors":  [
+
+                        ],
+        "source":  "release-build",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "dailylife-0167",
+        "word":  "forward",
+        "displayWord":  "forward",
+        "phonetic":  "/forward/",
+        "mean":  "toward the front",
+        "pos":  "adv.",
+        "level":  "core",
+        "tags":  [
+                     "daily-life",
+                     "movement"
+                 ],
+        "example":  "She handled the situation forward at home.",
+        "exampleZh":  "",
+        "synonyms":  [
+
+                     ],
+        "distractors":  [
+
+                        ],
+        "source":  "release-build",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "dailylife-0168",
+        "word":  "hardly",
+        "displayWord":  "hardly",
+        "phonetic":  "/hardly/",
+        "mean":  "almost not",
+        "pos":  "adv.",
+        "level":  "core",
+        "tags":  [
+                     "daily-life",
+                     "conversation"
+                 ],
+        "example":  "She handled the situation hardly at home.",
+        "exampleZh":  "",
+        "synonyms":  [
+
+                     ],
+        "distractors":  [
+
+                        ],
+        "source":  "release-build",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "dailylife-0169",
+        "word":  "indoors",
+        "displayWord":  "indoors",
+        "phonetic":  "/indoors/",
+        "mean":  "inside a building",
+        "pos":  "adv.",
+        "level":  "core",
+        "tags":  [
+                     "daily-life",
+                     "home"
+                 ],
+        "example":  "She handled the situation indoors at home.",
+        "exampleZh":  "",
+        "synonyms":  [
+
+                     ],
+        "distractors":  [
+
+                        ],
+        "source":  "release-build",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "dailylife-0170",
+        "word":  "lately",
+        "displayWord":  "lately",
+        "phonetic":  "/lately/",
+        "mean":  "recently",
+        "pos":  "adv.",
+        "level":  "core",
+        "tags":  [
+                     "daily-life",
+                     "conversation"
+                 ],
+        "example":  "She handled the situation lately at home.",
+        "exampleZh":  "",
+        "synonyms":  [
+
+                     ],
+        "distractors":  [
+
+                        ],
+        "source":  "release-build",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "dailylife-0171",
+        "word":  "downtown",
+        "displayWord":  "downtown",
+        "phonetic":  "/downtown/",
+        "mean":  "in or toward the city center",
+        "pos":  "adv.",
+        "level":  "core",
+        "tags":  [
+                     "daily-life",
+                     "community"
+                 ],
+        "example":  "She handled the situation downtown at home.",
+        "exampleZh":  "",
+        "synonyms":  [
+
+                     ],
+        "distractors":  [
+
+                        ],
+        "source":  "release-build",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "dailylife-0172",
+        "word":  "outside",
+        "displayWord":  "outside",
+        "phonetic":  "/outside/",
+        "mean":  "in the open air",
+        "pos":  "adv.",
+        "level":  "core",
+        "tags":  [
+                     "daily-life",
+                     "movement"
+                 ],
+        "example":  "She handled the situation outside at home.",
+        "exampleZh":  "",
+        "synonyms":  [
+
+                     ],
+        "distractors":  [
+
+                        ],
+        "source":  "release-build",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "dailylife-0173",
+        "word":  "quietly",
+        "displayWord":  "quietly",
+        "phonetic":  "/quietly/",
+        "mean":  "with little noise",
+        "pos":  "adv.",
+        "level":  "core",
+        "tags":  [
+                     "daily-life",
+                     "description"
+                 ],
+        "example":  "She handled the situation quietly at home.",
+        "exampleZh":  "",
+        "synonyms":  [
+
+                     ],
+        "distractors":  [
+
+                        ],
+        "source":  "release-build",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "dailylife-0174",
+        "word":  "rarely",
+        "displayWord":  "rarely",
+        "phonetic":  "/rarely/",
+        "mean":  "not often",
+        "pos":  "adv.",
+        "level":  "core",
+        "tags":  [
+                     "daily-life",
+                     "routine"
+                 ],
+        "example":  "She handled the situation rarely at home.",
+        "exampleZh":  "",
+        "synonyms":  [
+
+                     ],
+        "distractors":  [
+
+                        ],
+        "source":  "release-build",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "dailylife-0175",
+        "word":  "safely",
+        "displayWord":  "safely",
+        "phonetic":  "/safely/",
+        "mean":  "without danger",
+        "pos":  "adv.",
+        "level":  "core",
+        "tags":  [
+                     "daily-life",
+                     "safety"
+                 ],
+        "example":  "She handled the situation safely at home.",
+        "exampleZh":  "",
+        "synonyms":  [
+
+                     ],
+        "distractors":  [
+
+                        ],
+        "source":  "release-build",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "dailylife-0176",
+        "word":  "slowly",
+        "displayWord":  "slowly",
+        "phonetic":  "/slowly/",
+        "mean":  "at low speed",
+        "pos":  "adv.",
+        "level":  "core",
+        "tags":  [
+                     "daily-life",
+                     "description"
+                 ],
+        "example":  "She handled the situation slowly at home.",
+        "exampleZh":  "",
+        "synonyms":  [
+
+                     ],
+        "distractors":  [
+
+                        ],
+        "source":  "release-build",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "dailylife-0177",
+        "word":  "together",
+        "displayWord":  "together",
+        "phonetic":  "/together/",
+        "mean":  "with one another",
+        "pos":  "adv.",
+        "level":  "core",
+        "tags":  [
+                     "daily-life",
+                     "social"
+                 ],
+        "example":  "She handled the situation together at home.",
+        "exampleZh":  "",
+        "synonyms":  [
+
+                     ],
+        "distractors":  [
+
+                        ],
+        "source":  "release-build",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "dailylife-0178",
+        "word":  "upstairs",
+        "displayWord":  "upstairs",
+        "phonetic":  "/upstairs/",
+        "mean":  "to a higher floor",
+        "pos":  "adv.",
+        "level":  "core",
+        "tags":  [
+                     "daily-life",
+                     "housing"
+                 ],
+        "example":  "She handled the situation upstairs at home.",
+        "exampleZh":  "",
+        "synonyms":  [
+
+                     ],
+        "distractors":  [
+
+                        ],
+        "source":  "release-build",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "dailylife-0179",
+        "word":  "weekly",
+        "displayWord":  "weekly",
+        "phonetic":  "/weekly/",
+        "mean":  "every week",
+        "pos":  "adv.",
+        "level":  "core",
+        "tags":  [
+                     "daily-life",
+                     "routine"
+                 ],
+        "example":  "She handled the situation weekly at home.",
+        "exampleZh":  "",
+        "synonyms":  [
+
+                     ],
+        "distractors":  [
+
+                        ],
+        "source":  "release-build",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "dailylife-0180",
+        "word":  "yesterday",
+        "displayWord":  "yesterday",
+        "phonetic":  "/yesterday/",
+        "mean":  "on the previous day",
+        "pos":  "adv.",
+        "level":  "core",
+        "tags":  [
+                     "daily-life",
+                     "time"
+                 ],
+        "example":  "She handled the situation yesterday at home.",
+        "exampleZh":  "",
+        "synonyms":  [
+
+                     ],
+        "distractors":  [
+
+                        ],
+        "source":  "release-build",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "dailylife-0181",
+        "word":  "toothbrush",
+        "displayWord":  "toothbrush",
+        "phonetic":  "/toothbrush/",
+        "mean":  "tool for cleaning teeth",
+        "pos":  "n.",
+        "level":  "core",
+        "tags":  [
+                     "daily-life",
+                     "health"
+                 ],
+        "example":  "I dealt with the toothbrush this morning.",
+        "exampleZh":  "",
+        "synonyms":  [
+
+                     ],
+        "distractors":  [
+
+                        ],
+        "source":  "release-build",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "dailylife-0182",
+        "word":  "toothpaste",
+        "displayWord":  "toothpaste",
+        "phonetic":  "/toothpaste/",
+        "mean":  "paste for brushing teeth",
+        "pos":  "n.",
+        "level":  "core",
+        "tags":  [
+                     "daily-life",
+                     "health"
+                 ],
+        "example":  "I dealt with the toothpaste this morning.",
+        "exampleZh":  "",
+        "synonyms":  [
+
+                     ],
+        "distractors":  [
+
+                        ],
+        "source":  "release-build",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "dailylife-0183",
+        "word":  "shampoo",
+        "displayWord":  "shampoo",
+        "phonetic":  "/shampoo/",
+        "mean":  "liquid for washing hair",
+        "pos":  "n.",
+        "level":  "core",
+        "tags":  [
+                     "daily-life",
+                     "home"
+                 ],
+        "example":  "I dealt with the shampoo this morning.",
+        "exampleZh":  "",
+        "synonyms":  [
+
+                     ],
+        "distractors":  [
+
+                        ],
+        "source":  "release-build",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "dailylife-0184",
+        "word":  "soap",
+        "displayWord":  "soap",
+        "phonetic":  "/soap/",
+        "mean":  "substance for washing",
+        "pos":  "n.",
+        "level":  "core",
+        "tags":  [
+                     "daily-life",
+                     "home"
+                 ],
+        "example":  "I dealt with the soap this morning.",
+        "exampleZh":  "",
+        "synonyms":  [
+
+                     ],
+        "distractors":  [
+
+                        ],
+        "source":  "release-build",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "dailylife-0185",
+        "word":  "medicine",
+        "displayWord":  "medicine",
+        "phonetic":  "/medicine/",
+        "mean":  "drug for treating illness",
+        "pos":  "n.",
+        "level":  "core",
+        "tags":  [
+                     "daily-life",
+                     "health"
+                 ],
+        "example":  "I dealt with the medicine this morning.",
+        "exampleZh":  "",
+        "synonyms":  [
+
+                     ],
+        "distractors":  [
+
+                        ],
+        "source":  "release-build",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "dailylife-0186",
+        "word":  "bandage",
+        "displayWord":  "bandage",
+        "phonetic":  "/bandage/",
+        "mean":  "strip for covering a wound",
+        "pos":  "n.",
+        "level":  "core",
+        "tags":  [
+                     "daily-life",
+                     "health"
+                 ],
+        "example":  "I dealt with the bandage this morning.",
+        "exampleZh":  "",
+        "synonyms":  [
+
+                     ],
+        "distractors":  [
+
+                        ],
+        "source":  "release-build",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "dailylife-0187",
+        "word":  "thermometer",
+        "displayWord":  "thermometer",
+        "phonetic":  "/thermometer/",
+        "mean":  "tool for measuring temperature",
+        "pos":  "n.",
+        "level":  "core",
+        "tags":  [
+                     "daily-life",
+                     "health"
+                 ],
+        "example":  "I dealt with the thermometer this morning.",
+        "exampleZh":  "",
+        "synonyms":  [
+
+                     ],
+        "distractors":  [
+
+                        ],
+        "source":  "release-build",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "dailylife-0188",
+        "word":  "keyboard",
+        "displayWord":  "keyboard",
+        "phonetic":  "/keyboard/",
+        "mean":  "device with keys for typing",
+        "pos":  "n.",
+        "level":  "core",
+        "tags":  [
+                     "daily-life",
+                     "technology"
+                 ],
+        "example":  "I dealt with the keyboard this morning.",
+        "exampleZh":  "",
+        "synonyms":  [
+
+                     ],
+        "distractors":  [
+
+                        ],
+        "source":  "release-build",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "dailylife-0189",
+        "word":  "notebook",
+        "displayWord":  "notebook",
+        "phonetic":  "/notebook/",
+        "mean":  "book for notes",
+        "pos":  "n.",
+        "level":  "core",
+        "tags":  [
+                     "daily-life",
+                     "study"
+                 ],
+        "example":  "I dealt with the notebook this morning.",
+        "exampleZh":  "",
+        "synonyms":  [
+
+                     ],
+        "distractors":  [
+
+                        ],
+        "source":  "release-build",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "dailylife-0190",
+        "word":  "backpack",
+        "displayWord":  "backpack",
+        "phonetic":  "/backpack/",
+        "mean":  "bag carried on the back",
+        "pos":  "n.",
+        "level":  "core",
+        "tags":  [
+                     "daily-life",
+                     "travel"
+                 ],
+        "example":  "I dealt with the backpack this morning.",
+        "exampleZh":  "",
+        "synonyms":  [
+
+                     ],
+        "distractors":  [
+
+                        ],
+        "source":  "release-build",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "dailylife-0191",
+        "word":  "sweater",
+        "displayWord":  "sweater",
+        "phonetic":  "/sweater/",
+        "mean":  "warm knitted top",
+        "pos":  "n.",
+        "level":  "core",
+        "tags":  [
+                     "daily-life",
+                     "clothing"
+                 ],
+        "example":  "I dealt with the sweater this morning.",
+        "exampleZh":  "",
+        "synonyms":  [
+
+                     ],
+        "distractors":  [
+
+                        ],
+        "source":  "release-build",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "dailylife-0192",
+        "word":  "jacket",
+        "displayWord":  "jacket",
+        "phonetic":  "/jacket/",
+        "mean":  "short outer coat",
+        "pos":  "n.",
+        "level":  "core",
+        "tags":  [
+                     "daily-life",
+                     "clothing"
+                 ],
+        "example":  "I dealt with the jacket this morning.",
+        "exampleZh":  "",
+        "synonyms":  [
+
+                     ],
+        "distractors":  [
+
+                        ],
+        "source":  "release-build",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "dailylife-0193",
+        "word":  "socks",
+        "displayWord":  "socks",
+        "phonetic":  "/socks/",
+        "mean":  "soft coverings for feet",
+        "pos":  "n.",
+        "level":  "core",
+        "tags":  [
+                     "daily-life",
+                     "clothing"
+                 ],
+        "example":  "I dealt with the socks this morning.",
+        "exampleZh":  "",
+        "synonyms":  [
+
+                     ],
+        "distractors":  [
+
+                        ],
+        "source":  "release-build",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "dailylife-0194",
+        "word":  "sneakers",
+        "displayWord":  "sneakers",
+        "phonetic":  "/sneakers/",
+        "mean":  "casual sports shoes",
+        "pos":  "n.",
+        "level":  "core",
+        "tags":  [
+                     "daily-life",
+                     "clothing"
+                 ],
+        "example":  "I dealt with the sneakers this morning.",
+        "exampleZh":  "",
+        "synonyms":  [
+
+                     ],
+        "distractors":  [
+
+                        ],
+        "source":  "release-build",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "dailylife-0195",
+        "word":  "mattress",
+        "displayWord":  "mattress",
+        "phonetic":  "/mattress/",
+        "mean":  "soft bed support",
+        "pos":  "n.",
+        "level":  "core",
+        "tags":  [
+                     "daily-life",
+                     "home"
+                 ],
+        "example":  "I dealt with the mattress this morning.",
+        "exampleZh":  "",
+        "synonyms":  [
+
+                     ],
+        "distractors":  [
+
+                        ],
+        "source":  "release-build",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "dailylife-0196",
+        "word":  "remote",
+        "displayWord":  "remote",
+        "phonetic":  "/remote/",
+        "mean":  "device for controlling electronics",
+        "pos":  "n.",
+        "level":  "core",
+        "tags":  [
+                     "daily-life",
+                     "technology"
+                 ],
+        "example":  "I dealt with the remote this morning.",
+        "exampleZh":  "",
+        "synonyms":  [
+
+                     ],
+        "distractors":  [
+
+                        ],
+        "source":  "release-build",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "dailylife-0197",
+        "word":  "headphones",
+        "displayWord":  "headphones",
+        "phonetic":  "/headphones/",
+        "mean":  "equipment worn on ears to hear sound",
+        "pos":  "n.",
+        "level":  "core",
+        "tags":  [
+                     "daily-life",
+                     "technology"
+                 ],
+        "example":  "I dealt with the headphones this morning.",
+        "exampleZh":  "",
+        "synonyms":  [
+
+                     ],
+        "distractors":  [
+
+                        ],
+        "source":  "release-build",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "dailylife-0198",
+        "word":  "slippers",
+        "displayWord":  "slippers",
+        "phonetic":  "/slippers/",
+        "mean":  "soft indoor shoes",
+        "pos":  "n.",
+        "level":  "core",
+        "tags":  [
+                     "daily-life",
+                     "clothing"
+                 ],
+        "example":  "I dealt with the slippers this morning.",
+        "exampleZh":  "",
+        "synonyms":  [
+
+                     ],
+        "distractors":  [
+
+                        ],
+        "source":  "release-build",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "dailylife-0199",
+        "word":  "bicycle",
+        "displayWord":  "bicycle",
+        "phonetic":  "/bicycle/",
+        "mean":  "two-wheeled vehicle",
+        "pos":  "n.",
+        "level":  "core",
+        "tags":  [
+                     "daily-life",
+                     "transportation"
+                 ],
+        "example":  "I dealt with the bicycle this morning.",
+        "exampleZh":  "",
+        "synonyms":  [
+
+                     ],
+        "distractors":  [
+
+                        ],
+        "source":  "release-build",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "dailylife-0200",
+        "word":  "calendar",
+        "displayWord":  "calendar",
+        "phonetic":  "/calendar/",
+        "mean":  "table of dates",
+        "pos":  "n.",
+        "level":  "core",
+        "tags":  [
+                     "daily-life",
+                     "time"
+                 ],
+        "example":  "I dealt with the calendar this morning.",
+        "exampleZh":  "",
+        "synonyms":  [
+
+                     ],
+        "distractors":  [
+
+                        ],
+        "source":  "release-build",
+        "updatedAt":  "2026-04-08"
+    }
+]

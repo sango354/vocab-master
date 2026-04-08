@@ -1,0 +1,26 @@
+﻿{
+    "id":  "dailylife-0001",
+    "word":  "refund",
+    "displayWord":  "Refund",
+    "phonetic":  "/refund/",
+    "mean":  "money returned",
+    "pos":  "n.",
+    "level":  "core",
+    "tags":  [
+                 "daily-life",
+                 "shopping"
+             ],
+    "example":  "The store issued a refund within two days.",
+    "exampleZh":  "",
+    "synonyms":  [
+                     "repayment",
+                     "return payment"
+                 ],
+    "distractors":  [
+                        "receipt",
+                        "discount",
+                        "reservation"
+                    ],
+    "source":  "manual-curation",
+    "updatedAt":  "2026-04-08"
+}

@@ -1,0 +1,26 @@
+﻿{
+    "id":  "school7000-0001",
+    "word":  "coherent",
+    "displayWord":  "Coherent",
+    "phonetic":  "/coherent/",
+    "mean":  "logically connected",
+    "pos":  "adj.",
+    "level":  "core",
+    "tags":  [
+                 "academic",
+                 "writing"
+             ],
+    "example":  "Her argument was clear and coherent.",
+    "exampleZh":  "",
+    "synonyms":  [
+                     "logical",
+                     "consistent"
+                 ],
+    "distractors":  [
+                        "ambiguous",
+                        "crowded",
+                        "formal"
+                    ],
+    "source":  "manual-curation",
+    "updatedAt":  "2026-04-08"
+}

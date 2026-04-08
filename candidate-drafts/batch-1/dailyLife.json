@@ -1,0 +1,522 @@
+﻿[
+    {
+        "id":  "dailylife-0001",
+        "word":  "refund",
+        "displayWord":  "Refund",
+        "phonetic":  "/refund/",
+        "mean":  "money returned",
+        "pos":  "n.",
+        "level":  "core",
+        "tags":  [
+                     "daily-life",
+                     "shopping"
+                 ],
+        "example":  "The store issued a refund within two days.",
+        "exampleZh":  "",
+        "synonyms":  [
+                         "repayment",
+                         "return payment"
+                     ],
+        "distractors":  [
+                            "receipt",
+                            "discount",
+                            "reservation"
+                        ],
+        "source":  "batch-1-curation",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "dailylife-0002",
+        "word":  "coupon",
+        "displayWord":  "Coupon",
+        "phonetic":  "/coupon/",
+        "mean":  "discount ticket",
+        "pos":  "n.",
+        "level":  "core",
+        "tags":  [
+                     "daily-life",
+                     "shopping"
+                 ],
+        "example":  "I used a coupon at the supermarket.",
+        "exampleZh":  "",
+        "synonyms":  [
+                         "voucher",
+                         "discount slip"
+                     ],
+        "distractors":  [
+                            "bill",
+                            "receipt",
+                            "invoice"
+                        ],
+        "source":  "batch-1-curation",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "dailylife-0003",
+        "word":  "checkout",
+        "displayWord":  "Checkout",
+        "phonetic":  "/checkout/",
+        "mean":  "payment counter",
+        "pos":  "n.",
+        "level":  "core",
+        "tags":  [
+                     "daily-life",
+                     "shopping"
+                 ],
+        "example":  "The line at the checkout was very long.",
+        "exampleZh":  "",
+        "synonyms":  [
+                         "cashier",
+                         "register area"
+                     ],
+        "distractors":  [
+                            "aisle",
+                            "grocery",
+                            "neighbor"
+                        ],
+        "source":  "batch-1-curation",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "dailylife-0004",
+        "word":  "platform",
+        "displayWord":  "Platform",
+        "phonetic":  "/platform/",
+        "mean":  "train waiting area",
+        "pos":  "n.",
+        "level":  "core",
+        "tags":  [
+                     "daily-life",
+                     "transportation"
+                 ],
+        "example":  "The train leaves from platform three.",
+        "exampleZh":  "",
+        "synonyms":  [
+                         "station area",
+                         "boarding area"
+                     ],
+        "distractors":  [
+                            "receipt",
+                            "reservation",
+                            "bill"
+                        ],
+        "source":  "batch-1-curation",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "dailylife-0005",
+        "word":  "intersection",
+        "displayWord":  "Intersection",
+        "phonetic":  "/intersection/",
+        "mean":  "road crossing",
+        "pos":  "n.",
+        "level":  "core",
+        "tags":  [
+                     "daily-life",
+                     "transportation"
+                 ],
+        "example":  "Turn left at the next intersection.",
+        "exampleZh":  "",
+        "synonyms":  [
+                         "crossroads",
+                         "junction"
+                     ],
+        "distractors":  [
+                            "aisle",
+                            "bill",
+                            "neighbor"
+                        ],
+        "source":  "batch-1-curation",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "dailylife-0006",
+        "word":  "commuter pass",
+        "displayWord":  "Commuter Pass",
+        "phonetic":  "/commuter pass/",
+        "mean":  "travel ticket for regular trips",
+        "pos":  "n.",
+        "level":  "core",
+        "tags":  [
+                     "daily-life",
+                     "transportation"
+                 ],
+        "example":  "A commuter pass can save money each month.",
+        "exampleZh":  "",
+        "synonyms":  [
+                         "travel pass",
+                         "season ticket"
+                     ],
+        "distractors":  [
+                            "discount",
+                            "reservation",
+                            "receipt"
+                        ],
+        "source":  "batch-1-curation",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "dailylife-0007",
+        "word":  "prescribe",
+        "displayWord":  "Prescribe",
+        "phonetic":  "/prescribe/",
+        "mean":  "order medicine",
+        "pos":  "v.",
+        "level":  "core",
+        "tags":  [
+                     "daily-life",
+                     "health"
+                 ],
+        "example":  "The doctor prescribed antibiotics.",
+        "exampleZh":  "",
+        "synonyms":  [
+                         "order",
+                         "recommend medically"
+                     ],
+        "distractors":  [
+                            "repair",
+                            "recommend",
+                            "arrange"
+                        ],
+        "source":  "batch-1-curation",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "dailylife-0008",
+        "word":  "symptom",
+        "displayWord":  "Symptom",
+        "phonetic":  "/symptom/",
+        "mean":  "sign of illness",
+        "pos":  "n.",
+        "level":  "core",
+        "tags":  [
+                     "daily-life",
+                     "health"
+                 ],
+        "example":  "A fever is a common symptom of the flu.",
+        "exampleZh":  "",
+        "synonyms":  [
+                         "sign",
+                         "indicator"
+                     ],
+        "distractors":  [
+                            "receipt",
+                            "discount",
+                            "coupon"
+                        ],
+        "source":  "batch-1-curation",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "dailylife-0009",
+        "word":  "ointment",
+        "displayWord":  "Ointment",
+        "phonetic":  "/ointment/",
+        "mean":  "medical cream",
+        "pos":  "n.",
+        "level":  "core",
+        "tags":  [
+                     "daily-life",
+                     "health"
+                 ],
+        "example":  "Apply the ointment twice a day.",
+        "exampleZh":  "",
+        "synonyms":  [
+                         "cream",
+                         "salve"
+                     ],
+        "distractors":  [
+                            "detergent",
+                            "laundry",
+                            "grocery"
+                        ],
+        "source":  "batch-1-curation",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "dailylife-0010",
+        "word":  "appointment",
+        "displayWord":  "Appointment",
+        "phonetic":  "/appointment/",
+        "mean":  "arranged meeting time",
+        "pos":  "n.",
+        "level":  "core",
+        "tags":  [
+                     "daily-life",
+                     "service"
+                 ],
+        "example":  "I have a dentist appointment tomorrow.",
+        "exampleZh":  "",
+        "synonyms":  [
+                         "booking",
+                         "scheduled meeting"
+                     ],
+        "distractors":  [
+                            "aisle",
+                            "receipt",
+                            "neighbor"
+                        ],
+        "source":  "batch-1-curation",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "dailylife-0011",
+        "word":  "appliance",
+        "displayWord":  "Appliance",
+        "phonetic":  "/appliance/",
+        "mean":  "household machine",
+        "pos":  "n.",
+        "level":  "core",
+        "tags":  [
+                     "daily-life",
+                     "home"
+                 ],
+        "example":  "The store sells kitchen appliances.",
+        "exampleZh":  "",
+        "synonyms":  [
+                         "device",
+                         "machine"
+                     ],
+        "distractors":  [
+                            "reservation",
+                            "bill",
+                            "discount"
+                        ],
+        "source":  "batch-1-curation",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "dailylife-0012",
+        "word":  "vacuum",
+        "displayWord":  "Vacuum",
+        "phonetic":  "/vacuum/",
+        "mean":  "clean with suction",
+        "pos":  "v.",
+        "level":  "core",
+        "tags":  [
+                     "daily-life",
+                     "home"
+                 ],
+        "example":  "I need to vacuum the living room.",
+        "exampleZh":  "",
+        "synonyms":  [
+                         "clean",
+                         "suction-clean"
+                     ],
+        "distractors":  [
+                            "repair",
+                            "compare",
+                            "submit"
+                        ],
+        "source":  "batch-1-curation",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "dailylife-0013",
+        "word":  "messy",
+        "displayWord":  "Messy",
+        "phonetic":  "/messy/",
+        "mean":  "untidy",
+        "pos":  "adj.",
+        "level":  "core",
+        "tags":  [
+                     "daily-life",
+                     "home"
+                 ],
+        "example":  "Her desk is messy after a busy week.",
+        "exampleZh":  "",
+        "synonyms":  [
+                         "untidy",
+                         "disorganized"
+                     ],
+        "distractors":  [
+                            "formal",
+                            "patient",
+                            "adjacent"
+                        ],
+        "source":  "batch-1-curation",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "dailylife-0014",
+        "word":  "spacious",
+        "displayWord":  "Spacious",
+        "phonetic":  "/spacious/",
+        "mean":  "having a lot of room",
+        "pos":  "adj.",
+        "level":  "core",
+        "tags":  [
+                     "daily-life",
+                     "housing"
+                 ],
+        "example":  "The apartment is small but surprisingly spacious.",
+        "exampleZh":  "",
+        "synonyms":  [
+                         "roomy",
+                         "large"
+                     ],
+        "distractors":  [
+                            "crowded",
+                            "formal",
+                            "durable"
+                        ],
+        "source":  "batch-1-curation",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "dailylife-0015",
+        "word":  "landlord",
+        "displayWord":  "Landlord",
+        "phonetic":  "/landlord/",
+        "mean":  "property owner",
+        "pos":  "n.",
+        "level":  "core",
+        "tags":  [
+                     "daily-life",
+                     "housing"
+                 ],
+        "example":  "The landlord fixed the broken window.",
+        "exampleZh":  "",
+        "synonyms":  [
+                         "property owner",
+                         "owner"
+                     ],
+        "distractors":  [
+                            "neighbor",
+                            "client",
+                            "vendor"
+                        ],
+        "source":  "batch-1-curation",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "dailylife-0016",
+        "word":  "utility bill",
+        "displayWord":  "Utility Bill",
+        "phonetic":  "/utility bill/",
+        "mean":  "payment for home services",
+        "pos":  "n.",
+        "level":  "core",
+        "tags":  [
+                     "daily-life",
+                     "finance"
+                 ],
+        "example":  "Utility bills are usually higher in summer.",
+        "exampleZh":  "",
+        "synonyms":  [
+                         "service bill",
+                         "household bill"
+                     ],
+        "distractors":  [
+                            "receipt",
+                            "coupon",
+                            "discount"
+                        ],
+        "source":  "batch-1-curation",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "dailylife-0017",
+        "word":  "casual",
+        "displayWord":  "Casual",
+        "phonetic":  "/casual/",
+        "mean":  "informal",
+        "pos":  "adj.",
+        "level":  "core",
+        "tags":  [
+                     "daily-life",
+                     "social"
+                 ],
+        "example":  "The party has a casual dress code.",
+        "exampleZh":  "",
+        "synonyms":  [
+                         "informal",
+                         "relaxed"
+                     ],
+        "distractors":  [
+                            "formal",
+                            "inevitable",
+                            "durable"
+                        ],
+        "source":  "batch-1-curation",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "dailylife-0018",
+        "word":  "host",
+        "displayWord":  "Host",
+        "phonetic":  "/host/",
+        "mean":  "person receiving guests",
+        "pos":  "n.",
+        "level":  "core",
+        "tags":  [
+                     "daily-life",
+                     "social"
+                 ],
+        "example":  "The host greeted everyone at the door.",
+        "exampleZh":  "",
+        "synonyms":  [
+                         "organizer",
+                         "welcomer"
+                     ],
+        "distractors":  [
+                            "neighbor",
+                            "client",
+                            "vendor"
+                        ],
+        "source":  "batch-1-curation",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "dailylife-0019",
+        "word":  "borrow",
+        "displayWord":  "Borrow",
+        "phonetic":  "/borrow/",
+        "mean":  "take and return later",
+        "pos":  "v.",
+        "level":  "core",
+        "tags":  [
+                     "daily-life",
+                     "social"
+                 ],
+        "example":  "Can I borrow your umbrella for a moment?",
+        "exampleZh":  "",
+        "synonyms":  [
+                         "use temporarily",
+                         "take on loan"
+                     ],
+        "distractors":  [
+                            "repair",
+                            "confirm",
+                            "delay"
+                        ],
+        "source":  "batch-1-curation",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "dailylife-0020",
+        "word":  "ingredient",
+        "displayWord":  "Ingredient",
+        "phonetic":  "/ingredient/",
+        "mean":  "food component",
+        "pos":  "n.",
+        "level":  "core",
+        "tags":  [
+                     "daily-life",
+                     "food"
+                 ],
+        "example":  "Check the ingredients before cooking.",
+        "exampleZh":  "",
+        "synonyms":  [
+                         "component",
+                         "item"
+                     ],
+        "distractors":  [
+                            "detergent",
+                            "receipt",
+                            "reservation"
+                        ],
+        "source":  "batch-1-curation",
+        "updatedAt":  "2026-04-08"
+    }
+]

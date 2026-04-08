@@ -1,0 +1,17 @@
+[
+  { "word": "Implement", "phonetic": "/ˈɪmplɪment/", "mean": "實施; 執行", "pos": "v." },
+  { "word": "Revenue", "phonetic": "/ˈrevənuː/", "mean": "收入; 收益", "pos": "n." },
+  { "word": "Commute", "phonetic": "/kəˈmjuːt/", "mean": "通勤", "pos": "v." },
+  { "word": "Negotiate", "phonetic": "/nɪˈɡoʊʃieɪt/", "mean": "協商; 談判", "pos": "v." },
+  { "word": "Compensate", "phonetic": "/ˈkɑːmpenseɪt/", "mean": "補償; 賠償", "pos": "v." },
+  { "word": "Proposal", "phonetic": "/prəˈpoʊzl/", "mean": "提案", "pos": "n." },
+  { "word": "Evaluate", "phonetic": "/ɪˈvæljueɪt/", "mean": "評估", "pos": "v." },
+  { "word": "Deadline", "phonetic": "/ˈdedlaɪn/", "mean": "截止期限", "pos": "n." },
+  { "word": "Maintain", "phonetic": "/meɪnˈteɪn/", "mean": "維持; 保養", "pos": "v." },
+  { "word": "Schedule", "phonetic": "/ˈskedʒuːl/", "mean": "行程; 時程表", "pos": "n." },
+  { "word": "Client", "phonetic": "/ˈklaɪənt/", "mean": "客戶", "pos": "n." },
+  { "word": "Efficient", "phonetic": "/ɪˈfɪʃnt/", "mean": "有效率的", "pos": "adj." },
+  { "word": "Budget", "phonetic": "/ˈbʌdʒɪt/", "mean": "預算", "pos": "n." },
+  { "word": "Submit", "phonetic": "/səbˈmɪt/", "mean": "提交", "pos": "v." },
+  { "word": "Contract", "phonetic": "/ˈkɑːntrækt/", "mean": "合約", "pos": "n." }
+]

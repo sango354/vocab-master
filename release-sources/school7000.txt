@@ -1,0 +1,201 @@
+# school7000 release source
+notion|n.|idea|academic,reading
+hypothesis|n.|proposed explanation|academic,science
+dimension|n.|aspect|academic,reading
+phenomenon|n.|observable event|academic,science
+context|n.|surrounding information|academic,reading
+criterion|n.|standard for judgment|academic,assessment
+framework|n.|basic structure|academic,analysis
+analysis|n.|careful study|academic,writing
+approach|n.|method|academic,reading
+concept|n.|general idea|academic,reading
+principle|n.|basic truth|academic,science
+theory|n.|system of ideas|academic,science
+factor|n.|important element|academic,reading
+insight|n.|deep understanding|academic,reading
+perspective|n.|point of view|academic,discussion
+structure|n.|arrangement of parts|academic,writing
+method|n.|way of doing something|academic,science
+issue|n.|important problem|academic,discussion
+evidence|n.|proof|academic,science
+resource|n.|useful source|academic,study
+consequence|n.|result|academic,reading
+trend|n.|general direction of change|academic,reading
+conflict|n.|serious disagreement|academic,society
+emphasis|n.|special importance|academic,writing
+summary|n.|short main account|academic,writing
+contrast|n.|clear difference|academic,reading
+innovation|n.|new idea or method|academic,science
+interpretation|n.|explanation of meaning|academic,reading
+foundation|n.|basic support|academic,analysis
+mechanism|n.|system or process|academic,science
+category|n.|group of similar things|academic,classification
+capacity|n.|ability or size|academic,reading
+implication|n.|suggested meaning|academic,reading
+sequence|n.|ordered series|academic,reading
+variation|n.|difference in form|academic,science
+region|n.|area|academic,geography
+significance|n.|importance|academic,writing
+assumption|n.|belief taken as true|academic,logic
+distribution|n.|spreading out|academic,science
+conclusion|n.|final judgment|academic,writing
+alternative|n.|different choice|academic,discussion
+circumstance|n.|condition surrounding an event|academic,reading
+component|n.|part of a whole|academic,science
+controversy|n.|public disagreement|academic,discussion
+discipline|n.|field of study|academic,education
+equilibrium|n.|state of balance|academic,science
+hierarchy|n.|ranked order|academic,society
+justification|n.|good reason|academic,writing
+metaphor|n.|figurative comparison|academic,literature
+motive|n.|reason for action|academic,reading
+paradox|n.|seeming contradiction|academic,logic
+probability|n.|likelihood|academic,math
+proportion|n.|part in relation to whole|academic,math
+restriction|n.|limitation|academic,policy
+simulation|n.|model of real conditions|academic,science
+tendency|n.|usual direction or habit|academic,reading
+utility|n.|usefulness|academic,analysis
+version|n.|particular form|academic,reading
+volume|n.|amount or size|academic,science
+welfare|n.|health and happiness|academic,society
+accumulate|v.|gather over time|academic,reading
+differentiate|v.|show a difference|academic,writing
+interpret|v.|explain meaning|academic,reading
+constrain|v.|limit|academic,reading
+retain|v.|keep|academic,memory
+adapt|v.|adjust to new conditions|academic,reading
+assume|v.|accept without proof|academic,logic
+calculate|v.|work out by numbers|academic,math
+coincide|v.|happen together|academic,reading
+compile|v.|collect into one work|academic,writing
+conclude|v.|decide after thinking|academic,writing
+convert|v.|change into another form|academic,science
+define|v.|state the meaning of|academic,writing
+derive|v.|get from a source|academic,reading
+detect|v.|discover|academic,science
+distinguish|v.|tell apart|academic,reading
+emerge|v.|come into view|academic,reading
+enhance|v.|improve|academic,writing
+estimate|v.|roughly judge value|academic,math
+exclude|v.|leave out|academic,analysis
+expand|v.|become larger|academic,writing
+expose|v.|make known|academic,reading
+generate|v.|produce|academic,science
+illustrate|v.|make clear with examples|academic,writing
+imply|v.|suggest without saying directly|academic,reading
+incorporate|v.|include as part|academic,writing
+indicate|v.|show|academic,reading
+justify|v.|show to be right|academic,writing
+obtain|v.|get|academic,reading
+perceive|v.|notice or understand|academic,reading
+predict|v.|say in advance|academic,science
+preserve|v.|keep from harm|academic,science
+pursue|v.|continue toward a goal|academic,education
+reflect|v.|show or think carefully|academic,writing
+reinforce|v.|make stronger|academic,reading
+respond|v.|react|academic,discussion
+restore|v.|bring back to earlier condition|academic,history
+transform|v.|change completely|academic,science
+undergo|v.|experience|academic,reading
+verify|v.|check that something is true|academic,science
+coherent|adj.|logically connected|academic,writing
+fundamental|adj.|basic and important|academic,reading
+rigid|adj.|not flexible|academic,description
+subtle|adj.|not obvious|academic,reading
+vivid|adj.|clear and detailed|academic,writing
+neutral|adj.|not taking sides|academic,discussion
+comprehensive|adj.|complete and detailed|academic,writing
+adjacent|adj.|next to|academic,description
+abundant|adj.|more than enough|academic,reading
+durable|adj.|long-lasting|academic,description
+ambiguous|adj.|unclear|academic,writing
+inevitable|adj.|certain to happen|academic,logic
+plausible|adj.|seemingly reasonable|academic,logic
+resilient|adj.|able to recover|academic,character
+crucial|adj.|extremely important|academic,reading
+conventional|adj.|following common practice|academic,society
+diverse|adj.|showing variety|academic,reading
+explicit|adj.|clearly stated|academic,writing
+gradual|adj.|happening slowly|academic,reading
+relevant|adj.|closely connected|academic,reading
+accurate|adj.|correct and exact|academic,math
+approximate|adj.|close but not exact|academic,math
+artificial|adj.|made by people|academic,science
+biological|adj.|related to living things|academic,science
+collective|adj.|done by a group|academic,society
+compact|adj.|small but complete|academic,description
+conscious|adj.|aware|academic,reading
+constant|adj.|not changing|academic,science
+domestic|adj.|within one country|academic,society
+empirical|adj.|based on observation|academic,research
+ethical|adj.|morally right|academic,discussion
+hostile|adj.|unfriendly|academic,society
+logical|adj.|reasonable in thought|academic,logic
+marginal|adj.|small or limited|academic,analysis
+minimal|adj.|very small|academic,description
+mutual|adj.|shared by two sides|academic,society
+negative|adj.|harmful or not positive|academic,discussion
+parallel|adj.|similar and developing together|academic,reading
+precise|adj.|exact|academic,math
+random|adj.|without a clear pattern|academic,science
+rational|adj.|based on reason|academic,logic
+remote|adj.|far away|academic,geography
+stable|adj.|steady and not changing|academic,science
+sufficient|adj.|enough|academic,reading
+temporary|adj.|lasting a short time|academic,description
+ultimate|adj.|final or most important|academic,reading
+unique|adj.|one of a kind|academic,description
+valid|adj.|well-based and acceptable|academic,logic
+visible|adj.|able to be seen|academic,science
+abstract|adj.|dealing with ideas not concrete things|academic,reading
+acute|adj.|serious or sharp|academic,reading
+brief|adj.|short in time or words|academic,writing
+capable|adj.|having ability|academic,character
+civil|adj.|polite or related to citizens|academic,society
+complex|adj.|having many parts|academic,reading
+critical|adj.|very important or analytical|academic,writing
+efficient|adj.|working well without waste|academic,analysis
+frequent|adj.|happening often|academic,reading
+internal|adj.|inside|academic,science
+intense|adj.|very strong|academic,reading
+accordingly|adv.|in a suitable way|academic,writing
+adequately|adv.|well enough|academic,writing
+approximately|adv.|about but not exactly|academic,math
+consequently|adv.|as a result|academic,writing
+consistently|adv.|in the same way over time|academic,analysis
+deliberately|adv.|on purpose|academic,reading
+eventually|adv.|in the end|academic,reading
+frequently|adv.|often|academic,reading
+generally|adv.|usually|academic,writing
+gradually|adv.|slowly over time|academic,reading
+historically|adv.|in terms of history|academic,history
+initially|adv.|at first|academic,writing
+merely|adv.|only|academic,reading
+normally|adv.|in the usual way|academic,science
+partially|adv.|not completely|academic,analysis
+primarily|adv.|mainly|academic,writing
+relatively|adv.|compared with something else|academic,reading
+significantly|adv.|in an important way|academic,writing
+subsequently|adv.|after that|academic,writing
+virtually|adv.|almost|academic,reading
+infer|v.|draw a conclusion|academic,reading
+mitigate|v.|make less severe|academic,analysis
+convey|v.|communicate|academic,writing
+validate|v.|confirm|academic,research
+simulate|v.|imitate conditions|academic,science
+classify|v.|arrange into groups|academic,analysis
+monitor|v.|watch over time|academic,research
+revise|v.|change for improvement|academic,writing
+synthesize|v.|combine into a whole|academic,writing
+dominate|v.|control strongly|academic,reading
+bias|n.|unfair preference|academic,discussion
+dilemma|n.|difficult choice|academic,reading
+ideology|n.|system of ideas|academic,society
+literacy|n.|ability to read and write|academic,education
+priority|n.|something treated as more important|academic,planning
+rationale|n.|reasoning behind something|academic,writing
+scope|n.|range|academic,analysis
+sector|n.|part of society or economy|academic,society
+shift|n.|change|academic,reading
+theme|n.|main subject|academic,literature

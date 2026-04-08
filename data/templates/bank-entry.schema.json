@@ -1,0 +1,67 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "VocabMaster Bank Entry",
+  "type": "object",
+  "required": ["id", "word", "displayWord", "phonetic", "mean", "pos", "level", "tags", "example", "exampleZh", "synonyms", "distractors", "source", "updatedAt"],
+  "properties": {
+    "id": {
+      "type": "string",
+      "pattern": "^[a-z0-9]+-[0-9]{4}$"
+    },
+    "word": {
+      "type": "string",
+      "minLength": 1
+    },
+    "displayWord": {
+      "type": "string",
+      "minLength": 1
+    },
+    "phonetic": {
+      "type": "string"
+    },
+    "mean": {
+      "type": "string",
+      "minLength": 1
+    },
+    "pos": {
+      "type": "string",
+      "enum": ["n.", "v.", "adj.", "adv."]
+    },
+    "level": {
+      "type": "string",
+      "enum": ["core", "extended", "review"]
+    },
+    "tags": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    },
+    "example": {
+      "type": "string"
+    },
+    "exampleZh": {
+      "type": "string"
+    },
+    "synonyms": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    },
+    "distractors": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    },
+    "source": {
+      "type": "string"
+    },
+    "updatedAt": {
+      "type": "string",
+      "pattern": "^\\d{4}-\\d{2}-\\d{2}$"
+    }
+  },
+  "additionalProperties": false
+}

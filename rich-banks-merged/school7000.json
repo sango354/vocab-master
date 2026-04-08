@@ -1,0 +1,392 @@
+﻿[
+    {
+        "id":  "school7000-0001",
+        "word":  "ephemeral",
+        "displayWord":  "Ephemeral",
+        "phonetic":  "/ephemeral/",
+        "mean":  "short-lived",
+        "pos":  "adj.",
+        "level":  "core",
+        "tags":  [
+                     "academic",
+                     "reading"
+                 ],
+        "example":  "Trends on social media can be ephemeral.",
+        "exampleZh":  "Put a Traditional Chinese translation here.",
+        "synonyms":  [
+                         "brief",
+                         "temporary"
+                     ],
+        "distractors":  [
+                            "formal",
+                            "reliable",
+                            "patient"
+                        ],
+        "source":  "internal",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "school7000-0002",
+        "word":  "ubiquitous",
+        "displayWord":  "Ubiquitous",
+        "phonetic":  "/ubiquitous/",
+        "mean":  "found everywhere",
+        "pos":  "adj.",
+        "level":  "core",
+        "tags":  [
+                     "academic",
+                     "reading"
+                 ],
+        "example":  "Smartphones are ubiquitous in modern life.",
+        "exampleZh":  "",
+        "synonyms":  [
+                         "widespread",
+                         "omnipresent"
+                     ],
+        "distractors":  [
+                            "formal",
+                            "patient",
+                            "reliable"
+                        ],
+        "source":  "internal",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "school7000-0003",
+        "word":  "resilient",
+        "displayWord":  "Resilient",
+        "phonetic":  "/resilient/",
+        "mean":  "able to recover",
+        "pos":  "adj.",
+        "level":  "core",
+        "tags":  [
+                     "academic",
+                     "character"
+                 ],
+        "example":  "Young children are often resilient after setbacks.",
+        "exampleZh":  "",
+        "synonyms":  [
+                         "tough",
+                         "adaptable"
+                     ],
+        "distractors":  [
+                            "formal",
+                            "accurate",
+                            "crowded"
+                        ],
+        "source":  "internal",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "school7000-0004",
+        "word":  "mitigate",
+        "displayWord":  "Mitigate",
+        "phonetic":  "/mitigate/",
+        "mean":  "make less severe",
+        "pos":  "v.",
+        "level":  "core",
+        "tags":  [
+                     "academic",
+                     "analysis"
+                 ],
+        "example":  "Good planning can mitigate some risks.",
+        "exampleZh":  "",
+        "synonyms":  [
+                         "reduce",
+                         "ease"
+                     ],
+        "distractors":  [
+                            "submit",
+                            "repair",
+                            "compare"
+                        ],
+        "source":  "internal",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "school7000-0005",
+        "word":  "ambiguous",
+        "displayWord":  "Ambiguous",
+        "phonetic":  "/ambiguous/",
+        "mean":  "unclear",
+        "pos":  "adj.",
+        "level":  "core",
+        "tags":  [
+                     "academic",
+                     "writing"
+                 ],
+        "example":  "His answer was too ambiguous to grade easily.",
+        "exampleZh":  "",
+        "synonyms":  [
+                         "vague",
+                         "uncertain"
+                     ],
+        "distractors":  [
+                            "formal",
+                            "reliable",
+                            "efficient"
+                        ],
+        "source":  "internal",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "school7000-0006",
+        "word":  "inevitable",
+        "displayWord":  "Inevitable",
+        "phonetic":  "/inevitable/",
+        "mean":  "certain to happen",
+        "pos":  "adj.",
+        "level":  "core",
+        "tags":  [
+                     "academic",
+                     "logic"
+                 ],
+        "example":  "Some changes are inevitable over time.",
+        "exampleZh":  "",
+        "synonyms":  [
+                         "unavoidable",
+                         "certain"
+                     ],
+        "distractors":  [
+                            "reliable",
+                            "patient",
+                            "convenient"
+                        ],
+        "source":  "internal",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "school7000-0007",
+        "word":  "plausible",
+        "displayWord":  "Plausible",
+        "phonetic":  "/plausible/",
+        "mean":  "seemingly reasonable",
+        "pos":  "adj.",
+        "level":  "core",
+        "tags":  [
+                     "academic",
+                     "logic"
+                 ],
+        "example":  "Her explanation sounded plausible at first.",
+        "exampleZh":  "",
+        "synonyms":  [
+                         "believable",
+                         "credible"
+                     ],
+        "distractors":  [
+                            "formal",
+                            "patient",
+                            "crowded"
+                        ],
+        "source":  "internal",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "school7000-0008",
+        "word":  "convey",
+        "displayWord":  "Convey",
+        "phonetic":  "/convey/",
+        "mean":  "communicate",
+        "pos":  "v.",
+        "level":  "extended",
+        "tags":  [
+                     "academic",
+                     "writing"
+                 ],
+        "example":  "The essay conveys a clear point of view.",
+        "exampleZh":  "",
+        "synonyms":  [
+                         "express",
+                         "deliver"
+                     ],
+        "distractors":  [
+                            "confirm",
+                            "repair",
+                            "delay"
+                        ],
+        "source":  "internal",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "school7000-0009",
+        "word":  "abundant",
+        "displayWord":  "Abundant",
+        "phonetic":  "/abundant/",
+        "mean":  "more than enough",
+        "pos":  "adj.",
+        "level":  "extended",
+        "tags":  [
+                     "academic",
+                     "reading"
+                 ],
+        "example":  "The region has abundant natural resources.",
+        "exampleZh":  "",
+        "synonyms":  [
+                         "plentiful",
+                         "ample"
+                     ],
+        "distractors":  [
+                            "formal",
+                            "patient",
+                            "efficient"
+                        ],
+        "source":  "internal",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "school7000-0010",
+        "word":  "infer",
+        "displayWord":  "Infer",
+        "phonetic":  "/infer/",
+        "mean":  "draw a conclusion",
+        "pos":  "v.",
+        "level":  "core",
+        "tags":  [
+                     "academic",
+                     "reading"
+                 ],
+        "example":  "Readers can infer the meaning from context.",
+        "exampleZh":  "",
+        "synonyms":  [
+                         "deduce",
+                         "conclude"
+                     ],
+        "distractors":  [
+                            "submit",
+                            "compare",
+                            "cancel"
+                        ],
+        "source":  "internal",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "school7000-0011",
+        "word":  "durable",
+        "displayWord":  "Durable",
+        "phonetic":  "/durable/",
+        "mean":  "long-lasting",
+        "pos":  "adj.",
+        "level":  "extended",
+        "tags":  [
+                     "academic",
+                     "description"
+                 ],
+        "example":  "This material is both light and durable.",
+        "exampleZh":  "",
+        "synonyms":  [
+                         "sturdy",
+                         "lasting"
+                     ],
+        "distractors":  [
+                            "crowded",
+                            "formal",
+                            "accurate"
+                        ],
+        "source":  "internal",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "school7000-0012",
+        "word":  "prestige",
+        "displayWord":  "Prestige",
+        "phonetic":  "/prestige/",
+        "mean":  "high status",
+        "pos":  "n.",
+        "level":  "extended",
+        "tags":  [
+                     "academic",
+                     "society"
+                 ],
+        "example":  "The university has international prestige.",
+        "exampleZh":  "",
+        "synonyms":  [
+                         "status",
+                         "reputation"
+                     ],
+        "distractors":  [
+                            "budget",
+                            "bill",
+                            "discount"
+                        ],
+        "source":  "internal",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "school7000-0013",
+        "word":  "compile",
+        "displayWord":  "Compile",
+        "phonetic":  "/compile/",
+        "mean":  "collect into one work",
+        "pos":  "v.",
+        "level":  "extended",
+        "tags":  [
+                     "academic",
+                     "writing"
+                 ],
+        "example":  "She compiled the notes into a study guide.",
+        "exampleZh":  "",
+        "synonyms":  [
+                         "assemble",
+                         "gather"
+                     ],
+        "distractors":  [
+                            "repair",
+                            "delay",
+                            "confirm"
+                        ],
+        "source":  "internal",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "school7000-0014",
+        "word":  "validate",
+        "displayWord":  "Validate",
+        "phonetic":  "/validate/",
+        "mean":  "confirm",
+        "pos":  "v.",
+        "level":  "extended",
+        "tags":  [
+                     "academic",
+                     "research"
+                 ],
+        "example":  "The experiment helped validate the theory.",
+        "exampleZh":  "",
+        "synonyms":  [
+                         "verify",
+                         "confirm"
+                     ],
+        "distractors":  [
+                            "submit",
+                            "cancel",
+                            "repair"
+                        ],
+        "source":  "internal",
+        "updatedAt":  "2026-04-08"
+    },
+    {
+        "id":  "school7000-0015",
+        "word":  "adjacent",
+        "displayWord":  "Adjacent",
+        "phonetic":  "/adjacent/",
+        "mean":  "next to",
+        "pos":  "adj.",
+        "level":  "extended",
+        "tags":  [
+                     "academic",
+                     "description"
+                 ],
+        "example":  "The lab is adjacent to the library.",
+        "exampleZh":  "",
+        "synonyms":  [
+                         "nearby",
+                         "neighboring"
+                     ],
+        "distractors":  [
+                            "temporary",
+                            "accurate",
+                            "formal"
+                        ],
+        "source":  "internal",
+        "updatedAt":  "2026-04-08"
+    }
+]

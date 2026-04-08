@@ -1,0 +1,17 @@
+[
+  { "word": "Implement", "phonetic": "/implement/", "mean": "carry out", "pos": "v." },
+  { "word": "Revenue", "phonetic": "/revenue/", "mean": "income", "pos": "n." },
+  { "word": "Commute", "phonetic": "/commute/", "mean": "travel to work", "pos": "v." },
+  { "word": "Negotiate", "phonetic": "/negotiate/", "mean": "discuss terms", "pos": "v." },
+  { "word": "Compensate", "phonetic": "/compensate/", "mean": "make up for", "pos": "v." },
+  { "word": "Proposal", "phonetic": "/proposal/", "mean": "formal plan", "pos": "n." },
+  { "word": "Evaluate", "phonetic": "/evaluate/", "mean": "assess", "pos": "v." },
+  { "word": "Deadline", "phonetic": "/deadline/", "mean": "due date", "pos": "n." },
+  { "word": "Maintain", "phonetic": "/maintain/", "mean": "keep in good condition", "pos": "v." },
+  { "word": "Schedule", "phonetic": "/schedule/", "mean": "timetable", "pos": "n." },
+  { "word": "Client", "phonetic": "/client/", "mean": "customer", "pos": "n." },
+  { "word": "Efficient", "phonetic": "/efficient/", "mean": "productive", "pos": "adj." },
+  { "word": "Budget", "phonetic": "/budget/", "mean": "spending plan", "pos": "n." },
+  { "word": "Submit", "phonetic": "/submit/", "mean": "hand in", "pos": "v." },
+  { "word": "Contract", "phonetic": "/contract/", "mean": "agreement", "pos": "n." }
+]

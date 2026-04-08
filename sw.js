@@ -1,10 +1,14 @@
-const CACHE_NAME = 'vocab-cache-v1';
+const CACHE_NAME = 'vocab-cache-v8';
 const urlsToCache = [
   './',
   './index.html',
   './style.css',
+  './bank-config.js',
+  './db.js',
   './app.js',
-  './data.js',
+  './rich-banks-release/toeic.json',
+  './rich-banks-release/school7000.json',
+  './rich-banks-release/dailyLife.json',
   './manifest.json',
   'https://fonts.googleapis.com/css2?family=Inter:wght@400;600;800&display=swap'
 ];
@@ -15,6 +19,18 @@ self.addEventListener('install', event => {
       .then(cache => {
         return cache.addAll(urlsToCache);
       })
+  );
+});
+
+self.addEventListener('activate', event => {
+  event.waitUntil(
+    caches.keys().then(cacheNames =>
+      Promise.all(
+        cacheNames
+          .filter(cacheName => cacheName !== CACHE_NAME)
+          .map(cacheName => caches.delete(cacheName))
+      )
+    )
   );
 });
 
