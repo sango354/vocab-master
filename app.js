@@ -39,13 +39,13 @@ let storageReady = false;
 const MAX_SESSION_WORDS = 10;
 const MASTERED_SCORE = 4;
 const REVIEW_SCORE = 0;
-const ROUND_SIZE = 4;
-const RETRY_DELAY_ROUNDS = 1;
-const REPEAT_COOLDOWN_ROUNDS = 2;
+const ROUND_SIZE = 10;
+const RETRY_DELAY_ROUNDS = 2;
+const REPEAT_COOLDOWN_ROUNDS = 5;
 const POOL_WEIGHTS = {
-  new: 70,
-  learning: 20,
-  review: 10
+  new: 90,
+  learning: 5,
+  review: 5
 };
 
 function createEmptySessionStats() {
