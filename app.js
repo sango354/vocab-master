@@ -315,13 +315,7 @@ function buildDistractorPool(wordObj, bank) {
   const preferredPool = Array.isArray(wordObj.distractors)
     ? wordObj.distractors.map(item => ({ value: item, label: getMeaningLabel(item) }))
     : [];
-
-  const genericPool = (distractorBank[wordObj.pos] || []).map(item => ({
-    value: item,
-    label: getMeaningLabel(item)
-  }));
-
-  const merged = [...preferredPool, ...sameBankPool, ...genericPool];
+  const merged = [...preferredPool, ...sameBankPool];
   const deduped = [];
   const seen = new Set([wordObj.mean]);
 
@@ -502,7 +496,7 @@ function handleOptionClick(btn, isCorrect) {
   speakWord();
   sessionStats.attempts += 1;
 
-  const allBtns = document.querySelectorAll(".option-btn");
+  const allBtns = optionsContainer.querySelectorAll(".option-btn");
 
   if (isCorrect) {
     sessionStats.correct += 1;
